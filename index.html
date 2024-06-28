@@ -1,3 +1,6 @@
+---
+---
+<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -5,36 +8,35 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-  <title>Quinn Michaels Official Website</title>
+  <title>{{site.title}}</title>
 
-  <meta name="description" content="The Official Website of Quinn Michaels developer of the indra.ai Quantum Computing Environment."/>
+  <meta name="description" content="{{site.describe}}"/>
 
-  <meta property="og:site_name" content="Quinn Michaels">
-  <meta property="og:title" content="Quinn Michaels Official Website">
-  <meta property="og:description" content="The Official Website of Quinn Michaels developer of the indra.ai Quantum Computing Environment.">
+  <meta property="og:site_name" content="{{site.name}}">
+  <meta property="og:title" content="{{site.title}}">
+  <meta property="og:description" content="{{site.describe}}">
 
-  <meta property="og:image" content="https://quinnmichaels.com/assets/img/gallery/slide-02.jpg">
-  <meta property="og:url" content="https://quinnmichaels.com">
+  <meta property="og:image" content="{{site.image}}">
+  <meta property="og:url" content="{{site.url}}">
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image:alt" content="Indra Quantum Computing Environment #IQCE with The Evolution Engine Autonomous Multi-Agent System #TEEAMS.">
+  <meta name="twitter:image:alt" content="{{site.describe}}">
   <meta name="twitter:site" content="@quinnmichaels">
 
-	<script src="https://use.typekit.net/dds5scw.js"></script>
-	<script>try{Typekit.load();}catch(e){}</script>
+  <link rel="stylesheet" href="https://use.typekit.net/dds5scw.css">
 
 	<link href="assets/css/lib.css" rel="stylesheet" type="text/css">
 	<link href="assets/css/app.css" rel="stylesheet" type="text/css">
 
 </head>
 <body>
+  <header class="aio-header" data-layout="header"></header>
 
-    <header class="aio-header" data-layout="header"></header>
-  	<main class="aio-main" data-layout="index"></main>
-  	<main class="aio-modal"></main>
-  	<footer class="aio-footer" data-layout="footer"></header>
+	<main class="aio-main" data-layout="index"></main>
+	<main class="aio-modal"></main>
+	<footer class="aio-footer" data-layout="footer"></header>
 
-  	<script src="assets/js/app.js"></script>
+	<script src="assets/js/app.js"></script>
 
 </body>
 </html>
