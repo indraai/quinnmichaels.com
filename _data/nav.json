@@ -2,25 +2,5 @@
   {
     "name": "Home",
     "link": "/"
-  },
-  {
-    "name": "Work",
-    "link": "/work"
-  },
-  {
-    "name": "Art",
-    "link": "/art"
-  },
-  {
-    "name": "Video",
-    "link": "/instructions"
-  },
-  {
-    "name": "Resume",
-    "link": "/resume"
-  },
-  {
-    "name": "Contact",
-    "link": "/contact"
   }
 ]

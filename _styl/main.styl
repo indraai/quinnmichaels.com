@@ -1,0 +1,115 @@
+@import "root"
+@import "icons"
+@import "buttons"
+@import "global"
+@import "header"
+@import "footer"
+@import "menu"
+@import "posts"
+@import "widget"
+@import "monokai"
+
+main
+  margin: auto
+  max-width: $page.width
+  padding: 0
+  display: flex
+  flex-flow: column
+  flex: 1
+  img
+    max-width: 100%
+
+.page
+.share
+  max-width: $page.width - 200
+
+.air
+.wind
+  color: $colors.white
+
+.thought
+.srotriya
+  color: $colors.purple
+
+.deed
+.brahman
+.dear
+  color: $colors.orange
+
+.divine
+.earth
+.vaisya
+.envy
+  color: $colors.green
+
+.goodness
+.water
+  color: $colors.baby-blue
+
+.passion
+.word
+.ether
+.space
+.kshatriya
+.thinking
+  color: $colors.yellow
+
+.ignorance
+.demonic
+.fire
+.sudra
+.desire
+  color: $colors.red
+
+$x = {
+  size: 20px
+}
+
+.share
+  margin: auto
+  display: flex
+  justify-content: center
+  .quote
+    flex: 1
+    line-height: .9
+    padding: 1rem
+    font-size: 2rem
+    color: $colors.grey
+    padding: 2rem 2rem 1rem 2rem
+  .buttons
+    display: flex
+    flex-flow: row nowrap
+    align-items: center
+    .x
+      font-size: 1rem
+      background-color: $colors.black
+      padding: .5rem 1rem
+      display: flex
+      align-items: center
+      &::before
+        display: inline-block
+        width: $x.size
+        height: $x.size
+        content: " "
+        margin-right: .5rem
+        background-image: url(/assets/img/x-logo/logo-small-white.png)
+        background-repeat: no-repeat
+        background-size: 100% auto
+
+.algo-props
+  display: flex
+  flex-flow: row nowrap
+  list-style: none
+  margin: 0
+  padding: 0
+  li
+    padding: .5rem
+    display: flex
+    flex-flow: column nowrap
+    .emoji
+      align-self: center
+      font-size: 3.5rem
+    .title
+      text-transform: capitalize
+      font-size: 1.25rem
+      font-weight: bold

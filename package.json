@@ -4,6 +4,7 @@
   "description": "quinnmichaels.com site",
   "main": "index.js",
   "scripts": {
+    "style": "stylus -w _styl/main.styl -o assets/css/main.css -c",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,5 +27,8 @@
     "@fastify/static": "^6.5.0",
     "axios": "^1.1.3",
     "fastify": "^4.9.2"
+  },
+  "dependencies": {
+    "stylus": "^0.63.0"
   }
 }
