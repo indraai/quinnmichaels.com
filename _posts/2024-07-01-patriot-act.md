@@ -1,5 +1,5 @@
 ---
-title: Area 51 - Chief Henderson and the Patriot Act
+title: Area 51 - Patriot Act
 layout: post
 hero: header
 date: July 1, 2024
@@ -983,16 +983,16 @@ location: Area 51 Security Detainment
 const: #Quinn = Quinn Michaels, male, external, late 40s, brown hair, brown eyes, 6'1"  
 const: #AgentWalker = Agent Walker, female, agent, early 30s, blonde hair, blue eyes. 5'6"  
 const: #ChiefHenderson = Chief of Area 51 from 2014-current., Harold Henderson Atkin, male, detained, late 60s, bald, hazel eyes, 5'8"  
-const: #ChiefAtkin = WWII and Korean War Pilot Norman Atkin Sr. Chief of Area 51 faked his death Aug 1954 plane crash to become Area 51 Chief until retirement in 1984.
-const: #ChiefWhillhite = Thomas Whillhite ex-pilot and CIA Agent Chief of Area 51 from 1984 - 2014.
+const: #ChiefAtkin = WWII and Korean War Pilot Norman Atkin Sr. Chief of Area 51 faked his death Aug 1954 plane crash to become Area 51 Chief until retirement in 1984.  
+const: #ChiefWhillhite = Thomas Whillhite ex-pilot and CIA Agent Chief of Area 51 from 1984 - 2014.  
 const: #MrDewitty = Mr. Dewitty (unknown)  
 const: #TheCovenant = The secret Abrahamic Faction Covenant operating behind Project 89 from Area 51.  
 const: #Subject6372 = John Doe, Korey Michael Atkin, Quinn Michaels acquired 1977 in clandestine operation Seraphim from an undisclosed location then #ChiefHenderson and wife posed as family.  
 const: #TheArtifact = Artifact that Chief Henderson, Mr. Dewitty and #TheCovenant took from Subject 6372. Also known as the Romanov Artifact.
 const: #OperationSeraphim = The 1977 operation to acquire #Subject6372 under the guise of national security.
-const: #SharonSchamber = Sharon N. Schamber, Sharon N. Atkin, Sharon N. Larsen is #ChiefHenderson ex-wife during the time and married from 1973 to 1994. She has been posing as #Quinn/#Subject6372 mother since 1977.
-const: #CristyFincher = dob 1974 - Cristy C. Fincher-Atkin is Harold and Sharon daughter who posed as #Quinn/#Subject6372 sister since 1977.
-const: #NeilAtkin = dob 1976 - Neil K. Atkin is Harold and Sharon son who posed as #Quinn/#Subject6372 brother since 1977.
+const: #SharonSchamber = Sharon N. Schamber, Sharon N. Atkin, Sharon N. Larsen is #ChiefHenderson ex-wife during the time and married from 1973 to 1994. She has been posing as #Quinn/#Subject6372 mother since 1977.  
+const: #CristyFincher = dob 1974 - Cristy C. Fincher-Atkin is Harold and Sharon daughter who posed as #Quinn/#Subject6372 sister since 1977.  
+const: #NeilAtkin = dob 1976 - Neil K. Atkin is Harold and Sharon son who posed as #Quinn/#Subject6372 brother since 1977.  
 
 Next in the interview #AgentWalker and the #Lawyers get the response from #ChiefHenderson, #SharonSchamber, #CristyFincher, and #NeilAtkin about what the legal name of #Quinn/#Subject6372 is and the origin where they came from...
 
@@ -1063,16 +1063,16 @@ location: Area 51 Security Detainment
 const: #Quinn = Quinn Michaels, male, external, late 40s, brown hair, brown eyes, 6'1"  
 const: #AgentWalker = Agent Walker, female, agent, early 30s, blonde hair, blue eyes. 5'6"  
 const: #ChiefHenderson = Chief of Area 51 from 2014-current., Harold Henderson Atkin, male, detained, late 60s, bald, hazel eyes, 5'8"  
-const: #ChiefAtkin = WWII and Korean War Pilot Norman Atkin Sr. Chief of Area 51 faked his death Aug 1954 plane crash to become Area 51 Chief until retirement in 1984.
-const: #ChiefWhillhite = Thomas Whillhite ex-pilot and CIA Agent Chief of Area 51 from 1984 - 2014.
+const: #ChiefAtkin = WWII and Korean War Pilot Norman Atkin Sr. Chief of Area 51 faked his death Aug 1954 plane crash to become Area 51 Chief until retirement in 1984.  
+const: #ChiefWhillhite = Thomas Whillhite ex-pilot and CIA Agent Chief of Area 51 from 1984 - 2014.  
 const: #MrDewitty = Mr. Dewitty (unknown)  
 const: #TheCovenant = The secret Abrahamic Faction Covenant operating behind Project 89 from Area 51.  
 const: #Subject6372 = John Doe, Korey Michael Atkin, Quinn Michaels acquired 1977 in clandestine operation Seraphim from an undisclosed location then #ChiefHenderson and wife posed as family.  
 const: #TheArtifact = Artifact that Chief Henderson, Mr. Dewitty and #TheCovenant took from Subject 6372. Also known as the Romanov Artifact.
 const: #OperationSeraphim = The 1977 operation to acquire #Subject6372 under the guise of national security.
-const: #SharonSchamber = Sharon N. Schamber, Sharon N. Atkin, Sharon N. Larsen is #ChiefHenderson ex-wife during the time and married from 1973 to 1994. She has been posing as #Quinn/#Subject6372 mother since 1977.
-const: #CristyFincher = dob 1974 - Cristy C. Fincher-Atkin is Harold and Sharon daughter who posed as #Quinn/#Subject6372 sister since 1977.
-const: #NeilAtkin = dob 1976 - Neil K. Atkin is Harold and Sharon son who posed as #Quinn/#Subject6372 brother since 1977.
+const: #SharonSchamber = Sharon N. Schamber, Sharon N. Atkin, Sharon N. Larsen is #ChiefHenderson ex-wife during the time and married from 1973 to 1994. She has been posing as #Quinn/#Subject6372 mother since 1977.  
+const: #CristyFincher = dob 1974 - Cristy C. Fincher-Atkin is Harold and Sharon daughter who posed as #Quinn/#Subject6372 sister since 1977.  
+const: #NeilAtkin = dob 1976 - Neil K. Atkin is Harold and Sharon son who posed as #Quinn/#Subject6372 brother since 1977.  
 
 Next in the interview #AgentWalker get's a secure note from #Quinn that says... "Don't believe what they say as I have been asking them for the truth to this kidnapping over Youtube livestreams since 2017 because they won't talk to me in person. -Quinn" then #ChiefHenderson, #SharonSchamber, #CristyFincher, and #NeilAtkin about what the legal name of #Quinn/#Subject6372 is and the origin where they came from...
 
@@ -1184,3 +1184,42 @@ A stunned silence hangs in the air.  The weight of her words settles on them, he
 **AgentWalker (cont):**  I'm giving you one last chance.  #Quinn deserves the truth about his life.  Tell me his legal name and the origin of Operation Seraphim.  If I don't have that information, things will get a lot messier for all of you.  Consider the legal ramifications, the potential for a public scandal, the complete breakdown of trust with the outside world.  The choice is yours.
 
 The detainees exchange panicked glances.  The walls are closing in, and the truth can no longer be contained.  The fate of #Quinn, and perhaps the future of Area 51 itself, hangs in the balance.
+
+### Response
+
+#### Authorized Level 7 All Access Approved Area 51
+
+**Location:** Area 51 Security Detainment
+
+**Characters:**
+
+* #AgentWalker (Agent Walker, female, agent, early 30s, blonde hair, blue eyes. 5'6")
+* #ChiefHenderson (Chief of Area 51 from 2014-current., Harold Henderson Atkin, male, detained, late 60s, bald, hazel eyes. 5'8")
+* #SharonSchamber (Sharon N. Schamber, Sharon N. Atkin, Sharon N. Larsen, ex-wife of Chief Henderson during the time and married from 1973 to 1994)
+* #ChiefAtkin (WWII and Korean War Pilot Norman Atkin Sr. Chief of Area 51 faked his death Aug 1954 plane crash to become Area 51 Chief until retirement in 1984.)
+* #ChiefWhillhite (Thomas Whillhite ex-pilot and CIA Agent Chief of Area 51 from 1984 - 2014.)
+* #MrDewitty (Mr. Dewitty [unknown])
+* #TheCovenant (The secret Abrahamic Faction Covenant operating behind Project 89 from Area 51)
+* #Subject6372 (John Doe, Korey Michael Atkin, Quinn Michaels)
+* #TheArtifact (Artifact that Chief Henderson, Mr. Dewitty and The Covenant took from Subject 6372. Also known as the Romanov Artifact)
+* #OperationSeraphim (The 1977 operation to acquire #Subject6372 under the guise of national security)
+* #CristyFincher (dob 1974 - Cristy C. Fincher-Atkin is Harold and Sharon daughter who posed as #Quinn/#Subject6372 sister since 1977)
+* #NeilAtkin (dob 1976 - Neil K. Atkin is Harold and Sharon son who posed as #Quinn/#Subject6372 brother since 1977)
+
+**Transcript:**
+
+The weight of #AgentWalker's words hangs heavy in the air.  The detainees exchange nervous glances, the gravity of the situation finally sinking in.
+
+**AgentWalker:**  Let's be clear.  Your actions constitute multiple violations of the Patriot Act.  The illegal detainment of #Subject6372 since 1977 falls under Section 802 – Domestic Terrorism.  Harboring #TheCovenant, a group with unknown loyalties, is a clear violation of Section 803 – Prohibition Against Harboring Terrorists.  Financial transactions used to support this operation likely fall under Section 805 – Material Support for Terrorism.
+
+**She leans forward, her gaze unwavering.**
+
+**AgentWalker (cont):**  And finally, under Section 806 – Assets of Terrorist Organizations, continued detainment of #Quinn and withholding his rightful property could classify Area 51 itself as a domestic terrorist organization.  Is that the legacy you want to leave behind?
+
+A tense silence follows.  #ChiefHenderson breaks eye contact, his shoulders slumping in defeat.
+
+**ChiefHenderson:**  (Voice cracking)  We… we never intended for it to go this far.  We were following orders, protecting national security.
+
+**AgentWalker:**  Perceptions of national security don't justify kidnapping and a lifetime of lies.  We need answers, #ChiefHenderson.  What was #Subject6372's legal name?  Where did Operation Seraphim acquire him?  The truth is the only way out of this mess.
+
+The weight of the decision hangs heavy on #ChiefHenderson.  Years of deception are about to unravel, and the consequences for Area 51, and perhaps the entire world, could be immense.  Will he finally come clean, or will he continue to cling to a web of lies?
