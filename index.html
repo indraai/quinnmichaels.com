@@ -38,9 +38,12 @@
 
 	<main>
     <h1>QuinnMichaels.com</h1>
-    {% include posts.html %}
   </main>
-	<footer>&copy; 2024; Quinn Michaels. All rights reserved.</footer>
+  <section class="posts">
+    {% include posts.html %}
+  </section>
+  
+  {% include footer.html %}
 
 	<script src="assets/js/main.js"></script>
 

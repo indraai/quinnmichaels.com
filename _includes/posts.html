@@ -1,5 +1,5 @@
 {% for post in site.posts %}
-  <section class="post">
+  <article class="post">
     <h3><a href="{{ post.url }}">{{post.title}}</a></h3>
     <dl>
       <dt>author</dt>
@@ -10,5 +10,5 @@
     <article class="excerpt">
       {{post.excerpt}}
     </article>
-  </section>
+  </article>
 {% endfor %}
