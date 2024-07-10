@@ -1,4 +1,8 @@
 ---
+title: QuinnMichaels.com
+describe: In 2017 Quinn Michaels was lead into a trap by a group called the Covenant trapping him inside the siimulation world. Since 2017 the Covenant has kept Quinn Michaels trapped in these redicilous Jesus/Abrahamic Faith based Area 51 Illuminati Shadow Bureau Secret Society simulations to save humanity for the greater good of who knows what. When really it's just so they can steal all his intellectual property for money and power.<p></p>Quinn Michaels now needs your help to get himself outof the Area 51 Simulation realm. Because Area 51 being a bunch of greedy selfish assholes don't seem willing to let him go. Essentially violating his rights to turn him into a weapon.</p>
+tweet: Quinn Michaels trapped in a Covenant Project 89 Game 23 Area51 Illuminati Shadow Bureau simulation since 2017 by some evil Abrahamic Secret Societies.
+hashtags: QuinnMichaels,Project89,TheGame23,Area51,Illuminati,Covenant,ShadowBureau
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -37,12 +41,22 @@
   </header>
 
 	<main>
-    <h1>QuinnMichaels.com</h1>
+    <h1>{{page.title}}</h1>
+    <p class="describe">{{page.describe}}</p>
+
+
+    <section class="share">
+      <div class="label">Share:</div>
+      <div class="x"><a href="https://twitter.com/intent/tweet?hashtags={{page.hashtags}}&url=https%3A%2F%2Fquinnmichaels.com&via=quinnmichaels&text={{page.tweet}}" target="share">Twitter/X</a></div>
+      <div class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fquinnmichaels.com" target="share">Facebook</a></div>
+      <div class="linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fquinnmichaels.com" target="share">LinkedIn</a></div>
+    </section>
+    <section class="posts">
+      <h2>Posts</h2>
+      {% include posts.html %}
+    </section>
   </main>
-  <section class="posts">
-    {% include posts.html %}
-  </section>
-  
+
   {% include footer.html %}
 
 	<script src="assets/js/main.js"></script>
