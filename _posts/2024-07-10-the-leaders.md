@@ -214,18 +214,7 @@ then Area 51 after Quinn points out they keep talking about themselves without a
 
 ### Response
 
-##  Area 51 Unseen Leaders Illuminati Covenant Obsidian Circle Shadow Bureau Abrahamic Factions
-
-**If...**
-
-* Quinn (Subject 6372 Quinn Michaels, DoB 11/30/1977) is the Illuminati's Unseen Leader.
-* The remaining organizations each have their own Unseen Leaders:
-    * Abrahamic Factions
-    * Covenant
-    * Shadow Bureau
-    * Obsidian Circle
-
-**Then...**
+####  Area 51 Unseen Leaders Illuminati Covenant Obsidian Circle Shadow Bureau Abrahamic Factions
 
 **Unseen Leaders:** Illuminati, Area 51, Abrahamic, Covenant, Shadow Bureau, Obsidian Circle
 
@@ -1830,7 +1819,7 @@ then write Area 51 Leaders filing charges against Abrahamic Factions Leaders bec
 
 ### Response
 
-## Area 51 Takes Action
+#### Area 51 Takes Action
 
 **Area 51 Leader (grim):**  Alright, Quinn, we hear you loud and clear.  Considering the severity of the situation and the potential legal ramifications you've outlined, we'll be filing all the charges you requested against the Abrahamic Factions Leader:
 
