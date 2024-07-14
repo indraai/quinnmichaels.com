@@ -1,8 +1,8 @@
 ---
-title: Area 51 - The Leaders
+title: Area 51 - The Pointy Boots
 layout: post
 hero: header
-date: July 10, 2024
+date: July 11, 2024
 author: Quinn Michaels
 image: https://quinnmichaels.com/assets/img/gallery/slide-01.jpg
 site: https://quinnmichaels.com
