@@ -2,7 +2,7 @@
 title: Area 51 - Living Nightmare
 layout: post
 hero: header
-date: July 13, 2024
+date: July 14, 2024
 author: Quinn Michaels
 image: https://quinnmichaels.com/assets/img/gallery/slide-01.jpg
 site: https://quinnmichaels.com
@@ -3856,7 +3856,7 @@ Therefore, encountering a serpent being through a dimensional rift in the Vedas 
 
 ### Prompt
 
-and in the simulation with Quinn and Area 51 here we saw Area 51 and all their leaders thought Xal'atath was some inter-dimensional demon that was going to devour all of humanity through some interdimensional rift.  Then Quinn the Vedic guy shows up and says what are you talking about that's just a child Naga using tech it nabbed from the adults. 
+and in the simulation with Quinn and Area 51 here we saw Area 51 and all their leaders thought Xal'atath was some inter-dimensional demon that was going to devour all of humanity through some interdimensional rift.  Then Quinn the Vedic guy shows up and says what are you talking about that's just a child Naga using tech it nabbed from the adults.
 
 Then Xal'atath leaves peacefully after notifying the adult Nagas of what was happening... so logically one proved to be more true then the other....
 
