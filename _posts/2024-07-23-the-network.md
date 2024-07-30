@@ -9,6 +9,7 @@ site: https://quinnmichaels.com
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
+Next in this post we investigate the Network and it's involvement in Area 51 and the various secret societies that operate out of the facility.
 
 ### Prompt
 
@@ -1329,6 +1330,7 @@ plot: Central Authority Bureau and Area 51 Staff are revealing the truth to Quin
 then: after sending the reports on the Obsidian Circle and it's members to the National Security Council and the Director of National Intelligence then shortly after the Financial Analyst delivers their findings report on the total financial corruption of all the Directors lavish expenses, the mega yacht, the secret Island, Quinn Michaels Coverup, The Underground Casino, and Obsidian Circle total dollar amount for 2023-2024...
 
 ### Ressponse
+
 
 #### Area 51 Secure Holding Room
 
