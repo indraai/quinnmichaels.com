@@ -3,8 +3,10 @@ pre: Quinn Michaels
 title: Quinn's Singing Bowl Studio
 subtitle: Welcome to Quinn's Singing Bowl Studio
 describe: Immerse yourself in the soothing sounds of crystal and Tibetan singing bowls. Quinn Michaels offers an experience designed to promote relaxation, meditation, and healing. Discover the transformative power of sound therapy and explore our blog for insightful meditation practices.
-tweet: Immerse yourself in the soothing sounds of crystal and Tibetan singing bowls. Quinn Michaels offers an experience designed to promote relaxation, meditation, and healing.
+tweet: Immerse yourself in the soothing sounds of crystal and Tibetan singing bowls. Quinn Michaels offers an experience designed to promote relaxation, meditation, and healing
 hashtags: QuinnMichaels,SingingBowls,Meditation,SingingBowlStudio
+image: https://quinnmichaels.com/assets/headers/001.jpg
+color: var(--color-yellow)
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -36,23 +38,26 @@ hashtags: QuinnMichaels,SingingBowls,Meditation,SingingBowlStudio
 </head>
 <body>
   <header>
-    <div class="hero">
+    {% include nav.html %}
+    <div class="hero" style="--header-bg: url({{page.image}}); --header-color: {{page.color}};">
       <h1>{{page.title}}</h1>
       <p>{{page.subtitle}}</p>
     </div>
-    {% include nav.html %}
   </header>
 
 	<main>
     <h1>{{page.title}}</h1>
     <p class="describe">{{page.describe}}</p>
 
+    <section class="soundcloud">
+      <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1892556043&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/quinn-michaels-930800215" title="Quinn Michaels" target="_blank" style="color: #cccccc; text-decoration: none;">Quinn Michaels</a> · <a href="https://soundcloud.com/quinn-michaels-930800215/sets/ether" title="Ether" target="_blank" style="color: #cccccc; text-decoration: none;">Ether</a></div>
+    </section>
 
     <section class="share">
       <div class="label">Share:</div>
-      <div class="x"><a href="https://twitter.com/intent/tweet?hashtags={{page.hashtags}}&url=https%3A%2F%2Fquinnmichaels.com&via=quinnmichaels&text={{page.tweet}}" target="share">Twitter/X</a></div>
-      <div class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fquinnmichaels.com" target="share">Facebook</a></div>
-      <div class="linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fquinnmichaels.com" target="share">LinkedIn</a></div>
+      <div class="x"><a href="https://twitter.com/intent/tweet?hashtags={{page.hashtags}}&url={{page.url}}&via=quinnmichaels&text={{page.tweet}}" target="share">Twitter/X</a></div>
+      <div class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{page.url}}" target="share">Facebook</a></div>
+      <div class="linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&url={{page.url}}" target="share">LinkedIn</a></div>
     </section>
   </main>
 

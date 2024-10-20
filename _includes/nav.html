@@ -1,5 +1,6 @@
 <menu>
   <ul>
+    <li class="title">{{site.title}}</li>
     {% for nav in site.data.nav %}
       <li><a href="{{ nav.link }}">{{ nav.name }}</a></li>
     {% endfor %}
