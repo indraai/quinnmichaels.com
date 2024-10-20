@@ -2,5 +2,29 @@
   {
     "name": "Home",
     "link": "/"
+  },
+  {
+    "name": "Bowls",
+    "link": "/bowls"
+  },
+  {
+    "name": "Code",
+    "link": "/code"
+  },
+  {
+    "name": "Art",
+    "link": "/art"
+  },
+  {
+    "name": "Blog",
+    "link": "/blog"
+  },
+  {
+    "name": "About",
+    "link": "/about"
+  },
+  {
+    "name": "Contact",
+    "link": "/contact"
   }
 ]
