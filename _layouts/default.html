@@ -1,32 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <title>#VedicThreefoldAlgorithm</title>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="Quinn Michaels">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
+    <title>{{page.pre}} - {{page.title}}</title>
 
-    <!-- Le styles -->
+    <meta name="description" content="{{page.describe}}"/>
+
+    <meta property="og:site_name" content="{{page.name}}">
+    <meta property="og:title" content="{{page.title}}">
+    <meta property="og:description" content="{{page.describe}}">
+
+    <meta property="og:image" content="{{page.image}}">
+    <meta property="og:url" content="{{page.url}}">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image:alt" content="{{page.describe}}">
+    <meta name="twitter:site" content="@{{page.name}}">
+
     <link rel="stylesheet" href="https://use.typekit.net/dds5scw.css">
-    <link href="/assets/css/main.css" rel="stylesheet">
+
+  	<link href="/assets/css/main.css" rel="stylesheet" type="text/css">
   </head>
 
   <body>
     <header style="--header-bg: url({{page.image}}); --header-color: {{page.color}};">
       <div class="hero">
         <h1>{{page.title}}</h1>
-        <p>{{page.tagline}}</p>
+        <p>{{page.subtitle}}</p>
       </div>
       {% include nav.html %}
     </header>
 
     <main class="page">
       <h1>{{page.title}}</h1>
+      <p>{{page.describe}}</p>
 
-      {{content}}
+      <section class="content">
+        {{content}}
+      </section>
     </main>
 
     {% include footer.html %}

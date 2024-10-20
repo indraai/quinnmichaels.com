@@ -1,6 +1,8 @@
 // Copyright (c)2024 Quinn Michaels. All rights reserved.
 
 $colors = {
+  bg: #e9ecef
+  text: #132131
   white: #ffffff
   black: #000000
   grey: #5b5b5b
@@ -35,8 +37,8 @@ $page = {
 
 :root
   --transition-default: all .5s linear
-  --header-bg: url(/assets/img/gallery/slide-02.jpg)
-  --header-color: $colors.dark-grey
+  --header-bg: url(/assets/img/headers/001.jpg)
+  --header-color: $colors.text
 
   for color in $colors
     --color-{color}: $colors[color]

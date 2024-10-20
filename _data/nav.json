@@ -8,16 +8,20 @@
     "link": "/bowls"
   },
   {
-    "name": "Code",
-    "link": "/code"
-  },
-  {
-    "name": "Art",
-    "link": "/art"
-  },
-  {
     "name": "Blog",
     "link": "/blog"
+  },
+  {
+    "name": "Videos",
+    "link": "/videos"
+  },
+  {
+    "name": "Artwork",
+    "link": "/artwork"
+  },
+  {
+    "name": "Code",
+    "link": "/code"
   },
   {
     "name": "About",

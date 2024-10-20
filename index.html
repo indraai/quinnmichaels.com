@@ -1,7 +1,9 @@
 ---
+pre: Quinn Michaels
 title: Quinn's Singing Bowl Studio
-describe: Immerse yourself in the soothing sounds of crystal and Tibetan singing bowls. Quinn Michaels offers a curated collection of handcrafted instruments designed to promote relaxation, meditation, and healing. Discover the transformative power of sound therapy and explore our blog for insightful meditation practices.
-tweet: Immerse yourself in the soothing sounds of crystal and Tibetan singing bowls. Quinn Michaels offers a curated collection of handcrafted instruments designed to promote relaxation, meditation, and healing.
+subtitle: Welcome to Quinn's Singing Bowl Studio
+describe: Immerse yourself in the soothing sounds of crystal and Tibetan singing bowls. Quinn Michaels offers an experience designed to promote relaxation, meditation, and healing. Discover the transformative power of sound therapy and explore our blog for insightful meditation practices.
+tweet: Immerse yourself in the soothing sounds of crystal and Tibetan singing bowls. Quinn Michaels offers an experience designed to promote relaxation, meditation, and healing.
 hashtags: QuinnMichaels,SingingBowls,Meditation,SingingBowlStudio
 ---
 <!DOCTYPE html>
@@ -12,20 +14,20 @@ hashtags: QuinnMichaels,SingingBowls,Meditation,SingingBowlStudio
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-  <title>{{site.title}}</title>
+  <title>{{page.pre}} - {{page.title}}</title>
 
-  <meta name="description" content="{{site.describe}}"/>
+  <meta name="description" content="{{page.describe}}"/>
 
-  <meta property="og:site_name" content="{{site.name}}">
-  <meta property="og:title" content="{{site.title}}">
-  <meta property="og:description" content="{{site.describe}}">
+  <meta property="og:site_name" content="{{page.name}}">
+  <meta property="og:title" content="{{page.title}}">
+  <meta property="og:description" content="{{page.describe}}">
 
-  <meta property="og:image" content="{{site.image}}">
-  <meta property="og:url" content="{{site.url}}">
+  <meta property="og:image" content="{{page.image}}">
+  <meta property="og:url" content="{{page.url}}">
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image:alt" content="{{site.describe}}">
-  <meta name="twitter:site" content="@quinnmichaels">
+  <meta name="twitter:image:alt" content="{{page.describe}}">
+  <meta name="twitter:site" content="@{{page.name}}">
 
   <link rel="stylesheet" href="https://use.typekit.net/dds5scw.css">
 
@@ -35,8 +37,8 @@ hashtags: QuinnMichaels,SingingBowls,Meditation,SingingBowlStudio
 <body>
   <header>
     <div class="hero">
-      <h1>{{site.data.content.title}}</h1>
-      <p>{{site.data.content.subtitle}}</p>
+      <h1>{{page.title}}</h1>
+      <p>{{page.subtitle}}</p>
     </div>
     {% include nav.html %}
   </header>
@@ -51,10 +53,6 @@ hashtags: QuinnMichaels,SingingBowls,Meditation,SingingBowlStudio
       <div class="x"><a href="https://twitter.com/intent/tweet?hashtags={{page.hashtags}}&url=https%3A%2F%2Fquinnmichaels.com&via=quinnmichaels&text={{page.tweet}}" target="share">Twitter/X</a></div>
       <div class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fquinnmichaels.com" target="share">Facebook</a></div>
       <div class="linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fquinnmichaels.com" target="share">LinkedIn</a></div>
-    </section>
-    <section class="posts">
-      <h2>Posts</h2>
-      {% include posts.html %}
     </section>
   </main>
 
