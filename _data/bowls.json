@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bowl 1",
+    "describe": "Bowl 1 Description",
+    "type": "Tibetan",
+    "note": "A",
+    "thumbnail": "/assets/img/bowls/bowl-001-thumb.png",
+    "image": "/assets/img/bowls/bowl-001-full.png"
+  },
+  {
+    "name": "Bowl 2",
+    "describe": "Bowl 2 Description",
+    "type": "Tibetan",
+    "note": "A",
+    "thumbnail": "/assets/img/bowls/bowl-002-thumb.png",
+    "image": "/assets/img/bowls/bowl-002-full.png"
+  },
+  {
+    "name": "Bowl 3",
+    "describe": "Bowl 3 Description",
+    "type": "Tibetan",
+    "note": "A",
+    "thumbnail": "/assets/img/bowls/bowl-003-thumb.png",
+    "image": "/assets/img/bowls/bowl-003-full.png"
+  },
+  {
+    "name": "Bowl 4",
+    "describe": "Bowl 4 Description",
+    "type": "Tibetan",
+    "note": "A",
+    "thumbnail": "/assets/img/bowls/bowl-004-thumb.png",
+    "image": "/assets/img/bowls/bowl-004-full.png"
+  },
+  {
+    "name": "Bowl 5",
+    "describe": "Bowl 5 Description",
+    "type": "Tibetan",
+    "note": "A",
+    "thumbnail": "/assets/img/bowls/bowl-005-thumb.png",
+    "image": "/assets/img/bowls/bowl-005-full.png"
+  }
+]
