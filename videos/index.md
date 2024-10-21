@@ -10,16 +10,15 @@ tweet: From crystal and Tibetan singing bowls, relaxing soundscapes to guided me
 hashtags: QuinnMichaels, SingingBowlStudio, Videos
 ---
 
-<article class="bowls">
-  <ul>
-    {% for video in site.data.videos %}
-      <li>
-        <div class="video">
-          <div class="thumbnail"><a href="https://youtu.be/{{video.id}}" target="youtube"><img src="{{ video.thumbnail }}" alt=""></a></div>
-          <div class="title"><a href="https://youtu.be/{{video.id}}" target="youtube">{{ video.title }}</a></div>
-          <div class="describe">{{ video.describe }}</div>
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
-</article>
+<ul class="videos">
+  {% for video in site.data.videos %}
+    <li>
+      <article class="video">
+        <div class="thumbnail"><a href="https://youtu.be/{{video.id}}" target="youtube"><img src="{{ video.thumbnail }}" alt=""></a></div>
+        <div class="title"><a href="https://youtu.be/{{video.id}}" target="youtube">{{ video.title }}</a></div>
+        <div class="published">{{video.published}}</div>
+        <div class="describe">{{ video.describe }}</div>
+      </article>
+    </li>
+  {% endfor %}
+</ul>
