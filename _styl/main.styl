@@ -156,9 +156,39 @@ $x = {
   display: flex
   flex-flow: row wrap
   gap: .5rem
-
+  padding: .5rem
   .feature
     background-color: $colors.grey
     min-width: 20rem
     min-height: 15rem
     flex: 1
+    background-position: center center
+    background-repeat: no-repeat
+    border-radius: 1rem
+    box-shadow: 0 3px 5px rgba($colors.black,.5)
+    color: $colors.white
+    display: flex
+    flex-flow: column nowrap
+    overflow: hidden
+    h2
+      text-align: center
+      margin: 0
+      padding: 1rem 0 0 0
+      background-color: rgba($colors.black, .75)
+      font-weight: normal
+    p
+      flex: 1
+      margin: 0
+      padding: 0 1rem
+      background-color: rgba($colors.black, .5)
+    &.bowls
+      background-image: url(/assets/img/headers/002-thumb.jpg)
+
+    &.blog
+      background-image: url(/assets/img/headers/003-thumb.jpg)
+
+    &.videos
+      background-image: url(/assets/img/headers/004-thumb.jpg)
+
+    &.about
+      background-image: url(/assets/img/headers/005-thumb.jpg)
