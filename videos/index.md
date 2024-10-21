@@ -15,9 +15,11 @@ hashtags: QuinnMichaels, SingingBowlStudio, Videos
     <li>
       <article class="video">
         <div class="thumbnail"><a href="https://youtu.be/{{video.id}}" target="youtube"><img src="{{ video.thumbnail }}" alt=""></a></div>
-        <div class="title"><a href="https://youtu.be/{{video.id}}" target="youtube">{{ video.title }}</a></div>
-        <div class="published">{{video.published}}</div>
-        <div class="describe">{{ video.describe }}</div>
+        <div class="info">
+          <div class="title"><a href="https://youtu.be/{{video.id}}" target="youtube">{{ video.title }}</a></div>
+          <div class="published">{{video.published}}</div>
+          <div class="describe">{{ video.describe }}</div>
+        </div>
       </article>
     </li>
   {% endfor %}
