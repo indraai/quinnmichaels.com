@@ -8,12 +8,12 @@
     "link": "/bowls"
   },
   {
-    "name": "Blog",
-    "link": "/blog"
-  },
-  {
     "name": "Videos",
     "link": "/videos"
+  },
+  {
+    "name": "Blog",
+    "link": "/blog"
   },
   {
     "name": "About",

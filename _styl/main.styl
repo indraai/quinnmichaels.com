@@ -10,12 +10,13 @@
 @import "monokai"
 
 main
-  margin: auto
+  margin: 0 auto
   max-width: $page.width
   padding: 0
   display: flex
   flex-flow: column
   flex: 1
+  padding: 0 1rem
   img
     max-width: 100%
 
@@ -150,3 +151,14 @@ $x = {
       .describe
         font-size: 1rem
         margin: .5rem 0 0 0
+
+.features
+  display: flex
+  flex-flow: row wrap
+  gap: .5rem
+
+  .feature
+    background-color: $colors.grey
+    min-width: 20rem
+    min-height: 15rem
+    flex: 1
