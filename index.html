@@ -51,26 +51,13 @@ color: var(--color-yellow)
     <p class="describe">{{page.describe}}</p>
 
     <section class="features">
-      <article class="feature bowls">
-        <h2>Bowls</h2>
-        <p>Feature Text</p>
-      </article>
-      <article class="feature videos">
-        <h2>Videos</h2>
-        <p>Feature Text</p>
-      </article>
-      <article class="feature blog">
-        <h2>Blog</h2>
-        <p>Feature Text</p>
-      </article>
-      <article class="feature about">
-        <h2>About</h2>
-        <p>Feature Text</p>
-      </article>
-      <article class="feature contact">
-        <h2>Contact</h2>
-        <p>Feature Text</p>
-      </article>
+      {% for nav in site.data.nav %}
+        <article class="feature {{nav.key}}">
+          <h2><a href="{{nav.link}}">{{nav.name}}</a></h2>
+          <p>{{nav.describe}} <a href="{{nav.link}}"><i class="icn-arrow-right"></i></a></p>
+
+        </article>
+      {% endfor %}
     </section>
 
     {% include soundcloud.html %}

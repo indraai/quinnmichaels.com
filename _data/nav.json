@@ -1,26 +1,32 @@
 [
   {
-    "name": "Home",
-    "link": "/"
-  },
-  {
+    "key": "bowls",
     "name": "Bowls",
-    "link": "/bowls"
+    "link": "/bowls",
+    "describe": "Learn about all the Singing Bowls in the studio."
   },
   {
+    "key": "videos",
     "name": "Videos",
-    "link": "/videos"
+    "link": "/videos",
+    "describe": "A collection of Singing Bowl Studio videos to enjoy."
   },
   {
+    "key": "blog",
     "name": "Blog",
-    "link": "/blog"
+    "link": "/blog",
+    "describe": "Quinn's blog of thoughts, meditation, and singing bowls."
   },
   {
+    "key": "about",
     "name": "About",
-    "link": "/about"
+    "link": "/about",
+    "describe": "All about Quinn Michaels, the Singing Bowl Studio, and offerings."
   },
   {
+    "key": "contact",
     "name": "Contact",
-    "link": "/contact"
+    "link": "/contact",
+    "describe": "Contact Quinn Michaels to collaboration, inquire, and interact."
   }
 ]
