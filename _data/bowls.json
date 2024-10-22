@@ -8,12 +8,12 @@
     "image": "/assets/img/bowls/001-small-tibetan.jpg"
   },
   {
-    "name": "5.25in Tibetan Jambati",
-    "describe": "The 5.25in Tibetan Jambati singing bowl with it's unique tones adds a unique depth.  Originally acquired from tibetanprayerflag.com.",
+    "name": "5in Tibetan Jambati",
+    "describe": "The 5in Tibetan Jambati singing bowl with it's unique tones adds a unique depth.  Originally acquired from tibetanprayerflag.com.",
     "type": "Tibetan Jambati",
     "note": "??",
-    "thumbnail": "/assets/img/bowls/002-5.25-jambati-thumb.jpg",
-    "image": "/assets/img/bowls/002-5.25-jambati.jpg"
+    "thumbnail": "/assets/img/bowls/002-5in-jambati-thumb.jpg",
+    "image": "/assets/img/bowls/002-5in-jambati.jpg"
   },
   {
     "name": "6in Tibetan Jambati",
@@ -25,10 +25,42 @@
   },
   {
     "name": "7in Crown Chakra Tibetan",
-    "describe": "7in B-Crown Chakra Old Tibetan Singing Bowl,Excellent old singing bowl,Hand beaten Singing bowl from Nepal. Acquired from Amazon.com",
+    "describe": "7in B-Crown Chakra Old Tibetan Singing Bowl. Hand beaten Singing bowl from Nepal. Acquired from Amazon.com",
     "type": "Tibetan Jambati",
-    "note": "B",
+    "note": "??",
     "thumbnail": "/assets/img/bowls/004-7in-jambati-thumb.jpg",
     "image": "/assets/img/bowls/004-7in-jambati.jpg"
+  },
+  {
+    "name": "8in Tibetan Thadobati",
+    "describe": "8in Tibetan Thadobati singing bowl. Hand hammered singing bowl producing a long rhythmic sound that draws the listener in.  Originally acquired from Namaste in San Rafel, CA.",
+    "type": "Tibetan Jambati",
+    "note": "??",
+    "thumbnail": "/assets/img/bowls/005-8in-thadobati-thumb.jpg",
+    "image": "/assets/img/bowls/005-8in-thadobati.jpg"
+  },
+  {
+    "name": "9in Tibetan Hammered",
+    "describe": "9in Large Master Healing Hand hammered Tibetan Singing Bowl.  Originally acquired from Amazon.com",
+    "type": "Tibetan Hammered",
+    "note": "??",
+    "thumbnail": "/assets/img/bowls/006-9in-hammered-thumb.jpg",
+    "image": "/assets/img/bowls/006-9in-hammered.jpg"
+  },
+  {
+    "name": "9in Buddha Bowl",
+    "describe": "9in Large Tibetan Singing Bowl with engraving of the Buddha inside.  Originally acquired from Soul Connections in Mount Shasta, CA.",
+    "type": "Tibetan Engraved",
+    "note": "??",
+    "thumbnail": "/assets/img/bowls/007-9in-buddha-thumb.jpg",
+    "image": "/assets/img/bowls/007-9in-buddha.jpg"
+  },
+  {
+    "name": "9.5in Tibetan Thadobati",
+    "describe": "9.5in Large Tibetan Thadobati Singing Bowl.  Originally acquired from Soul Connections in Mount Shasta, CA.",
+    "type": "Tibetan Thadobati",
+    "note": "??",
+    "thumbnail": "/assets/img/bowls/008-9.5in-thadobati-thumb.jpg",
+    "image": "/assets/img/bowls/008-9.5in-thadobati.jpg"
   }
 ]
