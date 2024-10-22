@@ -10,15 +10,18 @@ hashtags: QuinnMichaels, SingingBowlStudio, SingingBowls, Meditation
 color: var(--color-white)
 ---
 
-<article class="bowls">
-  <ul>
-    {% for bowl in site.data.bowls %}
-      <li>
-        <div class="bowl">
-          <div class="thumbnail"><img src="{{ bowl.thumbnail }}" alt=""></div>
-          <div class="title">{{ bowl.name }}</div>
+<ul class="bowls">
+  {% for bowl in site.data.bowls %}
+    <li>
+      <article class="bowl">
+        <div class="thumbnail"><img src="{{ bowl.thumbnail }}" alt=""></div>
+        <div class="info">
+          <div class="title">{{bowl.name}}</div>
+          <div class="type"><span class="label">type:</span>{{bowl.type}}</div>
+          <div class="note"><span class="label">note:</span> {{bowl.note}}</div>
+          <div class="describe">{{bowl.describe}}</div>
         </div>
-      </li>
-    {% endfor %}
-  </ul>
-</article>
+      </article>
+    </li>
+  {% endfor %}
+</ul>

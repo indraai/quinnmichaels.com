@@ -10,6 +10,10 @@ tweet: The intersection of art and sound therapy with Quinn Michaels' unique col
 hashtags: QuinnMichaels, SingingBowlStudio, Artwork, Art
 ---
 
+<center>
+<img src="/assets/img/quinn/quinn-michaels-photo.jpg" alt="Quinn Michaels Photo">
+</center>
+
 Quinn's Singing Bowl Studio offers a holistic experience to meditation and sound therapy.  Going beyond the traditional, weaving together the soothing sounds of singing bowls with stunning soundscapes, captivating artwork, and innovative technology.
 
 Discover Indra.ai, Deva.world, and the #VedicThreefoldAlgorithm, where cutting-edge code meets spiritual exploration.

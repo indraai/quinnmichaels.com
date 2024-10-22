@@ -128,29 +128,39 @@ $x = {
     margin: 0 .5rem
 
 .videos
+.bowls
   display: flex
   list-style: none
   flex-flow: row wrap
-
-  .video
-    margin: 1rem 0
-    padding: 1rem
-    display: flex
-    flex-flow: row nowrap
-    gap: .5rem
-    .thumbnail
-      img
-        max-width: 300px
-    .info
-      .title
-        font-size: 1.5rem
-        line-height: 1
-      .published
-        font-size: .9rem
-        font-weight: bold
-      .describe
-        font-size: 1rem
-        margin: .5rem 0 0 0
+  margin: 0
+  padding: 0
+  li
+    margin: 0
+    padding: 0
+    .video
+    .bowl
+      margin: 1rem 0
+      padding: 1rem
+      display: flex
+      flex-flow: row nowrap
+      gap: 1rem
+      .thumbnail
+        img
+          max-width: 256px
+          min-width: 256px
+          border-radius: .5rem
+          box-shadow: 0 3px 5px rgba($colors.black, .5)
+      .info
+        .title
+          font-size: 1.5rem
+          line-height: 1
+          font-weight: bold
+        .published
+          font-size: .9rem
+          font-weight: bold
+        .describe
+          font-size: 1rem
+          margin: .5rem 0 0 0
 
 .features
   display: flex

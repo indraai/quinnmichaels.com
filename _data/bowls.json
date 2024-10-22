@@ -1,42 +1,26 @@
 [
   {
-    "name": "Bowl 1",
-    "describe": "Bowl 1 Description",
-    "type": "Tibetan",
-    "note": "A",
-    "thumbnail": "/assets/img/bowls/bowl-001-thumb.png",
-    "image": "/assets/img/bowls/bowl-001-full.png"
+    "name": "4in Tibetan Thadobati",
+    "describe": "The 4in Tibetan Thadobati singing bowl with it's beautiful tone and enchanting rhythm.  Originally acquired from bestsingingbowls.com. It's one of my favorite to add the higher tone to the compositions.",
+    "type": "Tibetan Thadobati",
+    "note": "B4",
+    "thumbnail": "/assets/img/bowls/001-small-tibetan-thumb.jpg",
+    "image": "/assets/img/bowls/001-small-tibetan.jpg"
   },
   {
-    "name": "Bowl 2",
-    "describe": "Bowl 2 Description",
-    "type": "Tibetan",
-    "note": "A",
-    "thumbnail": "/assets/img/bowls/bowl-002-thumb.png",
-    "image": "/assets/img/bowls/bowl-002-full.png"
+    "name": "5.25in Tibetan Jambati",
+    "describe": "The 5.25in Tibetan Jambati singing bowl with it's unique tones adds a unique depth.  Originally acquired from tibetanprayerflag.com.",
+    "type": "Tibetan Jambati",
+    "note": "??",
+    "thumbnail": "/assets/img/bowls/002-5.25-jambati-thumb.jpg",
+    "image": "/assets/img/bowls/002-5.25-jambati.jpg"
   },
   {
-    "name": "Bowl 3",
-    "describe": "Bowl 3 Description",
-    "type": "Tibetan",
-    "note": "A",
-    "thumbnail": "/assets/img/bowls/bowl-003-thumb.png",
-    "image": "/assets/img/bowls/bowl-003-full.png"
-  },
-  {
-    "name": "Bowl 4",
-    "describe": "Bowl 4 Description",
-    "type": "Tibetan",
-    "note": "A",
-    "thumbnail": "/assets/img/bowls/bowl-004-thumb.png",
-    "image": "/assets/img/bowls/bowl-004-full.png"
-  },
-  {
-    "name": "Bowl 5",
-    "describe": "Bowl 5 Description",
-    "type": "Tibetan",
-    "note": "A",
-    "thumbnail": "/assets/img/bowls/bowl-005-thumb.png",
-    "image": "/assets/img/bowls/bowl-005-full.png"
+    "name": "6in Tibetan Jambati",
+    "describe": "The 6in Tibetan Jambati singing bowl adds to the collection with it's long rhythmic tone.  Originally acquired from tibetanprayerflag.com.",
+    "type": "Tibetan Jambati",
+    "note": "??",
+    "thumbnail": "/assets/img/bowls/003-6-jambati-thumb.jpg",
+    "image": "/assets/img/bowls/003-6-jambati.jpg"
   }
 ]
