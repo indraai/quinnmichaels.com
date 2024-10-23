@@ -25,8 +25,8 @@
   },
   {
     "name": "7in Crown Chakra Tibetan",
-    "describe": "7in B-Crown Chakra Old Tibetan Singing Bowl. Hand beaten Singing bowl from Nepal. Acquired from Amazon.com",
-    "type": "Tibetan Jambati",
+    "describe": "7in B-Crown Chakra Old Tibetan Singing Bowl. Hand hammered Singing bowl from Nepal. Acquired from Amazon.com",
+    "type": "Tibetan Hammered",
     "note": "??",
     "thumbnail": "/assets/img/bowls/004-7in-jambati-thumb.jpg",
     "image": "/assets/img/bowls/004-7in-jambati.jpg"
@@ -34,7 +34,7 @@
   {
     "name": "8in Tibetan Thadobati",
     "describe": "8in Tibetan Thadobati singing bowl. Hand hammered singing bowl producing a long rhythmic sound that draws the listener in.  Originally acquired from Namaste in San Rafel, CA.",
-    "type": "Tibetan Jambati",
+    "type": "Tibetan Thadobati",
     "note": "??",
     "thumbnail": "/assets/img/bowls/005-8in-thadobati-thumb.jpg",
     "image": "/assets/img/bowls/005-8in-thadobati.jpg"
@@ -56,11 +56,35 @@
     "image": "/assets/img/bowls/007-9in-buddha.jpg"
   },
   {
-    "name": "9.5in Tibetan Thadobati",
+    "name": "9.5in Tibetan",
     "describe": "9.5in Large Tibetan Thadobati Singing Bowl.  Originally acquired from Soul Connections in Mount Shasta, CA.",
     "type": "Tibetan Thadobati",
     "note": "??",
     "thumbnail": "/assets/img/bowls/008-9.5in-thadobati-thumb.jpg",
     "image": "/assets/img/bowls/008-9.5in-thadobati.jpg"
+  },
+  {
+    "name": "9.5in Tibetan",
+    "describe": "9.5in Large Tibetan Thadobati Singing Bowl.  Originally acquired from Soul Connections in Mount Shasta, CA.",
+    "type": "Tibetan Thadobati",
+    "note": "??",
+    "thumbnail": "/assets/img/bowls/008-9.5in-thadobati-thumb.jpg",
+    "image": "/assets/img/bowls/008-9.5in-thadobati.jpg"
+  },
+  {
+    "name": "10in Tibetan Antique",
+    "describe": "10in Tibetan Thadobati Antique Thadobati Singing Bowl.  Originally acquired from Soul Connections in Mount Shasta, CA.",
+    "type": "Tibetan Thadobati",
+    "note": "??",
+    "thumbnail": "/assets/img/bowls/009-10in-antique-thumb.jpg",
+    "image": "/assets/img/bowls/009-10in-antique.jpg"
+  },
+  {
+    "name": "11in Tibetan",
+    "describe": "11in Tibetan Thadobati Antique Jambati Singing Bowl.  Originally acquired from tibetanprayerflag.com.",
+    "type": "Tibetan Jambati",
+    "note": "??",
+    "thumbnail": "/assets/img/bowls/010-11in-jambati-thumb.jpg",
+    "image": "/assets/img/bowls/010-11in-jambati.jpg"
   }
 ]
