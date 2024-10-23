@@ -43,12 +43,13 @@ color: var(--color-yellow)
       <h1>{{page.title}}</h1>
       <p>{{page.subtitle}}</p>
     </div>
-    {% include share.html %}
   </header>
 
 	<main>
     <h1>{{page.title}}</h1>
     <p class="describe">{{page.describe}}</p>
+
+    {% include share.html %}
 
     <section class="features">
       {% for nav in site.data.nav %}
