@@ -9,3 +9,11 @@ describe: Links to his various X, Instagram, Facebook, Soundcloud, LinkedIn, and
 tweet: How to contact Quinn Michaels.
 hashtags: QuinnMichaels,SingingBowlStudio,Contact
 ---
+
+### Social Media
+- [X](https://x.com/quinnmichaels)
+- [Youtube](https://youtube.com/quinnmichaels)
+- [Soundcloud](https://soundcloud.com/quinnmichaels)
+- [Instagram](https://instagram.com/quinnmichaels)
+- [Facebook](https://facebook.com/quinnshow)
+- [LinkedIn](https://www.linkedin.com/in/quinn-michaels-4b8922b/)

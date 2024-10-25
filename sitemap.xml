@@ -2,26 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://quinnmichaels.com/</loc>
-    <lastmod>2024-10-21</lastmod>
   </url>
   <url>
     <loc>https://quinnmichaels.com/bowls</loc>
-    <lastmod>2024-10-21</lastmod>
   </url>
   <url>
     <loc>https://quinnmichaels.com/blog</loc>
-    <lastmod>2024-10-20</lastmod>
   </url>
   <url>
     <loc>https://quinnmichaels.com/videos</loc>
-    <lastmod>2024-10-20</lastmod>
   </url>
   <url>
     <loc>https://quinnmichaels.com/about</loc>
-    <lastmod>2024-10-21</lastmod>
   </url>
   <url>
     <loc>https://quinnmichaels.com/contact</loc>
-    <lastmod>2024-10-21</lastmod>
+  </url>
+  <url>
+    <loc>https://quinnmichaels.com/bowls/bowl/001-4in-thadobati</loc>
+  </url>
+  <url>
+    <loc>https://quinnmichaels.com/bowls/bowl/002-5in-jambati</loc>
+  </url>
+  <url>
+    <loc>https://quinnmichaels.com/bowls/bowl/003-6in-jambati</loc>
+  </url>
+  <url>
+    <loc>https://quinnmichaels.com/bowls/bowl/004-7in-hammered</loc>
+  </url>
+  <url>
+    <loc>https://quinnmichaels.com/bowls/bowl/005-8in-hammered</loc>
   </url>
 </urlset>

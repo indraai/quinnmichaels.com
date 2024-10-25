@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Jambati",
+    "url": "/bowls/types/jambati",
+    "describe": "Known for their deep, resonant tones, Jambati bowls are often large with thick walls, displaying visible hammering marks."
+  },
+  {
+    "name": "Thadobati",
+    "url": "/bowls/types/thadobati",
+    "describe": "These bowls are characterized by their straight, high walls and a wide, flat bottom."
+  },
+  {
+    "name": "Remuna",
+    "url": "/bowls/types/remuna",
+    "describe": "Remuna bowls have a more subtle, inward curving lip and thinner walls, giving them a unique, soft sound profile."
+  },
+  {
+    "name": "Manipuri",
+    "url": "/bowls/types/manipuri",
+    "describe": "Small and shallow, Manipuri singing bowls produce lighter, higher-pitched tones."
+  },
+  {
+    "name": "Lingam",
+    "url": "/bowls/types/lingam",
+    "describe": "Recognized by the lingam (a protrusion) at the center, these bowls are rare and considered very sacred."
+  },
+  {
+    "name": "Pedestal",
+    "url": "/bowls/types/pedestal",
+    "describe": "Also known as Naga bowls, these have a base or pedestal which they sit on, giving them a goblet-like appearance."
+  },
+  {
+    "name": "Trapezoid",
+    "url": "/bowls/types/trapezoid",
+    "describe": "Trapezoid trapezoid bowls have a shape that resembles a trapezoid, with sides that flare out more than typical bowls."
+  },
+  {
+    "name": "Ultabati",
+    "url": "/bowls/types/ultabati",
+    "describe": "Ultabati bowls are known for their exceptionally large size and can produce very low tones akin to the sound of the earth's hum."
+  },
+  {
+    "name": "Crystal",
+    "url": "/bowls/types/crystal",
+    "describe": "Crystal singing bowls, unlike their metal counterparts, are a relatively modern addition to the sound therapy repertoire, emerging in the late 20th century."
+  }
+]

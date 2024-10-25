@@ -162,16 +162,16 @@ $x = {
           border-radius: .5rem
           box-shadow: 0 3px 5px rgba($colors.black, .5)
       .info
-        .title
-          font-size: 1.5rem
+        h2
+          font-size: 1.75rem
           line-height: 1
           font-weight: bold
+        p
+          font-size: 1rem
+          margin: .5rem 0 0 0
         .published
           font-size: .9rem
           font-weight: bold
-        .describe
-          font-size: 1rem
-          margin: .5rem 0 0 0
 
 .features
   display: flex
@@ -220,3 +220,33 @@ $x = {
 
     &.contact
       background-image: url(/assets/img/headers/006-thumb.jpg)
+
+section.types
+  display: flex
+  flex-flow: row wrap
+  gap: .5rem
+  padding: .5rem
+  .type
+    flex: 1
+    min-width: 30%
+
+hr.divider
+  height: 10px
+  background-color: black
+  border: none
+  margin: 2rem 0
+
+.videowrapper
+  float: none;
+  clear: both;
+  width: 100%;
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+  iframe
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;

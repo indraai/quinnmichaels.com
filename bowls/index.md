@@ -14,12 +14,12 @@ color: var(--color-white)
   {% for bowl in site.data.bowls %}
     <li>
       <article class="bowl">
-        <div class="thumbnail"><img src="{{ bowl.thumbnail }}" alt=""></div>
+        <div class="thumbnail"><a href="{{bowl.url}}"><img src="{{ bowl.thumbnail }}" alt=""></a></div>
         <div class="info">
-          <div class="title">{{bowl.name}}</div>
+          <h2><a href="{{bowl.url}}">{{bowl.name}}</a></h2>
           <div class="type"><span class="label">type:</span>{{bowl.type}}</div>
           <div class="note"><span class="label">note:</span> {{bowl.note}}</div>
-          <div class="describe">{{bowl.describe}}</div>
+          <p>{{bowl.describe}}</p>
         </div>
       </article>
     </li>

@@ -50,15 +50,46 @@ color: var(--color-yellow)
     <h1>{{page.title}}</h1>
     <p class="describe">{{page.describe}}</p>
 
+    <div class="videowrapper">
+      <iframe src="https://www.youtube.com/embed/GCW9pDsTYYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      
+    </div>
+
+    <hr class="divider">
+
     <section class="features">
       {% for nav in site.data.nav %}
         <article class="feature {{nav.key}}">
           <h2><a href="{{nav.link}}">{{nav.name}}</a></h2>
           <p>{{nav.describe}} <a href="{{nav.link}}"><i class="icn-arrow-right"></i></a></p>
-
         </article>
       {% endfor %}
     </section>
+
+    <hr class="divider">
+
+    <h2>Quinn's Blog</h2>
+    <section class="posts">
+      {% for post in site.posts limit:5 %}
+        <article class="post">
+          <h3><a href="{{post.url}}">{{post.date | date: "%B %d, %Y"}}: {{post.title}}</a></h3>
+          {{post.excerpt}}
+        </article>
+      {% endfor %}
+    </section>
+
+    <hr class="divider">
+
+    <h1>Singing Bowl Types</h1>
+    <section class="types">
+      {% for type in site.data.types %}
+        <article class="type">
+          <h3><a href="{{ type.url }}">{{type.name}}</a></h3>
+          <p>{{type.describe}}<p>
+        </article>
+      {% endfor %}
+    </section>
+
+    <hr class="divider">
 
     {% include soundcloud.html %}
 
