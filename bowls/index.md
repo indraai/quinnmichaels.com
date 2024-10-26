@@ -19,7 +19,6 @@ color: var(--color-white)
           <h2><a href="{{bowl.url}}">{{bowl.name}}</a></h2>
           <div class="type"><span class="label">type:</span>{{bowl.type}}</div>
           <div class="note"><span class="label">note:</span> {{bowl.note}}</div>
-          <p>{{bowl.describe}}</p>
         </div>
       </article>
     </li>

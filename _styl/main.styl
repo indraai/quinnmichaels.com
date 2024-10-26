@@ -139,7 +139,6 @@ $x = {
       height: 72px
 
 .videos
-.bowls
   display: flex
   list-style: none
   flex-flow: row wrap
@@ -149,7 +148,6 @@ $x = {
     margin: 0
     padding: 0
     .video
-    .bowl
       margin: 1rem 0
       padding: 1rem
       display: flex
@@ -164,6 +162,45 @@ $x = {
       .info
         h2
           font-size: 1.75rem
+          line-height: 1
+          font-weight: bold
+        p
+          font-size: 1rem
+          margin: .5rem 0 0 0
+        .published
+          font-size: .9rem
+          font-weight: bold
+
+.bowls
+  display: flex
+  list-style: none
+  flex-flow: row wrap
+  margin: 0
+  padding: 0
+  li
+    margin: 0
+    padding: 0
+    min-width: 15rem
+    flex: 1
+    gap: .5rem
+    .bowl
+      margin: 1rem 0
+      padding: 1rem
+      display: flex
+      flex-flow: column nowrap
+      gap: 1rem
+      .thumbnail
+        img
+          max-width: 256px
+          min-width: 256px
+          border-radius: .5rem
+          box-shadow: 0 3px 5px rgba($colors.black, .5)
+      .info
+        h2
+          font-size: 1.5rem
+          line-height: 1
+          margin: 0
+          padding: 0
           line-height: 1
           font-weight: bold
         p

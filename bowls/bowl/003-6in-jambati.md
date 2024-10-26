@@ -54,4 +54,4 @@ The 6in Tibetan Jambati Singing Bowl tuned to E4 is a powerful instrument for th
 ---
 
 Previous Bowl: [5in Tibetan Jambati](002-5in-jambati)  
-Next Bowl: [7in Nepal Hammered](004-7in-hammered)
+Next Bowl: [7in Tibetan Hammered](004-7in-hammered)
