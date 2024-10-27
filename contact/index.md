@@ -16,4 +16,5 @@ hashtags: QuinnMichaels,SingingBowlStudio,Contact
 - [Soundcloud](https://soundcloud.com/quinnmichaels)
 - [Instagram](https://instagram.com/quinnmichaels)
 - [Facebook](https://facebook.com/quinnshow)
+- [Medium](https://medium.com/@quinnmichaels)
 - [LinkedIn](https://www.linkedin.com/in/quinn-michaels-4b8922b/)
