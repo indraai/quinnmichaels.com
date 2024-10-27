@@ -10,17 +10,15 @@ hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Meditation
 color: var(--color-white)
 ---
 
-<ul class="bowls">
+<section class="bowls">
   {% for bowl in site.data.bowls %}
-    <li>
-      <article class="bowl">
-        <div class="thumbnail"><a href="{{bowl.url}}"><img src="{{ bowl.thumbnail }}" alt=""></a></div>
-        <div class="info">
-          <h2><a href="{{bowl.url}}">{{bowl.name}}</a></h2>
-          <div class="type"><span class="label">type:</span>{{bowl.type}}</div>
-          <div class="note"><span class="label">note:</span> {{bowl.note}}</div>
-        </div>
-      </article>
-    </li>
+    <article class="bowl">
+      <div class="thumbnail"><a href="{{bowl.url}}"><img src="{{ bowl.thumbnail }}" alt=""></a></div>
+      <div class="info">
+        <h2><a href="{{bowl.url}}">{{bowl.name}}</a></h2>
+        <div class="type"><span class="label">type:</span>{{bowl.type}}</div>
+        <div class="note"><span class="label">note:</span> {{bowl.note}}</div>
+      </div>
+    </article>
   {% endfor %}
-</ul>
+</section>

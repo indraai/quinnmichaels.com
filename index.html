@@ -7,7 +7,7 @@ tweet: Immerse yourself in the soothing sounds of crystal and Tibetan singing bo
 hashtags: QuinnMichaels,SingingBowls,Meditation,SingingBowlStudio
 image: /assets/img/headers/001-temple.jpg
 color: var(--color-white)
-video: nrEn2_-ZeSs
+video: 6bMVkcFSDVM
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -55,8 +55,6 @@ video: nrEn2_-ZeSs
       <iframe src="https://www.youtube.com/embed/{{page.video}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    <hr class="divider">
-
     <section class="features">
       {% for nav in site.data.nav %}
         <article class="feature {{nav.key}}">
@@ -69,10 +67,11 @@ video: nrEn2_-ZeSs
     <hr class="divider">
 
     <h2>Quinn's Blog</h2>
+    <p><a href="/blog/">More Blog Posts <i class="icn-arrow-right"></i></a></p>
     <section class="posts">
       {% for post in site.posts limit:5 %}
         <article class="post">
-          <h3><a href="{{post.url}}">{{post.date | date: "%B %d, %Y"}}: {{post.title}}</a></h3>
+          <h3>{{post.date | date: "%B %d, %Y"}}: <a href="{{post.url}}">{{post.title}}</a></h3>
           {{post.excerpt}}
         </article>
       {% endfor %}
@@ -80,7 +79,24 @@ video: nrEn2_-ZeSs
 
     <hr class="divider">
 
-    <h1>Singing Bowl Types</h1>
+    <h2>Singing Bowls</h2>
+    <p><a href="/bowls/">More Singing Bowls <i class="icn-arrow-right"></i></a></p>
+    <section class="bowls">
+      {% for bowl in site.data.bowls limit:6 %}
+        <article class="bowl">
+          <div class="thumbnail"><a href="{{bowl.url}}"><img src="{{ bowl.thumbnail }}" alt=""></a></div>
+          <div class="info">
+            <h2><a href="{{bowl.url}}">{{bowl.name}}</a></h2>
+            <div class="type"><span class="label">type:</span>{{bowl.type}}</div>
+            <div class="note"><span class="label">note:</span> {{bowl.note}}</div>
+          </div>
+        </article>
+      {% endfor %}
+    </section>
+
+    <hr class="divider">
+
+    <h2>Singing Bowl Types</h2>
     <section class="types">
       {% for type in site.data.types %}
         <article class="type">
