@@ -51,9 +51,9 @@ video: 6bMVkcFSDVM
     <h1>{{page.title}}</h1>
     <p class="describe">{{page.describe}}</p>
 
-    <div class="videowrapper">
-      <iframe src="https://www.youtube.com/embed/{{page.video}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
+    {% include videoplayer.html video="6bMVkcFSDVM" %}
+
+    {% include soundcloud.html %}
 
     <section class="features">
       {% for nav in site.data.nav %}
@@ -95,20 +95,6 @@ video: 6bMVkcFSDVM
     </section>
 
     <hr class="divider">
-
-    <h2>Singing Bowl Types</h2>
-    <section class="types">
-      {% for type in site.data.types %}
-        <article class="type">
-          <h3><a href="{{ type.url }}">{{type.name}}</a></h3>
-          <p>{{type.describe}}<p>
-        </article>
-      {% endfor %}
-    </section>
-
-    <hr class="divider">
-
-    {% include soundcloud.html %}
 
     {% include share.html %}
 

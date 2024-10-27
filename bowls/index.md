@@ -22,3 +22,13 @@ color: var(--color-white)
     </article>
   {% endfor %}
 </section>
+
+<h2>Singing Bowl Types</h2>
+<section class="types">
+  {% for type in site.data.types %}
+    <article class="type">
+      <h3><a href="{{ type.url }}">{{type.name}}</a></h3>
+      <p>{{type.describe}}</p>
+    </article>
+  {% endfor %}
+</section>
