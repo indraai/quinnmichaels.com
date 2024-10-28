@@ -16,11 +16,18 @@ hashtags: QuinnMichaels,SingingBowlStudio,Videos
       <article class="video">
         <div class="thumbnail"><a href="https://youtu.be/{{video.id}}" target="youtube"><img src="{{ video.thumbnail }}" alt=""></a></div>
         <div class="info">
-          <div class="title"><a href="https://youtu.be/{{video.id}}" target="youtube">{{ video.title }}</a></div>
+          <h3><a href="#" data-video="{{video.id}}">{{ video.title }}</a></h3>
           <div class="published">{{video.published}}</div>
-          <div class="describe">{{ video.describe }}</div>
+          <p>{{ video.describe }}</p>
         </div>
       </article>
     </li>
   {% endfor %}
 </ul>
+
+<div id="VideoViewer">
+  <div class="close-button"><i class="icn-cross"></i></div>
+  <div class="videowrapper">
+    <iframe src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
