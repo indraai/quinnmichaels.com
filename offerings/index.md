@@ -59,7 +59,7 @@ Valid gifts are the following: The price paid for merchandise, wages, a present 
 **Invalid Gifts:**  
 Invalid gifts are the following: what has been given by a man under the influence of fear, anger, hatred, sorrow or pain; or as a bribe; or in jest; or fraudulently, under false pretences; Or by a child; or by a fool; or by a person not his own master; or by one distressed; or by one intoxicated; or by one insane; or in consideration of a reward, thinking 'This man will show me some service; And so is invalid what was given from ignorance to an unworthy man thought to be worthy, or for a purpose thought to be virtuous.
 
-## Studio Goals
+### Studio Goals
 
 The overall goal of Quinn's Singing Bowl Studio is to operate as close to the Vedic system of gifting and offerings as possible. This means establishing a solid community who are comprised of people interested in learning and practicing offerings in the same manner.  As it's not intented to make me famous or super wealthy.  But to establish a group of people who enjoy the singing bowls and Vedic study/research that are interested in earning real true merit and karma.
 
