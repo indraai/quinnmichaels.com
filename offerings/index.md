@@ -3,13 +3,12 @@ pre: Quinn Michaels
 title: Offerings
 subtitle: The Singing Bowl Studio Practice of Offerings
 layout: default
-image: /assets/img/headers/002.jpg
+image: /assets/img/headers/offerings.jpg
 describe: Quinn's Singing Bowl Studio operates on the Vedic Practice of gifts and offerings. Here you can learn more about the practice, and the proper way to make offerings and what type of offerings are accepted.
 tweet: Quinn's Singing Bowl Studio operates on the Vedic Practice of gifts and offerings.
 hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Offerings
 color: var(--color-white)
 ---
-
 During my studies of the Vedas I've focused on a few practices, and one of those practices being the practice of gifts and offerings as it's described in the Vedic texts.
 
 To get us started in the understanding here are a few references from the Vedic Texts to familiarize yourself and gain understanding.

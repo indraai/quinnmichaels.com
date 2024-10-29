@@ -12,6 +12,12 @@
     "describe": "A collection of Singing Bowl Studio videos to enjoy."
   },
   {
+    "key": "offerings",
+    "name": "Offerings",
+    "link": "/offerings",
+    "describe": "Quinn's Singing Bowl Studio practice of Offerings."
+  },
+  {
     "key": "blog",
     "name": "Blog",
     "link": "/blog",
