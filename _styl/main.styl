@@ -65,61 +65,6 @@ main
 .desire
   color: $colors.red
 
-$x = {
-  size: 20px
-}
-
-.share
-  display: flex
-  justify-content: center
-
-  .quote
-    flex: 1
-    line-height: .9
-    padding: 1rem
-    font-size: 2rem
-    color: $colors.grey
-    padding: 2rem 2rem 1rem 2rem
-  .buttons
-    display: flex
-    flex-flow: row nowrap
-    align-items: center
-    .x
-      font-size: 1rem
-      background-color: $colors.black
-      padding: .5rem 1rem
-      display: flex
-      align-items: center
-      &::before
-        display: inline-block
-        width: $x.size
-        height: $x.size
-        content: " "
-        margin-right: .5rem
-        background-image: url(/assets/img/x-logo/logo-small-white.png)
-        background-repeat: no-repeat
-        background-size: 100% auto
-
-.offerings
-  max-width: 500px
-  margin: auto
-  text-align: center
-  p
-    font-size: 1rem
-    padding: 0
-    margin: 0
-  ul
-    display: flex
-    list-style: none
-    justify-content: center
-    margin: 0
-    padding: 0
-    gap: .5rem
-    li
-      a
-        img
-          max-width: 200px
-          max-height: 45px
 .algo-props
   display: flex
   flex-flow: row nowrap
@@ -139,6 +84,27 @@ $x = {
       font-weight: bold
 
 
+.offerings
+  max-width: 500px
+  margin: auto
+  text-align: center
+  p
+    font-size: 1rem
+    padding: 1rem
+    margin: 0
+  ul
+    display: flex
+    list-style: none
+    justify-content: center
+    margin: 0
+    padding: 0
+    gap: .5rem
+    li
+      a
+        img
+          max-width: 200px
+          max-height: 45px
+
 .share
   display: flex
   flex-flow: row nowrap
@@ -150,7 +116,7 @@ $x = {
   align-self: center
   border-radius: 1rem
   box-shadow: 0 3px 5px rgba($colors.black, .25)
-  background-color: rgba($colors.black, .1)
+  background-color: rgba($colors.black, .25)
   .label
     max-width: 200px
   a
@@ -325,6 +291,7 @@ hr.divider
       right: .5rem
       color: $colors.white
       font-size: 3rem
+
 .videowrapper
   float: none;
   clear: both;

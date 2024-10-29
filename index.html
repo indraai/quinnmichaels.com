@@ -71,7 +71,8 @@ video: 6bMVkcFSDVM
     <section class="posts">
       {% for post in site.posts limit:5 %}
         <article class="post">
-          <h3>{{post.date | date: "%B %d, %Y"}}: <a href="{{post.url}}">{{post.title}}</a></h3>
+          <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+          <div class="published">{{post.date | date: "%B %d, %Y"}}</div>
           {{post.excerpt}}
         </article>
       {% endfor %}
@@ -82,7 +83,7 @@ video: 6bMVkcFSDVM
     <h2>Singing Bowls</h2>
     <p><a href="/bowls/">More Singing Bowls <i class="icn-arrow-right"></i></a></p>
     <section class="bowls">
-      {% for bowl in site.data.bowls limit:6 %}
+      {% for bowl in site.data.bowls limit:3 %}
         <article class="bowl">
           <div class="thumbnail"><a href="{{bowl.url}}"><img src="{{ bowl.thumbnail }}" alt=""></a></div>
           <div class="info">
