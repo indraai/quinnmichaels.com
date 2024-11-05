@@ -1,36 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://quinnmichaels.com/</loc>
+    <loc>https://quinnmichaels.com/index.html</loc>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/bowls</loc>
+    <loc>https://quinnmichaels.com/bowls/index.html</loc>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/blog</loc>
+    <loc>https://quinnmichaels.com/blog/index.html</loc>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/videos</loc>
+    <loc>https://quinnmichaels.com/offerings/index.html</loc>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/about</loc>
+    <loc>https://quinnmichaels.com/videos/index.html</loc>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/contact</loc>
+    <loc>https://quinnmichaels.com/about/index.html</loc>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/bowls/bowl/001-4in-thadobati</loc>
-  </url>
-  <url>
-    <loc>https://quinnmichaels.com/bowls/bowl/002-5in-jambati</loc>
-  </url>
-  <url>
-    <loc>https://quinnmichaels.com/bowls/bowl/003-6in-jambati</loc>
-  </url>
-  <url>
-    <loc>https://quinnmichaels.com/bowls/bowl/004-7in-hammered</loc>
-  </url>
-  <url>
-    <loc>https://quinnmichaels.com/bowls/bowl/005-8in-hammered</loc>
+    <loc>https://quinnmichaels.com/contact/index.html</loc>
   </url>
 </urlset>

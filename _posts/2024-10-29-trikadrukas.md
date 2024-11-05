@@ -4,7 +4,7 @@ title: At the Trikadrukas
 subtitle: The place where Soma is found
 layout: post
 hero: header
-date: Oct 28, 2024
+date: Oct 29, 2024
 author: Quinn Michaels
 image: /assets/img/blog/2024-10-28-header.jpg
 color: var(--color-white)

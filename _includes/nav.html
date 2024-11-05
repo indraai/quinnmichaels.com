@@ -1,8 +1,23 @@
 <menu>
-  <ul>
+  <ul class="desktop">
     <li class="title"><a href="/">{{site.title}}</a></li>
     {% for nav in site.data.nav %}
       <li><a href="{{ nav.link }}">{{ nav.name }}</a></li>
     {% endfor %}
   </ul>
+  <div class="mobile">
+    <div class="mobile-menu">
+      <div class="menu-title"><a href="/">{{site.title}}</a></div>
+      <div class="menu-button">
+        <i class="icn-menu"></i>
+      </div>
+    </div>
+    <div class="mobile-options">
+      <ul>
+      {% for nav in site.data.nav %}
+        <li><a href="{{ nav.link }}">{{ nav.name }}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
 </menu>

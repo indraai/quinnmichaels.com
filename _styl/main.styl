@@ -122,7 +122,7 @@ main
   a
     margin: 0 .25rem
     img
-      height: 72px
+      height: 50px
 
 .videos
   display: flex
@@ -137,19 +137,26 @@ main
       margin: 1rem 0
       padding: 1rem
       display: flex
-      flex-flow: row nowrap
+      flex-flow: row wrap
       gap: 1rem
       .thumbnail
+        flex: 1
+        min-width: 256px
+        text-align: center
         img
           max-width: 256px
           min-width: 256px
           border-radius: .5rem
           box-shadow: 0 3px 5px rgba($colors.black, .5)
       .info
-        h2
-          font-size: 1.75rem
+        flex: 1
+        min-width: 256px
+        h3
+          font-size: 1.5rem
           line-height: 1
           font-weight: bold
+          padding: 0
+          margin: 0
         p
           font-size: 1rem
           margin: .5rem 0 0 0
@@ -168,7 +175,9 @@ main
     flex-flow: column nowrap
     gap: 1rem
     flex: 1
+    max-width: 34%
     .thumbnail
+      text-align: center
       img
         max-width: 256px
         min-width: 256px
@@ -242,12 +251,11 @@ main
 
 section.types
   display: flex
-  flex-flow: row wrap
+  flex-flow: column
   gap: .5rem
   padding: .5rem
   .type
     flex: 1
-    min-width: 30%
     border-radius: 1rem
     box-shadow: 0 3px 5px rgba($colors.black, .5)
     background-color: rgba($colors.black, .75)
