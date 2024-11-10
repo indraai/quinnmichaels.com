@@ -12,6 +12,12 @@
     "describe": "A collection of Singing Bowl Studio videos to enjoy."
   },
   {
+    "key": "art",
+    "name": "Art",
+    "link": "/art",
+    "describe": "Quinn's artwork that accompanies the singing bowls."
+  },
+  {
     "key": "blog",
     "name": "Blog",
     "link": "/blog",
