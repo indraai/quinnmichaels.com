@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://quinnmichaels.com/index.html</loc>
-  </url>
-  <url>
     <loc>https://quinnmichaels.com/bowls/index.html</loc>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/blog/index.html</loc>
+    <loc>https://quinnmichaels.com/bowls/bowl/001-4in-thadobati.html</loc>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/offerings/index.html</loc>
+    <loc>https://quinnmichaels.com/bowls/bowl/002-5in-jambati.html</loc>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/videos/index.html</loc>
+    <loc>https://quinnmichaels.com/bowls/bowl/003-6in-jambati.html</loc>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/about/index.html</loc>
+    <loc>https://quinnmichaels.com/bowls/bowl/004-7in-hammered.html</loc>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/contact/index.html</loc>
+    <loc>https://quinnmichaels.com/bowls/bowl/005-8in-hammered.html</loc>
   </url>
+  <url>
+    <loc>https://quinnmichaels.com/bowls/bowl/006-9in-hammered.html</loc>
+  </url>
+  <url>
+    <loc>https://quinnmichaels.com/bowls/bowl/007-9in-buddha.html</loc>
+  </url>
+  <url>
+    <loc>https://quinnmichaels.com/bowls/bowl/008-9.5in-hammered.html</loc>
+  </url>
+  <url>
+    <loc>https://quinnmichaels.com/bowls/bowl/009-10in-antique.html</loc>
+  </url>
+  <url>
+    <loc>https://quinnmichaels.com/bowls/bowl/010-11in-jambati.html</loc>
+  </url>
+
 </urlset>
