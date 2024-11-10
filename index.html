@@ -1,8 +1,9 @@
 ---
+permalink: /
 pre: Quinn Michaels
 title: Quinn's Singing Bowl Studio
 subtitle: Welcome to Quinn's Singing Bowl Studio
-describe: Quinn Michaels offers Quinn's Singing Bowl Studio where you can immerse yourself in the soothing sounds of crystal and Tibetan singing bowls while enjoying a unique art experience. Quinn Michaels offers an experience designed to spart your creativity and ignite your imagination.
+describe: Quinn Michaels offers Quinn's Singing Bowl Studio where you can immerse yourself in the soothing sounds of crystal and Tibetan singing bowls while enjoying a unique art experience. Quinn Michaels offers an experience designed to spark your creativity and ignite your imagination.
 tweet: Quinn's Singing Bowl Studio where you can immerse yourself in the sounds of Tibetan and crystal singing bowls while enjoying a unique art experience.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowls,Meditation,Art
 image: /assets/img/headers/001-temple.jpg
@@ -48,12 +49,9 @@ video: xb_NMR1QMWU
   </header>
 
 	<main>
-    <h1>{{page.title}}</h1>
     <p class="describe">{{page.describe}}</p>
 
     {% include videoplayer.html id="xb_NMR1QMWU" %}
-
-    {% include soundcloud.html %}
 
     <section class="features">
       {% for nav in site.data.nav %}
@@ -83,7 +81,7 @@ video: xb_NMR1QMWU
     <h2>Singing Bowls</h2>
     <p><a href="/bowls/">More Singing Bowls <i class="icn-arrow-right"></i></a></p>
     <section class="bowls">
-      {% for bowl in site.data.bowls limit:3 %}
+      {% for bowl in site.data.bowls limit:6 %}
         <article class="bowl">
           <div class="thumbnail"><a href="{{bowl.url}}"><img src="{{ bowl.thumbnail }}" alt=""></a></div>
           <div class="info">
@@ -97,7 +95,9 @@ video: xb_NMR1QMWU
 
     <hr class="divider">
 
-    {% include share.html %}
+    <h2>Sound Cloud</h2>
+
+    {% include soundcloud.html %}
 
   </main>
   {% include footer.html %}

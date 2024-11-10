@@ -1,8 +1,60 @@
 footer
   font-size: .75rem
   padding: 1rem
+  display: flex
+  flex-flow: row wrap
+  background-color: $colors.darkest-grey
+  color: $colors.light-grey
+  text-align: center
+  align-items: center
+  justify-content: center
+  .copyright
+  .share
+  .offerings
+    height: 200px
 
   .copyright
     text-align: center
     padding: .5rem
     margin: 0
+    max-width: 200px
+
+  .share
+    max-width: 300px
+
+  .offerings
+    max-width: 500px
+    text-align: center
+
+  .share
+  .offerings
+    display: flex
+    flex-flow: column nowrap
+    gap: .25rem
+    padding: .75rem 1rem
+    margin: .5rem
+    justify-content: center
+    align-items: center
+    align-self: center
+    border-radius: 1rem
+    background-color: $colors.darker-grey
+
+    .label
+      font-size: 1rem
+      padding: 1rem
+      margin: 0
+
+    .services
+      display: flex
+      ul
+        display: flex
+        list-style: none
+        justify-content: center
+        margin: 0
+        padding: 0
+        gap: .5rem
+        a
+          margin: 0 .25rem
+          img
+            max-width: 200px
+            max-height: 45px

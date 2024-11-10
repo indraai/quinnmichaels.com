@@ -1,4 +1,5 @@
 ---
+permalink: /blog/
 pre: Quinn Michaels
 title: Quinn's Blog
 subtitle: Insights on Meditation, Singing Bowls, and Ancient Wisdom
