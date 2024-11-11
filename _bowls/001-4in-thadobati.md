@@ -4,6 +4,9 @@ title: 4in Tibetan Thadobati
 subtitle: Tuned to the note B4 at 493.88 Hz
 layout: default
 image: /assets/img/headers/bowls/001-4in.jpg
+thumbnail: /assets/img/bowls/001-4in-thadobati-thumb.jpg
+note: B4
+frequency: 493.88
 describe: The 4in Tibetan Thadobati is tuned to the note B4, which typically resonates at around 493.88 Hz. The B4 note of this bowl provides a bright, clear sound that is particularly effective for meditation aimed at spiritual awakening or mental clarity.
 tweet: The 4in Tibetan Thadobati is tuned to the note B4, which typically resonates at around 493.88 Hz.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Thadobati

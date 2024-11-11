@@ -12,12 +12,10 @@ color: var(--color-white)
 ---
 
 <section class="art">
-  {% for art in site.data.art %}
+  {% for art in site.art %}
     <article class="artwork">
       <div class="thumbnail"><a href="{{art.url}}"><img src="{{ art.thumbnail }}" alt=""></a></div>
-      <div class="info">
-        <h2><a href="{{art.url}}">{{art.name}}</a></h2>
-        <div class="note">{{art.note}}</div>
+      <div class="name"><a href="{{art.url}}">{{art.name}}</a>
       </div>
     </article>
   {% endfor %}

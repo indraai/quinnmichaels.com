@@ -4,6 +4,9 @@ title: 6in Tibetan Jambati
 subtitle: Tuned to E4 at 329.63 Hz
 layout: default
 image: /assets/img/headers/bowls/003-6in.jpg
+thumbnail: /assets/img/bowls/003-6in-jambati-thumb.jpg
+note: E4
+frequency: 329.63
 describe: The 6in Tibetan Jambati Singing Bowl is tuned to E4, typically resonating around 329.63 Hz. The E4 note offers a warm, resonant tone that is both grounding and empowering, filling the space with a sense of strength and balance.
 tweet: The 6in Tibetan Jambati Singing Bowl is tuned to E4, typically resonating around 329.63 Hz.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Jambati

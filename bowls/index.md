@@ -12,14 +12,10 @@ color: var(--color-white)
 ---
 
 <section class="bowls">
-  {% for bowl in site.data.bowls %}
+  {% for bowl in site.bowls %}
     <article class="bowl">
       <div class="thumbnail"><a href="{{bowl.url}}"><img src="{{ bowl.thumbnail }}" alt=""></a></div>
-      <div class="info">
-        <h2><a href="{{bowl.url}}">{{bowl.name}}</a></h2>
-        <div class="type"><span class="label">type:</span>{{bowl.type}}</div>
-        <div class="note"><span class="label">note:</span> {{bowl.note}}</div>
-      </div>
+      <div class="name"><a href="{{bowl.url}}">{{bowl.title}}</a></div>
     </article>
   {% endfor %}
 </section>

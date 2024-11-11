@@ -5,8 +5,10 @@
 @import "header"
 @import "footer"
 @import "menu"
+@import "bowls"
 @import "blog"
 @import "videos"
+@import "art"
 @import "widget"
 @import "monokai"
 
@@ -84,39 +86,6 @@ main
       font-size: 1.25rem
       font-weight: bold
 
-.bowls
-  display: flex
-  flex-flow: row wrap
-  margin: 0
-  padding: 0
-  .bowl
-    margin: .5rem 0
-    display: flex
-    flex-flow: column nowrap
-    gap: 1rem
-    flex: 1
-    max-width: 34%
-    .thumbnail
-      text-align: center
-      img
-        max-width: 256px
-        min-width: 256px
-        border-radius: 1rem
-        box-shadow: 0 3px 5px rgba($colors.black, .5)
-    .info
-      h2
-        font-size: 1.5rem
-        line-height: 1
-        margin: 0
-        padding: 0
-        line-height: 1
-        font-weight: bold
-      p
-        font-size: 1rem
-        margin: .5rem 0 0 0
-      .published
-        font-size: .9rem
-        font-weight: bold
 
 .features
   display: flex
@@ -171,25 +140,6 @@ main
     &.offerings
       background-image: url(/assets/img/headers/offerings-thumb.jpg)
 
-section.types
-  display: flex
-  flex-flow: column
-  gap: .5rem
-  padding: .5rem
-  .type
-    flex: 1
-    border-radius: 1rem
-    box-shadow: 0 3px 5px rgba($colors.black, .5)
-    background-color: rgba($colors.black, .75)
-    padding: .5rem
-    color: $colors.white
-    h3
-      text-align: center
-      padding: 0
-      margin: 0
-    p
-      padding: 0 1rem
-      margin: 0
 hr.divider
   height: 10px
   background-color: black

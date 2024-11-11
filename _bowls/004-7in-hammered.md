@@ -4,6 +4,9 @@ title: 7in Tibetan Hammered
 subtitle: Tuned to E5 at 659.26 Hz
 layout: default
 image: /assets/img/headers/bowls/004-7in.jpg
+thumbnail: /assets/img/bowls/004-7in-hammered-thumb.jpg
+note: E5
+frequency: 659.26
 describe: The 7in Tibetan Hammered Singing Bowl is tuned to E5, typically resonating around 659.26 Hz. This high pitch is associated with the Solar Plexus Chakra, promoting vitality, transformation, and personal power.
 tweet: The 7in Nepal Hammered Singing Bowl is tuned to E5, typically resonating around 659.26 Hz.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Hammered

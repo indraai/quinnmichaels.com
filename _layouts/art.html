@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <title>{{page.name}} - {{page.title}}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <title>{{page.pre}} - {{page.title}}</title>
-
-    <meta name="description" content="{{page.describe}}"/>
+    <meta name="description" content="{{page.describe}}">
+    <meta name="author" content="{{page.author}}">
+    <meta name="copyright" content="{{page.copyright}}">
 
     <meta property="og:site_name" content="{{page.name}}">
-    <meta property="og:title" content="{{page.pre}} - {{page.title}}">
+    <meta property="og:title" content="{{page.title}}">
     <meta property="og:description" content="{{page.describe}}">
     <meta property="og:image" content="{{site.url}}{{page.image}}">
-    <meta property="og:url" content="{{site.url}}{{page.url}}">
+    <meta property="og:url" content="{{page.site}}">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image:alt" content="{{page.describe}}">
@@ -22,29 +22,35 @@
     <meta name="twitter:image" content="{{site.url}}{{page.image}}">
     <meta name="twitter:description" content="{{page.describe}}">
 
+    <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
+
+    <!-- Le styles -->
     <link rel="stylesheet" href="https://use.typekit.net/dds5scw.css">
-  	<link href="/assets/css/main.css" rel="stylesheet" type="text/css">
+    <link href="/assets/css/main.css" rel="stylesheet">
   </head>
 
   <body>
     <header style="--header-bg: url({{page.image}}); --header-color: {{page.color}};">
       {% include nav.html %}
-      <div class="hero">
+      <div class="hero small">
         <h1>{{page.title}}</h1>
-        <p>{{page.subtitle}}</p>
+        <p>{{page.describe}}</p>
       </div>
     </header>
 
-    <main class="page">
-      <p>{{page.describe}}</p>
-
-      <section class="content">
-        {{content}}
+    <main>
+      <section class="art">
+        <article class="artwork">
+          <div class="image"><img src="{{page.image}}" alt=""></div>
+          <div class="date">{{page.title}}</div>
+          <div class="date">{{page.date | date: "%B %d, %Y"}}</div>
+        </article>
+        <article class="content">
+          {{content}}
+        </article>
       </section>
-
     </main>
 
     {% include footer.html %}
-
   </body>
 </html>
