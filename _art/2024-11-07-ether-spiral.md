@@ -5,6 +5,7 @@ subtitle: Vibrant, abstract piece that evokes a sense of dynamism and energy.
 layout: art
 image: /assets/img/art/001-ether-spiral.jpg
 thumbnail: /assets/img/art/001-ether-spiral-thumb.jpg
+published: November 7, 2024
 describe: Ether Spiral is an abstract piece that evokes a sense of dynamism and energy. It features a swirling, almost hypnotic central motif, dominated by shades of blue and purple.
 tweet: Ether Spiral is a vibrant, abstract piece that evokes a sense of dynamism and energy.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,Art,EtherSpiral

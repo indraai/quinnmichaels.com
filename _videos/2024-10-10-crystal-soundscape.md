@@ -3,13 +3,13 @@ pre: Quinn Michaels
 title: Crystal Soundscape
 subtitle: Deep Soothing Soundscape Crystal Singing Bowl Meditation
 layout: video
-header: /assets/img/headers/bowls/001-4in.jpg
-image: /assets/img/bowls/001-4in-thadobati.jpg
-thumbnail: /assets/img/thumbnails/004.jpg
+header: /assets/img/videos/2024-10-10-crystal-header.jpg
+image: /assets/img/videos/2024-10-10-crystal.jpg
+thumbnail: /assets/img/videos/2024-10-10-crystal-thumb.jpg
 published: October 10, 2024
 describe: Experience the power of Prana meditation as you follow the color patterns of each chakra and focus on your breath. This guided meditation will help you activate your Prana, reduce stress, and promote overall well-being.
 tweet: Experience the power of Prana meditation as you follow the color patterns of each chakra and focus on your breath.
-hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlVideo,Prana
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,CrystalSingingBowls,Prana,Video
 color: var(--color-white)
 ---
 

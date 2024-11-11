@@ -1,3 +1,16 @@
-<div class="videowrapper">
-  <iframe src="https://www.youtube.com/embed/{{include.id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<section class="videoplayer">
+  <div class="videowrapper">
+    <iframe src="https://www.youtube.com/embed/{{include.id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <div class="videolist">
+    <ul>
+      {% assign sort_videos = site.videos | reverse %}
+        {% for video in sort_videos limit:7 %}
+          <li class="video">
+            <div class="thumbnail"><a href="{{video.url}}"><img src="{{ video.thumbnail }}" alt=""></a></div>
+            <div class="title"><a href="{{video.url}}">{{ video.title }}</a></div>
+          </li>
+        {% endfor %}
+    </ul>
+  </div>
+</section>

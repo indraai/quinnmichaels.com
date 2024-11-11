@@ -3,16 +3,15 @@ pre: Quinn Michaels
 title: Prana Meditation
 subtitle: 432hz Seven Chakra Crystal Singing Bowl Prana Sound Bath Color Therapy Meditation
 layout: video
-header: /assets/img/headers/bowls/001-4in.jpg
-image: /assets/img/bowls/001-4in-thadobati.jpg
-thumbnail: /assets/img/thumbnails/001.webp
+header: /assets/img/videos/2024-09-27-prana-header.jpg
+image: /assets/img/videos/2024-09-27-prana.jpg
+thumbnail: /assets/img/videos/2024-09-27-prana-thumb.jpg
 published: September 27, 2024
 describe: 432hz full spectrum seven chakra crystal sining bowl sound bath color therapy Prana meditation. Do this meditation everyday for seven days and see the benefits. Do this meditation everyday for 30 days and change your life.
 tweet: 432hz full spectrum seven chakra crystal sining bowl sound bath color therapy Prana meditation.
-hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlVideo,SevenChakraMeditation
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,CrystalSingingBowl,SevenChakraMeditation,Video
 color: var(--color-white)
 ---
-
 {% include videoplayer.html id="Vxc78le0LFw" %}
 
 432hz full spectrum seven chakra crystal sining bowl sound bath color therapy Prana meditation.

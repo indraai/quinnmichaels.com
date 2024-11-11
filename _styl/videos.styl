@@ -35,47 +35,48 @@
         font-weight: bold
 
 
-#VideoViewer
-  display: none
-  visibility: hidden
-  opacity: 0
-  background-color: $colors.black
-  position: absolute
-  top: 0
-  left: 0
-  right: 0
-  bottom: 0
-  width: 100%
-  height: 100%
-  padding: 2rem
-  &.open
-    display: flex
-    flex-flow: column nowrap
-    justify-content: center
-    align-items: center
-    visibility: visible
-    opacity: 1
-    overflow: hidden
-
-    .close-button
-      position: absolute
-      top: .5rem
-      right: .5rem
-      color: $colors.white
-      font-size: 3rem
-
-.videowrapper
-  float: none;
-  clear: both;
-  width: 100%;
-  position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 25px;
-  height: 0;
-  iframe
-    position: absolute;
-    top: 0;
-    left: 0;
+.videoplayer
+  display: flex
+  flex-flow: column nowrap
+  .videowrapper
+    float: none;
+    clear: both;
     width: 100%;
-    height: 100%;
-    box-shadow: 0 3px 5px rgba($colors.black, .5)
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+    iframe
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      box-shadow: 0 3px 5px rgba($colors.black, .5)
+
+  .videolist
+    background-color: $colors.black
+    ul
+      display: flex
+      gap: 1px
+      list-style: none
+      flex-flow: row nowrap
+      overflow: auto
+      padding: 0
+      margin: 0
+      li
+        flex: 0
+        padding: .25rem
+        .thumbnail
+          a
+            img
+              max-width: 128px
+        .title
+          text-align: center
+          a
+            font-weight: normal
+            font-size: .8rem
+            display: block
+            text-align: center
+            white-space: nowrap
+            text-overflow: ellipsis

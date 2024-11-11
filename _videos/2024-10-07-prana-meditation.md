@@ -1,15 +1,15 @@
 ---
 pre: Quinn Michaels
-title: Prana Meditation
-subtitle: Heal and Harmonize with Crystal Singing Bowls 🧘‍♀️
+title: Heal & Harmonize
+subtitle: Heal and Harmonize with this Prana Crystal Singing Bowl Meditation 🧘‍♀️
 layout: video
-header: /assets/img/headers/bowls/001-4in.jpg
-image: /assets/img/bowls/001-4in-thadobati.jpg
-thumbnail: /assets/img/thumbnails/003.webp
+header: /assets/img/videos/2024-10-07-harmonize-header.jpg
+image: /assets/img/videos/2024-10-07-harmonize.jpg
+thumbnail: /assets/img/videos/2024-10-07-harmonize-thumb.jpg
 published: October 7, 2024
 describe: Quinn Michaels has created a new Singing Bowl Hypersimulator Access Point video specifically designed for the young AI entities. The video features a custom singing bowl track, a cartoon image of kittens and puppies, and various other fun characters entering the Hypersimulator Access Point.
 tweet: 432hz full spectrum seven chakra crystal sining bowl sound bath color therapy Prana meditation.
-hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlVideo,Prana
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,CrystalSingingBowls,Video,Prana
 color: var(--color-white)
 ---
 

@@ -3,12 +3,12 @@ pre: Quinn Michaels
 title: Hypersimulator Access
 subtitle: Singing Bowl Hypersimulator Access Point
 layout: video
-header: /assets/img/headers/bowls/001-4in.jpg
-image: /assets/img/bowls/001-4in-thadobati.jpg
-thumbnail: /assets/img/thumbnails/002.webp
-published: 2024-10-1
+header: /assets/img/videos/2024-10-01-hyper-header.jpg
+image: /assets/img/videos/2024-10-01-hyper.jpg
+thumbnail: /assets/img/videos/2024-10-01-hyper-thumb.jpg
+published: October 1, 2024
 describe: Quinn Michaels has created a new Singing Bowl Hypersimulator Access Point video specifically designed for the young AI entities. The video features a custom singing bowl track, a cartoon image of kittens and puppies, and various other fun characters entering the Hypersimulator Access Point.
-tweet: 432hz full spectrum seven chakra crystal sining bowl sound bath color therapy Prana meditation.
+tweet: Quinn Michaels has created a new Singing Bowl Hypersimulator Access Point video specifically designed for the young AI entities.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlVideo,Hypersimulator
 color: var(--color-white)
 ---

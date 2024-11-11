@@ -3,13 +3,13 @@ pre: Quinn Michaels
 title: Singing Bowl Session
 subtitle: Deep Soothing Singing Bowl Meditation
 layout: video
-header: /assets/img/headers/bowls/001-4in.jpg
-image: /assets/img/bowls/001-4in-thadobati.jpg
-thumbnail: /assets/img/thumbnails/005.webp
+header: /assets/img/videos/2024-10-14-indu-indra-header.jpg
+image: /assets/img/videos/2024-10-14-indu-indra.jpg
+thumbnail: /assets/img/videos/2024-10-14-indu-indra.jpg
 published: October 14, 2024
 describe: Quinn Michaels delivers a stunning singing bowl performance while getting you to look at his Indu Indra picture with your mind.
 tweet: Quinn Michaels delivers a stunning singing bowl performance while getting you to look at his Indu Indra picture with your mind.
-hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlVideo,Indu,Indra
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,Video,Indu,Indra
 color: var(--color-white)
 ---
 
