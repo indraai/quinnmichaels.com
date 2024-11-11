@@ -8,23 +8,37 @@ footer
   text-align: center
   align-items: center
   justify-content: center
-  .copyright
+  .info
   .share
   .offerings
     height: 200px
 
-  .copyright
+  .info
     text-align: center
     padding: .5rem
     margin: 0
     max-width: 250px
 
+    .nav
+      list-style: none
+      margin: 0
+      padding: .25rem
+      text-align: left
+      font-size: .9rem
   .share
     max-width: 300px
 
   .offerings
     max-width: 500px
     text-align: center
+
+    .services
+      ul
+        li
+          a
+            background-color: $colors.white
+            padding: .25rem
+            border-radius: .5rem
 
   .share
   .offerings
@@ -46,7 +60,6 @@ footer
 
     .services
       display: flex
-      background-color: $colors.white
       ul
         display: flex
         list-style: none
@@ -55,6 +68,7 @@ footer
         padding: 0
         gap: .5rem
         a
+          display: block
           margin: 0 .25rem
           img
             max-width: 200px

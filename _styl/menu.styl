@@ -1,16 +1,58 @@
 menu
+  position: fixed
+  top: 0
+  left: 0
+  right: 0
+  width: 100%
   display: flex
   padding: 0
   margin: 0
   align-items: center
   justify-content: center
   background-color: rgba($colors.darkest-grey, .65)
+  z-index: 1000
+
+  a
+    font-weight: normal
+
   .mobile
     display: none
   .desktop
     display: flex
+    flex-flow: row wrap
+    list-style: none
+    margin: 0
+    padding: 0
+    align-items: center
+
+    li
+      font-size: .9rem
+      padding: .25rem
+      margin: 0
+      color: $colors.white
+      a
+        display: inline-block
+        padding: .5rem 1rem
+        color: $colors.baby-blue
+        text-decoration: none
+        &:hover
+          color: $colors.green
+
+        &:active
+          color: $colors.red
+
+    .title
+      font-size: 1rem
+      a
+        color: $colors.white
+        &:hover
+          background-color: transparent
+          box-shadow: none
+          border-bottom: 1px solid transparent
 
   @media screen and (max-width: 700px)
+    .desktop
+      display: none
     .mobile
       display: flex
       flex: 1
@@ -53,33 +95,3 @@ menu
             flex-flow: column
             li
               font-size: 3rem
-    .desktop
-      display: none
-
-  ul
-    flex-flow: row wrap
-    list-style: none
-    margin: 0
-    padding: 0
-    align-items: center
-
-    li
-      font-size: .9rem
-      padding: .25rem
-      margin: 0
-      color: $colors.white
-      a
-        display: inline-block
-        padding: .5rem 1rem
-        border-radius: 2rem
-        color: $colors.light-grey
-        &:hover
-          text-decoration: none
-          background-color: $colors.baby-blue
-          color: $colors.darkest-grey
-          box-shadow: inset 0 2px 5px rgba($colors.black, .5)
-
-        &:active
-          text-decoration: none
-          background-color: $colors.green
-          color: $colors.darkest-grey

@@ -2,8 +2,12 @@
 pre: Quinn Michaels
 title: 9.5in Tibetan Hammered
 subtitle: Tuned to B1 at 61.74 Hz
-layout: default
-image: /assets/img/headers/bowls/008-9.5in.jpg
+layout: bowl
+header: /assets/img/headers/bowls/008-9.5in.jpg
+image: /assets/img/bowls/008-9.5in-hammered.jpg
+thumbnail: /assets/img/bowls/008-9.5in-hammered-thumb.jpg
+note: B1
+frequency: 61.74
 describe: Large Tibetan singing bowls, such as this 9.5-inch model tuned to B1, are revered for their deep, resonant tones that fill spaces with vibrations felt more than heard. Hand-hammered from traditional alloys, these bowls are not only musical instruments but also tools for meditation, sound healing, and spiritual practices.
 tweet: The 9.5in Tibetan Hammered Singing Bowl tuned to B1 resonating at 61.74 Hz.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Hammered

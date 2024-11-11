@@ -1,6 +1,6 @@
 ---
 pre: Quinn Michaels
-title: About Quinn
+title: About
 subtitle: Artistry Inspired by Sound and Meditation
 layout: default
 image: /assets/img/headers/005.jpg

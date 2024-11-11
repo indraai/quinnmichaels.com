@@ -1,8 +1,8 @@
 ---
 permalink: /bowls/
 pre: Quinn Michaels
-title: Quinn's Singing Bowls
-subtitle: A curated selection of Crystal and Tibetan Singing Bowls.
+title: Bowls
+subtitle: Quinn's collection of Crystal and Tibetan Singing Bowls.
 layout: default
 image: /assets/img/headers/002.jpg
 describe: Learn about our a curated selection of handcrafted crystal and Tibetan singing bowls, designed to promote relaxation, meditation, and healing. Each singing bowl is unique and offers its own distinctive vibrations.

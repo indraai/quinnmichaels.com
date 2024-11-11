@@ -1,7 +1,7 @@
 ---
 permalink: /contact/
 pre: Quinn Michaels
-title: Contact Quinn
+title: Contact
 subtitle: The various methods to contact Quinn Michaels can be found here
 layout: default
 image: /assets/img/headers/006.jpg

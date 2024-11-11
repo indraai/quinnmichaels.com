@@ -40,19 +40,20 @@ h4
   margin: .6rem 0 0 0
 
 a
-  transition: .25s all linear
-  color: var(--color-blue)
+  transition: .5s all linear
+  color: $colors.baby-blue
   font-weight: bold
   text-decoration: none
+  border-bottom: 1px solid transparent
 
 a:hover
-  color: var(--color-red)
-  text-decoration: underline
+  color: $colors.green
+  text-decoration: none
   cursor: pointer
-
-a:visited
-  color: var(--color-green)
-  text-decoration: underline
+  border-bottom: 1px solid
+a:active
+  color: $colors.red
+  text-decoration: none
   cursor: pointer
 
 a.training

@@ -2,8 +2,9 @@
 pre: Quinn Michaels
 title: 7in Tibetan Hammered
 subtitle: Tuned to E5 at 659.26 Hz
-layout: default
-image: /assets/img/headers/bowls/004-7in.jpg
+layout: bowl
+header: /assets/img/headers/bowls/004-7in.jpg
+image: /assets/img/bowls/004-7in-hammered.jpg
 thumbnail: /assets/img/bowls/004-7in-hammered-thumb.jpg
 note: E5
 frequency: 659.26

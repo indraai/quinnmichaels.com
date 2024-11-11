@@ -1,7 +1,7 @@
 ---
 permalink: /art/
 pre: Quinn Michaels
-title: Quinn's Art
+title: Art
 subtitle: Artistry Inspired by Sound and Meditation
 layout: default
 image: /assets/img/headers/art/main.jpg

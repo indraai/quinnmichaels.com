@@ -2,8 +2,9 @@
 pre: Quinn Michaels
 title: 6in Tibetan Jambati
 subtitle: Tuned to E4 at 329.63 Hz
-layout: default
-image: /assets/img/headers/bowls/003-6in.jpg
+layout: bowl
+header: /assets/img/headers/bowls/003-6in.jpg
+image: /assets/img/bowls/003-6in-jambati.jpg
 thumbnail: /assets/img/bowls/003-6in-jambati-thumb.jpg
 note: E4
 frequency: 329.63

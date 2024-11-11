@@ -30,7 +30,7 @@
   </head>
 
   <body>
-    <header style="--header-bg: url({{page.image}}); --header-color: {{page.color}};">
+    <header style="--header-bg: url({{page.header}}); --header-color: {{page.color}};">
       {% include nav.html %}
       <div class="hero small">
         <h1>{{page.title}}</h1>
@@ -40,11 +40,9 @@
 
     <main>
       <h2>{{page.title}}</h2>
-      <section class="post">
-        <article class="meta">
-          <div class="author"><strong>author</strong>: {{page.author}}</div>
-          <div class="date"><strong>date</strong>: {{page.date | date: "%B %d, %Y"}}</div>
-        </article>
+      <section class="bowl">
+        <p>{{page.describe}}</p>
+
         <article class="content">
           {{content}}
         </article>

@@ -15,6 +15,6 @@ $('#VideoViewer .close-button').on('click', (e) => {
   $('#VideoViewer .videowrapper iframe').attr('src', '');
 });
 
-$('menu .mobile .menu-button').on('click', (e) => {
+$('menu .mobile').delegate('.menu-button', 'click', (e) => {
   $('menu .mobile .mobile-options').toggleClass('open');
-})
+});

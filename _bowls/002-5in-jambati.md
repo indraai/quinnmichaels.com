@@ -2,8 +2,9 @@
 pre: Quinn Michaels
 title: 5in Tibetan Jambati
 subtitle: Tuned to the note A4 at 440 Hz
-layout: default
-image: /assets/img/headers/bowls/002-5in.jpg
+layout: bowl
+header: /assets/img/headers/bowls/002-5in.jpg
+image: /assets/img/bowls/002-5in-jambati.jpg
 thumbnail: /assets/img/bowls/002-5in-jambati-thumb.jpg
 note: A4
 frequency: 440

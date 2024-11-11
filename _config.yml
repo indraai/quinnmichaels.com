@@ -11,3 +11,6 @@ collections:
   bowls:
     output: true
     permalink: /:collection/:name
+  videos:
+    output: true
+    permalink: /:collection/:name

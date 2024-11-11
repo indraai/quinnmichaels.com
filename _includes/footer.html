@@ -3,6 +3,11 @@
   {% include offerings.html %}
 
   <section class="info">
+    <ul class="nav">
+    {% for nav in site.data.nav %}
+      <li><a href="{{ nav.link }}">{{ nav.name }}</a></li>
+    {% endfor %}
+    </ul>
     <div class="copyright">&copy;2024 Quinn Michaels. All rights reserved.</div>
   </section>
 </footer>

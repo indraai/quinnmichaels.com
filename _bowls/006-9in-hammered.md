@@ -2,8 +2,12 @@
 pre: Quinn Michaels
 title: 9in Tibetan Hammered
 subtitle: Tuned to D3 at 146.83 Hz
-layout: default
-image: /assets/img/headers/bowls/006-9in.jpg
+layout: bowl
+header: /assets/img/headers/bowls/006-9in.jpg
+image: /assets/img/bowls/006-9in-hammered.jpg
+thumbnail: /assets/img/bowls/006-9in-hammered-thumb.jpg
+note: D3
+frequency: 146.83
 describe: The 9in Large Master Healing Hand hammered Tibetan Singing Bowl providing an expansive and immersive sound experience.
 tweet: The 8in Tibetan Hammered Singing Bowl is tuned to D3, resonating around 146.83 Hz.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Hammered

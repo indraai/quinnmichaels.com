@@ -1,9 +1,13 @@
 ---
 pre: Quinn Michaels
-title: 9in Tibetan Hammered
+title: 9in Tibetan Buddha
 subtitle: Tuned to A4 at 440 Hz
-layout: default
-image: /assets/img/headers/bowls/007-9in.jpg
+layout: bowl
+header: /assets/img/headers/bowls/007-9in.jpg
+image: /assets/img/bowls/007-9in-buddha.jpg
+thumbnail: /assets/img/bowls/007-9in-buddha-thumb.jpg
+note: A4
+frequency: 440
 describe: Elevating the traditional Tibetan singing bowl to an artifact of spiritual significance, this 9-inch bowl not only resonates with the healing A4 note (440 Hz) but also features an intricate engraving of the Buddha inside and the sacred Tibetan mantra "Om Mani Padme Hum" on its exterior, making it a centerpiece for meditation and healing practices.
 tweet: The 9in Tibetan Singing Bowl with Buddha Engraving, Om Mani Padme Hum, and A4 Note resonating 440 Hz.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Buddha
@@ -59,4 +63,4 @@ This 9in Tibetan Singing Bowl, with its detailed engravings and precise A4 tunin
 ---
 
 Previous Bowl: [9in Tibetan Hammered](006-9in-hammered)  
-Next Bowl: [9.5in Tibetan Hammered](008-9.5in-hammered)
+Next Bowl: [9.5in Tibetan Hammered](008-9-5in-hammered)
