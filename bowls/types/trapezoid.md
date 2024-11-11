@@ -6,7 +6,7 @@ layout: default
 image: /assets/img/headers/002.jpg
 describe: Trapezoid bowls, not as common, have a shape that resembles a trapezoid, with sides that flare out more than typical bowls. Their unique shape contributes to a distinctive sound profile, often rich in overtones.
 tweet: Trapezoid bowls have a shape that resembles a trapezoid, with sides that flare out more than typical bowls.
-hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Thadobati
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlTypes,Thadobati
 color: var(--color-white)
 ---
 

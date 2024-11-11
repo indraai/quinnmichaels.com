@@ -6,7 +6,7 @@ layout: default
 image: /assets/img/bowls/types/jambati.jpg
 describe: Jambati Singing Bowls style are known for their deep, resonant tones, Jambati bowls are often large with thick walls, displaying visible hammering marks. They are associated with the grounding energies due to their deep and calming sound vibrations.
 tweet: Jambati Singing Bowls style are known for their deep, resonant tones, Jambati bowls are often large with thick walls, displaying visible hammering marks.
-hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Jambati
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlTypes,Jambati
 color: var(--color-white)
 ---
 

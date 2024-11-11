@@ -3,7 +3,7 @@
 console.log('WELCOME TO QUINN\'S SINGING BOWL STUDIO')
 $('[data-video]').on('click', (e) => {
   e.preventDefault();
-  const url = `https://www.youtube.com/embed/${e.target.dataset.video}`;
+  const url = `https://www.youtube.com/embed/${e.delegateTarget.dataset.video}`;
   $('#VideoViewer .videowrapper iframe').attr('src', url);
   $('#VideoViewer').addClass('open');
   $('.videos').addClass('hidden');

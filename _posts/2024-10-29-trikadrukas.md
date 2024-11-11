@@ -9,7 +9,7 @@ author: Quinn Michaels
 image: /assets/img/blog/2024-10-28-header.jpg
 color: var(--color-white)
 tweet: In the Trikadrukas. The place where Soma is found.
-hashtags: QuinnMichaels,SingingBowlStudio,Blog,Indu,Indra,Soma
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,Blog,Indu,Indra,Soma
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 

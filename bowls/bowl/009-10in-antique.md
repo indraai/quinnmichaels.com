@@ -6,13 +6,11 @@ layout: default
 image: /assets/img/headers/bowls/009-10in.jpg
 describe: Antique Jambati singing bowls are among the most sought-after types due to their age, craftsmanship, and the rich, deep tones they produce. This 10-inch Jambati bowl, tuned to the note G3, exemplifies the ancient art of bowl making from the Himalayan region, cherished for its sound healing properties and historical value.
 tweet: The 10in Antique Tibetan Jambati Singing Bowl tuned to G3 resonating at 196 Hz.
-hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Jambati
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Jambati
 color: var(--color-white)
 ---
 
-<div class="videowrapper">
-<iframe src="https://www.youtube.com/embed/vWJyvgJIOj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include videoplayer.html id="vWJyvgJIOj8" %}
 
 ### Specifications of the Antique Jambati Bowl
 

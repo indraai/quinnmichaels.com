@@ -6,7 +6,7 @@ layout: default
 image: /assets/img/headers/002.jpg
 describe: Remuna bowls have a more subtle, inward curving lip and thinner walls, giving them a unique, soft sound profile. They are known for their fine craftsmanship and are often sought after for their aesthetic and sonic beauty.
 tweet: Remuna bowls have a more subtle, inward curving lip and thinner walls, giving them a unique, soft sound profile.
-hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Remuna
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlTypes,Remuna
 color: var(--color-white)
 ---
 

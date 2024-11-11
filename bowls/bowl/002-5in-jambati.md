@@ -6,13 +6,11 @@ layout: default
 image: /assets/img/headers/bowls/002-5in.jpg
 describe: The 5in Tibetan Jambati tuned to A4, which is the concert pitch standard, making this bowl particularly useful for those who incorporate singing bowls into musical compositions or therapy sessions with a need for precise pitch.
 tweet: The 5in Tibetan Jambati tuned to A4, which is the concert pitch standard.
-hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Jambati
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Jambati
 color: var(--color-white)
 ---
 
-<div class="videowrapper">
-<iframe src="https://www.youtube.com/embed/Kh0RDpLJobY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include videoplayer.html id="Kh0RDpLJobY" %}
 
 ### Specifications of the 5in Jambati Bowl
 

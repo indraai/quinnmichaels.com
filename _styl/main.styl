@@ -5,7 +5,8 @@
 @import "header"
 @import "footer"
 @import "menu"
-@import "posts"
+@import "blog"
+@import "videos"
 @import "widget"
 @import "monokai"
 
@@ -82,46 +83,6 @@ main
       text-transform: capitalize
       font-size: 1.25rem
       font-weight: bold
-
-.videos
-  display: flex
-  list-style: none
-  flex-flow: row wrap
-  margin: 0
-  padding: 0
-  li
-    margin: 0
-    padding: 0
-    .video
-      margin: 1rem 0
-      padding: 1rem
-      display: flex
-      flex-flow: row wrap
-      gap: 1rem
-      .thumbnail
-        flex: 1
-        min-width: 256px
-        text-align: center
-        img
-          max-width: 256px
-          min-width: 256px
-          border-radius: .5rem
-          box-shadow: 0 3px 5px rgba($colors.black, .5)
-      .info
-        flex: 1
-        min-width: 256px
-        h3
-          font-size: 1.5rem
-          line-height: 1
-          font-weight: bold
-          padding: 0
-          margin: 0
-        p
-          font-size: 1rem
-          margin: .5rem 0 0 0
-        .published
-          font-size: .9rem
-          font-weight: bold
 
 .bowls
   display: flex
@@ -204,6 +165,9 @@ main
     &.contact
       background-image: url(/assets/img/headers/006-thumb.jpg)
 
+    &.art
+      background-image: url(/assets/img/headers/art/thumb.jpg)
+
     &.offerings
       background-image: url(/assets/img/headers/offerings-thumb.jpg)
 
@@ -232,50 +196,6 @@ hr.divider
   border: none
   margin: 2rem 0
 
-#VideoViewer
-  display: none
-  visibility: hidden
-  opacity: 0
-  background-color: $colors.black
-  position: absolute
-  top: 0
-  left: 0
-  right: 0
-  bottom: 0
-  width: 100%
-  height: 100%
-  padding: 2rem
-  &.open
-    display: flex
-    flex-flow: column nowrap
-    justify-content: center
-    align-items: center
-    visibility: visible
-    opacity: 1
-    overflow: hidden
-
-    .close-button
-      position: absolute
-      top: .5rem
-      right: .5rem
-      color: $colors.white
-      font-size: 3rem
-
-.videowrapper
-  float: none;
-  clear: both;
-  width: 100%;
-  position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 25px;
-  height: 0;
-  iframe
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    box-shadow: 0 3px 5px rgba($colors.black, .5)
 
 .hidden
   display: none

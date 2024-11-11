@@ -6,13 +6,11 @@ layout: default
 image: /assets/img/headers/bowls/005-8in.jpg
 describe: The 8in Tibetan Hammered Singing Bowl is tuned to F1, resonating around 43.65 Hz. The F1 note gives off a deep, rich sound that can be felt as much as heard, ideal for grounding and opening the heart.
 tweet: The 8in Tibetan Hammered Singing Bowl is tuned to F1, resonating around 43.65 Hz.
-hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Hammered
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Hammered
 color: var(--color-white)
 ---
 
-<div class="videowrapper">
-<iframe src="https://www.youtube.com/embed/muexOvU2Lvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include videoplayer.html id="muexOvU2Lvc" %}
 
 ### Specifications of the 8in Hammered Singing Bowl
 

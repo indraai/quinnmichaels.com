@@ -6,13 +6,11 @@ layout: default
 image: /assets/img/headers/bowls/007-9in.jpg
 describe: Elevating the traditional Tibetan singing bowl to an artifact of spiritual significance, this 9-inch bowl not only resonates with the healing A4 note (440 Hz) but also features an intricate engraving of the Buddha inside and the sacred Tibetan mantra "Om Mani Padme Hum" on its exterior, making it a centerpiece for meditation and healing practices.
 tweet: The 9in Tibetan Singing Bowl with Buddha Engraving, Om Mani Padme Hum, and A4 Note resonating 440 Hz.
-hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Buddha
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Buddha
 color: var(--color-white)
 ---
 
-<div class="videowrapper">
-<iframe src="https://www.youtube.com/embed/Klr4jHcZxLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include videoplayer.html id="Klr4jHcZxLM" %}
 
 ### Specifications of the Engraved Singing Bowl
 

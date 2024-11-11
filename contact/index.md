@@ -8,7 +8,7 @@ image: /assets/img/headers/006.jpg
 color: var(--color-white)
 describe: Links to his various X, Instagram, Facebook, Soundcloud, LinkedIn, and other contact methods are located here.
 tweet: How to contact Quinn Michaels.
-hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowls,Contact
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Contact
 ---
 
 ### Social Media

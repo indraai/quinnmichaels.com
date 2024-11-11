@@ -6,7 +6,7 @@ layout: default
 image: /assets/img/headers/002.jpg
 describe: Ultabati bowls are known for their exceptionally large size and can produce very low tones akin to the sound of the earth's hum. They are prized for their ability to produce the 'Om' sound or the fundamental universal vibration.
 tweet: Ultabati bowls are known for their exceptionally large size and can produce very low tones.
-hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Thadobati
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlTypes,Crystal
 color: var(--color-white)
 ---
 

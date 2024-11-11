@@ -6,7 +6,7 @@ layout: default
 image: /assets/img/headers/002.jpg
 describe: Recognized by the lingam (a protrusion) at the center, these bowls are rare and considered very sacred. Their sound is unique, often described as penetrating, and they are used in specific spiritual rituals.
 tweet: Recognized by the lingam (a protrusion) at the center, these bowls are rare and considered very sacred.
-hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Manipuri
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlTypes,Manipuri
 color: var(--color-white)
 ---
 

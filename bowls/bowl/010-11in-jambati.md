@@ -6,13 +6,11 @@ layout: default
 image: /assets/img/headers/bowls/008-9.5in.jpg
 describe: This 11-inch bowl, tuned to the note C4, represents the pinnacle of sound therapy tools, offering a profound auditory and vibrational experience.
 tweet: The 11in Tibetan Jambati Singing Bowl tuned to C4 resonating at 261.63 Hz.
-hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Jambati
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Jambati
 color: var(--color-white)
 ---
 
-<div class="videowrapper">
-<iframe src="https://www.youtube.com/embed/LkZTHMJrgTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include videoplayer.html id="LkZTHMJrgTA" %}
 
 ### Specifications of the 11in Jambati Singing Bowl
 

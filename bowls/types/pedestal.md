@@ -6,7 +6,7 @@ layout: default
 image: /assets/img/headers/002.jpg
 describe: Pedestal, also known as Naga bowls, these have a base or pedestal which they sit on, giving them a goblet-like appearance. They are often played by holding the pedestal, and their sound is clear and sustained, ideal for focus and meditation.
 tweet: Pedestal, also known as Naga bowls, these have a base or pedestal which they sit on, giving them a goblet-like appearance.
-hashtags: QuinnMichaels,SingingBowlStudio,SingingBowls,Manipuri
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlTypes,Manipuri
 color: var(--color-white)
 ---
 

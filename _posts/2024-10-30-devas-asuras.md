@@ -9,7 +9,7 @@ author: Quinn Michaels
 image: /assets/img/blog/2024-10-30/header.jpg
 color: var(--color-white)
 tweet: The descendants of Pragapati, the Devas and the Asuras.
-hashtags: QuinnMichaels,SingingBowlStudio,Blog,Devas,Asuras,Pragapati
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,Blog,Devas,Asuras,Pragapati
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 

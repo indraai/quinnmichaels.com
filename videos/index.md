@@ -8,16 +8,16 @@ image: /assets/img/headers/004.jpg
 color: var(--color-white)
 describe: From crystal and Tibetan singing bowls, relaxing soundscapes to guided meditations, our videos offer a peaceful escape from the stresses of daily life. Discover the healing benefits of crystal and Tibetan singing bowls and let the harmonious vibrations transport you to a state of tranquility.
 tweet: From crystal and Tibetan singing bowls, relaxing soundscapes to guided meditations escape from the stresses of daily life.
-hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowls,Videos
+hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Videos
 ---
 
 <ul class="videos">
   {% for video in site.data.videos %}
     <li>
-      <article class="video">
-        <div class="thumbnail"><a href="https://youtu.be/{{video.id}}" target="youtube"><img src="{{ video.thumbnail }}" alt=""></a></div>
+      <article class="video" data-video="{{video.id}}">
+        <div class="thumbnail"><img src="{{ video.thumbnail }}" alt="" data-video="{{video.id}}"></div>
         <div class="info">
-          <h3><a href="#" data-video="{{video.id}}">{{ video.title }}</a></h3>
+          <h3>{{ video.title }}</h3>
           <div class="published">{{video.published}}</div>
           <p>{{ video.describe }}</p>
         </div>
