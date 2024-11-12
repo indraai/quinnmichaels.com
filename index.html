@@ -82,7 +82,8 @@ video: xb_NMR1QMWU
     <h2>Videos</h2>
     <p><a href="/videos/">More Videos <i class="icn-arrow-right"></i></a></p>
     <section class="videos">
-      {% for video in site.videos limit:6 %}
+      {% assign sort_videos = site.videos | reverse %}
+      {% for video in sort_videos limit:6 %}
         <article class="video">
           <div class="thumbnail"><a href="{{video.url}}"><img src="{{video.thumbnail}}" alt="{{video.title}}"></a></div>
           <div class="title"><a href="{{video.url}}">{{bowl.title}}</a></div>
