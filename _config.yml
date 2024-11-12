@@ -5,6 +5,9 @@ image: /assets/headers/001-temple.jpg
 author: Quinn Michaels
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 collections:
+  posts:
+    output: true
+    permalink: /blog/:name
   art:
     output: true
     permalink: /:collection/:name

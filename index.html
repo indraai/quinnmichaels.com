@@ -74,8 +74,8 @@ video: xb_NMR1QMWU
           <div class="title"><a href="{{bowl.url}}">{{bowl.title}}</a></div>
         </article>
       {% endfor %}
+      <p><a href="/bowls/"><i class="icn-arrow-right-circle"></i> More Singing Bowls</a></p>
     </section>
-    <p><a href="/bowls/">More Singing Bowls <i class="icn-arrow-right"></i></a></p>
 
     <hr class="divider">
 
@@ -88,8 +88,8 @@ video: xb_NMR1QMWU
           <div class="title"><a href="{{video.url}}">{{bowl.title}}</a></div>
         </article>
       {% endfor %}
+      <p><a href="/videos/"><i class="icn-arrow-right-circle"></i> More Videos</a></p>
     </section>
-    <p><a href="/videos/">More Videos <i class="icn-arrow-right"></i></a></p>
 
     <hr class="divider">
 
@@ -98,12 +98,12 @@ video: xb_NMR1QMWU
       {% for post in site.posts limit:5 %}
         <article class="post">
           <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-          <div class="published">{{post.date | date: "%B %d, %Y"}}</div>
+          <div class="date">{{post.date | date: "%B %d, %Y"}}</div>
           {{post.excerpt}}
         </article>
       {% endfor %}
+      <p><a href="/blog/"><i class="icn-arrow-right-circle"></i> More Posts</a></p>
     </section>
-    <p><a href="/blog/">More Blog Posts <i class="icn-arrow-right"></i></a></p>
 
     <hr class="divider">
 

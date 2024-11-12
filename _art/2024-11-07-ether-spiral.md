@@ -17,6 +17,8 @@ The painting is a vibrant, abstract piece that evokes a sense of dynamism and en
 
 The use of bold colors and contrasting textures creates a dramatic and visually striking composition. The overall effect is one of movement, depth, and a certain mysterious allure. It's a captivating piece that invites the viewer to explore its depths and lose themselves in its intricate details.
 
+{% include videoplayer.html id="xb_NMR1QMWU" %}
+
 **Interpretations:**
 
 * **Cosmic Energy:** The swirling vortex could represent a black hole, a nebula, or some other celestial phenomenon, suggesting the vastness of the universe and the power of cosmic forces.
@@ -24,3 +26,5 @@ The use of bold colors and contrasting textures creates a dramatic and visually 
 * **Consciousness:** The vortex could symbolize the depths of the human mind, the subconscious, or even the collective consciousness.
 
 Ultimately, the meaning of the painting is open to interpretation. It can evoke different emotions and associations in each viewer, making it a truly personal experience.
+
+### Watch the Video
