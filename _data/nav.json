@@ -6,16 +6,16 @@
     "describe": "Learn about all the Singing Bowls in the studio."
   },
   {
-    "key": "videos",
-    "name": "Videos",
-    "link": "/videos",
-    "describe": "A collection of Singing Bowl Studio videos to enjoy."
-  },
-  {
     "key": "art",
     "name": "Art",
     "link": "/art",
     "describe": "Quinn's artwork that accompanies the singing bowls."
+  },
+  {
+    "key": "videos",
+    "name": "Videos",
+    "link": "/videos",
+    "describe": "A collection of Singing Bowl Studio videos to enjoy."
   },
   {
     "key": "blog",

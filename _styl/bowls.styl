@@ -3,26 +3,28 @@
   flex-flow: row wrap
   margin: 0
   padding: 0
-  gap: 1px
+  gap: .25rem
   .bowl
     margin: 0
     padding: 0
     display: flex
     flex-flow: column nowrap
     flex: 1 33%
-    background-color: $colors.black
     .thumbnail
       text-align: center
       img
         max-width: 256px
         min-width: 256px
-    .name
+        margin: .25rem
+        border-radius: .5rem
+    .title
       font-size: 1rem
       line-height: 1
       margin: 0
-      padding: 0
+      padding: .25rem
       font-weight: bold
       text-align: center
+
 section.types
   display: flex
   flex-flow: column

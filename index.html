@@ -67,7 +67,6 @@ video: xb_NMR1QMWU
     <hr class="divider">
 
     <h2>Bowls</h2>
-    <p><a href="/bowls/">More Singing Bowls <i class="icn-arrow-right"></i></a></p>
     <section class="bowls">
       {% for bowl in site.bowls limit:6 %}
         <article class="bowl">
@@ -76,11 +75,11 @@ video: xb_NMR1QMWU
         </article>
       {% endfor %}
     </section>
+    <p><a href="/bowls/">More Singing Bowls <i class="icn-arrow-right"></i></a></p>
 
     <hr class="divider">
 
     <h2>Videos</h2>
-    <p><a href="/videos/">More Videos <i class="icn-arrow-right"></i></a></p>
     <section class="videos">
       {% assign sort_videos = site.videos | reverse %}
       {% for video in sort_videos limit:6 %}
@@ -90,11 +89,11 @@ video: xb_NMR1QMWU
         </article>
       {% endfor %}
     </section>
+    <p><a href="/videos/">More Videos <i class="icn-arrow-right"></i></a></p>
 
     <hr class="divider">
 
     <h2>Blog</h2>
-    <p><a href="/blog/">More Blog Posts <i class="icn-arrow-right"></i></a></p>
     <section class="posts">
       {% for post in site.posts limit:5 %}
         <article class="post">
@@ -104,6 +103,7 @@ video: xb_NMR1QMWU
         </article>
       {% endfor %}
     </section>
+    <p><a href="/blog/">More Blog Posts <i class="icn-arrow-right"></i></a></p>
 
     <hr class="divider">
 

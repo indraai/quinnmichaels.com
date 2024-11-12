@@ -15,7 +15,7 @@ color: var(--color-white)
   {% for art in site.art %}
     <article class="artwork">
       <div class="thumbnail"><a href="{{art.url}}"><img src="{{ art.thumbnail }}" alt=""></a></div>
-      <div class="name"><a href="{{art.url}}">{{art.title}}</a>
+      <div class="title"><a href="{{art.url}}">{{art.title}}</a>
       </div>
     </article>
   {% endfor %}

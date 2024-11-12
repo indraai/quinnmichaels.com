@@ -15,10 +15,12 @@ color: var(--color-white)
   {% for bowl in site.bowls %}
     <article class="bowl">
       <div class="thumbnail"><a href="{{bowl.url}}"><img src="{{ bowl.thumbnail }}" alt=""></a></div>
-      <div class="name"><a href="{{bowl.url}}">{{bowl.title}}</a></div>
+      <div class="title"><a href="{{bowl.url}}">{{bowl.title}}</a></div>
     </article>
   {% endfor %}
 </section>
+
+<hr class="divider">
 
 <h2>Singing Bowl Types</h2>
 <section class="types">
