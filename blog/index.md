@@ -4,7 +4,9 @@ pre: Quinn Michaels
 title: Blog
 subtitle: Insights on Meditation, Singing Bowls, and Ancient Wisdom
 layout: default
-image: /assets/img/headers/003.jpg
+header: /assets/img/blog/header.jpg
+image: /assets/img/blog/image.jpg
+thumbnail: /assets/img/blog/thumbnail.jpg
 color: var(--color-white)
 describe: Quinn Michaels Blog - Quinn shares his passion for studying the Vedic texts, singing bowls, meditation, art, and various other interests.
 tweet: Quinn shares his passion for studying the Vedic texts, singing bowls, meditation, art, and various other interests.

@@ -4,7 +4,9 @@ pre: Quinn Michaels
 title: Art
 subtitle: Artistry Inspired by Sound and Meditation
 layout: default
-image: /assets/img/headers/art/main.jpg
+header: /assets/img/art/header.jpg
+image: /assets/img/art/image.jpg
+thumbnail: /assets/img/art/thumbnail.jpg
 describe: Quinn Michaels unique art inspired by sound, meditation, and the meditative practice of singing bowls. Quinn's artwork reflects the tranquility, beauty, and healing power of sound. Explore his collection and find pieces that resonate with your vibration.
 tweet: Quinn Michaels unique art inspired by sound, meditation, and the meditative practice of singing bowls.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,Art,Imagination,Creativity

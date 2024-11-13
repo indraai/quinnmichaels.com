@@ -4,7 +4,9 @@ pre: Quinn Michaels
 title: Offerings
 subtitle: The Singing Bowl Studio Practice of Offerings
 layout: default
-image: /assets/img/headers/offerings.jpg
+header: /assets/img/offerings/header.jpg
+image: /assets/img/offerings/image.jpg
+thumbnail: /assets/img/offerings/thumbnail.jpg
 describe: Quinn's Singing Bowl Studio operates on the Vedic Practice of gifts and offerings. Here you can learn more about the practice, and the proper way to make offerings and what type of offerings are accepted.
 tweet: Quinn's Singing Bowl Studio operates on the Vedic Practice of gifts and offerings.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowl,Offerings
@@ -13,6 +15,8 @@ color: var(--color-white)
 During my studies of the Vedas I've focused on a few practices, and one of those practices being the practice of gifts and offerings as it's described in the Vedic texts.
 
 To get us started in the understanding here are a few references from the Vedic Texts to familiarize yourself and gain understanding.
+
+![Vedic System of Offerings](/assets/img/offerings/image.jpg)
 
 ### Vedic Research
 Brahmanas who are intent on the means (of gaining union with) Brahman and firm in (discharging) their duties, shall live by duly performing the following six acts, (which are enumerated) in their (proper) order.

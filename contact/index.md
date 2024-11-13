@@ -4,7 +4,9 @@ pre: Quinn Michaels
 title: Contact
 subtitle: The various methods to contact Quinn Michaels can be found here
 layout: default
-image: /assets/img/headers/006.jpg
+header: /assets/img/contact/header.jpg
+image: /assets/img/contact/image.jpg
+thumbnail: /assets/img/contact/thumbnail.jpg
 color: var(--color-white)
 describe: Links to his various X, Instagram, Facebook, Soundcloud, LinkedIn, and other contact methods are located here.
 tweet: How to contact Quinn Michaels.

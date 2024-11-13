@@ -4,7 +4,9 @@ pre: Quinn Michaels
 title: Videos
 subtitle: From crystal and Tibetan singing bowls, relaxing soundscapes, and guided meditations, our videos offer a peaceful escape from the stresses of daily life.
 layout: default
-image: /assets/img/headers/004.jpg
+header: /assets/img/videos/header.jpg
+image: /assets/img/videos/image.jpg
+thumbanil: /assets/img/videos/thumbnail.jpg
 color: var(--color-white)
 describe: From crystal and Tibetan singing bowls, relaxing soundscapes to guided meditations, our videos offer a peaceful escape from the stresses of daily life. Discover the healing benefits of crystal and Tibetan singing bowls and let the harmonious vibrations transport you to a state of tranquility.
 tweet: From crystal and Tibetan singing bowls, relaxing soundscapes to guided meditations escape from the stresses of daily life.
