@@ -43,6 +43,7 @@ menu
 
     .title
       font-size: 1rem
+
       a
         color: $colors.white
         &:hover
@@ -69,7 +70,7 @@ menu
           flex: 1
           text-align: left
           padding: .5rem 1rem
-          font-size: 1.5rem
+          font-size: 1.3rem
         .menu-button
           flex: 0 3rem
           padding: .5rem
@@ -77,6 +78,8 @@ menu
             font-size: 2.5rem
             color: white
       &-options
+        transition: var(--transition-default)
+        transform: translateZ(0)
         position: fixed
         top: 0
         left: 0
@@ -86,12 +89,27 @@ menu
         height: 100%
         background-color: $colors.black
         display: none
+        opacity: 0
+
         &.open
+          animation-name: fade-in
+          animation-duration: .5s
           display: flex
+          opacity: 1
+
           ul
+            list-style: none
+            margin: 0
+            padding: 0
             display: flex
             flex: 1
             align-self: center
             flex-flow: column
             li
               font-size: 3rem
+
+        &-close
+          position: absolute
+          top: 5px
+          right: 5px
+          font-size: 2.5rem

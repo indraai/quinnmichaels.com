@@ -7,8 +7,7 @@
       {% assign sort_videos = site.videos | reverse %}
         {% for video in sort_videos limit:7 %}
           <li class="video">
-            <div class="thumbnail"><a href="{{video.url}}"><img src="{{ video.thumbnail }}" alt=""></a></div>
-            <div class="title"><a href="{{video.url}}">{{ video.title }}</a></div>
+            <div class="thumbnail"><a href="{{video.url}}" title="Watch {{video.title}}"><img src="{{ video.thumbnail }}" alt="{{ video.title}}"></a></div>
           </li>
         {% endfor %}
     </ul>

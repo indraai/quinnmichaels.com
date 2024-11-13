@@ -15,6 +15,14 @@ $('#VideoViewer .close-button').on('click', (e) => {
   $('#VideoViewer .videowrapper iframe').attr('src', '');
 });
 
-$('menu .mobile').delegate('.menu-button', 'click', (e) => {
+$('menu').delegate('.mobile .menu-button', 'click', (e) => {
+  e.preventDefault();
+  e.stopPropagation();
+  $('menu .mobile .mobile-options').toggleClass('open');
+});
+
+$('menu').delegate('.mobile .mobile-options .mobile-options-close', 'click', (e) => {
+  e.preventDefault();
+  e.stopPropagation();
   $('menu .mobile .mobile-options').toggleClass('open');
 });

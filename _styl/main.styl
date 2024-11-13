@@ -9,7 +9,7 @@
 @import "blog"
 @import "videos"
 @import "art"
-@import "widget"
+@import "home"
 @import "monokai"
 
 main
@@ -87,58 +87,6 @@ main
       font-weight: bold
 
 
-.features
-  display: flex
-  flex-flow: row wrap
-  gap: .25rem
-  margin-top: .25rem
-  .feature
-    background-color: $colors.grey
-    min-width: 20rem
-    min-height: 15rem
-    flex: 1
-    background-position: center center
-    background-size: cover
-    background-repeat: no-repeat
-    box-shadow: 0 3px 5px rgba($colors.black,.5)
-    color: $colors.white
-    display: flex
-    flex-flow: column nowrap
-    overflow: hidden
-    h2
-      text-align: center
-      margin: 0
-      padding: 1rem 0 0 0
-      background-color: rgba($colors.black, .75)
-      font-weight: normal
-      font-size: 2rem
-    p
-      flex: 1
-      margin: 0
-      padding: 1rem 1.5rem
-      background-color: rgba($colors.black, .5)
-      font-size: 1.5rem
-
-    &.bowls
-      background-image: url(/assets/img/headers/002-thumb.jpg)
-
-    &.blog
-      background-image: url(/assets/img/headers/003-thumb.jpg)
-
-    &.videos
-      background-image: url(/assets/img/headers/004-thumb.jpg)
-
-    &.about
-      background-image: url(/assets/img/headers/005-thumb.jpg)
-
-    &.contact
-      background-image: url(/assets/img/headers/006-thumb.jpg)
-
-    &.art
-      background-image: url(/assets/img/headers/art/thumb.jpg)
-
-    &.offerings
-      background-image: url(/assets/img/headers/offerings-thumb.jpg)
 
 hr.divider
   height: 10px

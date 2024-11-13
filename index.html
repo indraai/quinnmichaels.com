@@ -50,7 +50,7 @@ video: xb_NMR1QMWU
 
   {% include share.html format="inline" %}
 
-	<main>
+	<main class="home">
     <p class="describe">{{page.describe}}</p>
 
     {% include videoplayer.html id="xb_NMR1QMWU" %}
@@ -74,8 +74,8 @@ video: xb_NMR1QMWU
           <div class="title"><a href="{{bowl.url}}">{{bowl.title}}</a></div>
         </article>
       {% endfor %}
-      <p><a href="/bowls/"><i class="icn-arrow-right-circle"></i> More Singing Bowls</a></p>
     </section>
+    <p><a href="/bowls/"><i class="icn-arrow-right-circle"></i> More Singing Bowls</a></p>
 
     <hr class="divider">
 
@@ -85,11 +85,11 @@ video: xb_NMR1QMWU
       {% for video in sort_videos limit:6 %}
         <article class="video">
           <div class="thumbnail"><a href="{{video.url}}"><img src="{{video.thumbnail}}" alt="{{video.title}}"></a></div>
-          <div class="title"><a href="{{video.url}}">{{bowl.title}}</a></div>
+          <div class="title"><a href="{{video.url}}">{{video.title}}</a></div>
         </article>
       {% endfor %}
-      <p><a href="/videos/"><i class="icn-arrow-right-circle"></i> More Videos</a></p>
     </section>
+    <p><a href="/videos/"><i class="icn-arrow-right-circle"></i> More Videos</a></p>
 
     <hr class="divider">
 
@@ -102,8 +102,8 @@ video: xb_NMR1QMWU
           {{post.excerpt}}
         </article>
       {% endfor %}
-      <p><a href="/blog/"><i class="icn-arrow-right-circle"></i> More Posts</a></p>
     </section>
+    <p><a href="/blog/"><i class="icn-arrow-right-circle"></i> More Posts</a></p>
 
     <hr class="divider">
 
@@ -113,8 +113,5 @@ video: xb_NMR1QMWU
 
   </main>
   {% include footer.html %}
-
-  <script src="/assets/js/jquery.min.js"></script>
-  <script src="/assets/js/main.js"></script>
 </body>
 </html>
