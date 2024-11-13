@@ -57,7 +57,7 @@ video: xb_NMR1QMWU
 
     <section class="features">
       {% for nav in site.data.nav %}
-        <article class="feature {{nav.key}}">
+        <article class="feature {{nav.key}}" style="background-image: url(/assets/img/{{nav.key}}/thumbnail.jpg)">
           <h2><a href="{{nav.link}}">{{nav.name}}</a></h2>
           <p>{{nav.describe}} <a href="{{nav.link}}"><i class="icn-arrow-right"></i></a></p>
         </article>
