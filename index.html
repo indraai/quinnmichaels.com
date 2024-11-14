@@ -99,9 +99,12 @@ video: xb_NMR1QMWU
     <section class="posts">
       {% for post in site.posts limit:5 %}
         <article class="post">
-          <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-          <div class="date">{{post.date | date: "%B %d, %Y"}}</div>
-          {{post.excerpt}}
+          <div class="thumbnail"><a href="{{ post.url }}"><img src="{{post.thumbnail}}" alt="{{post.title}} {{post.subtitle}}"></a></div>
+          <div class="info">
+            <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+            <div class="date">{{post.date | date: "%B %d, %Y"}}</div>
+            <div class="excerpt">{{post.excerpt}}</div>            
+          </div>
         </article>
       {% endfor %}
     </section>
