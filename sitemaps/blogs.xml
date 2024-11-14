@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://quinnmichaels.com/2024/11/05/grok.html</loc>
+    <loc>https://quinnmichaels.com/blog/2024-11-5-grok</loc>
+    <lastmod>2024-11-05</lastmod>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/2024/11/05/gemini.html</loc>
+    <loc>https://quinnmichaels.com/blog/2024-11-5-gemini</loc>
+    <lastmod>2024-11-05</lastmod>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/2024/11/05/claude.html</loc>
+    <loc>https://quinnmichaels.com/blog/2024-11-5-claude</loc>
+    <lastmod>2024-11-05</lastmod>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/2024/11/05/chatgpt.html</loc>
+    <loc>https://quinnmichaels.com/blog/2024-11-5-chatgpt</loc>
+    <lastmod>2024-11-05</lastmod>
+</url>
+  <url>
+    <loc>https://quinnmichaels.com/blog/2024-10-30-devas-asuras</loc>
+    <lastmod>2024-10-30</lastmod>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/2024/10/30/devas-asuras.html</loc>
+    <loc>https://quinnmichaels.com/blog/2024-10-29-trikadrukas</loc>
+    <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/2024/10/29/trikadrukas.html</loc>
+    <loc>https://quinnmichaels.com/blog/2024-10-27-prana</loc>
+    <lastmod>2024-10-27</lastmod>
   </url>
   <url>
-    <loc>https://quinnmichaels.com/2024/10/27/prana.html</loc>
-  </url>
-  <url>
-    <loc>https://quinnmichaels.com/2024/10/23/welcome.html</loc>
+    <loc>https://quinnmichaels.com/blog/2024-10-23-welcome</loc>
+    <lastmod>2024-10-23</lastmod>
   </url>
 </urlset>

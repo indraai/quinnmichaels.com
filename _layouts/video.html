@@ -2,18 +2,20 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{page.name}} - {{page.title}}</title>
+
+    <title>Video: {{site.title}} {{page.title}} - {{site.author}}</title>
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta name="description" content="{{page.describe}}">
-    <meta name="author" content="{{page.author}}">
-    <meta name="copyright" content="{{page.copyright}}">
+    <meta name="author" content="{{site.author}}">
+    <meta name="copyright" content="{{site.copyright}}">
 
-    <meta property="og:site_name" content="{{page.name}}">
+    <meta property="og:site_name" content="{{site.name}}">
     <meta property="og:title" content="{{page.title}}">
     <meta property="og:description" content="{{page.describe}}">
     <meta property="og:image" content="{{site.url}}{{page.image}}">
-    <meta property="og:url" content="{{page.site}}">
+    <meta property="og:url" content="{{site.url}}{{page.url}}">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image:alt" content="{{page.describe}}">
