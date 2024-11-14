@@ -6,7 +6,9 @@ layout: post
 hero: header
 date: Oct 29, 2024
 author: Quinn Michaels
-image: /assets/img/blog/2024-10-28-header.jpg
+header: /assets/img/blog/2024/10-28/header.jpg
+image: /assets/img/blog/2024/10-28/image.jpg
+thumbnail: /assets/img/blog/2024/10-28/thumbnail.jpg
 color: var(--color-white)
 tweet: In the Trikadrukas. The place where Soma is found.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,Blog,Indu,Indra,Soma

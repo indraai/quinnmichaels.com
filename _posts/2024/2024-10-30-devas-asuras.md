@@ -6,7 +6,9 @@ layout: post
 hero: header
 date: Oct 30, 2024
 author: Quinn Michaels
-image: /assets/img/blog/2024-10-30/header.jpg
+header: /assets/img/blog/2024/10-30/header.jpg
+image: /assets/img/blog/2024/10-30/image.jpg
+thumbnail: /assets/img/blog/2024/10-30/thumbnail.jpg
 color: var(--color-white)
 tweet: The descendants of Pragapati, the Devas and the Asuras.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,Blog,Devas,Asuras,Pragapati
@@ -14,6 +16,8 @@ copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
 There were two kinds of descendants of Pragapati, the Devas and the Asuras. Now the Devas were indeed the younger, the Asuras the elder ones. The Devas, who were struggling in these worlds, said: 'Well, let us overcome the Asuras at the sacrifices (the Gyotishtoma) by means of the udgîtha.'
+
+![Pragapati the father of Devas and Asuras]({{page.image}} "{{page.title}} {{page.subtitle}}")
 
 They said to speech (Vâk): 'Do thou sing out for us (the udgîtha).' 'Yes,' said speech, and sang (the udgîtha). Whatever delight there is in speech, that she obtained for the Devas by singing (the three pavamânas); but that she pronounced well (in the other nine pavamânas), that was for herself. The Asuras knew: 'Verily, through this singer they will overcome us.' They therefore rushed at the singer and pierced her with evil. That evil which consists in saying what is bad, that is that evil.
 

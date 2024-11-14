@@ -1,6 +1,5 @@
 ---
 permalink: /blog/
-pre: Quinn Michaels
 title: Blog
 subtitle: Insights on Meditation, Singing Bowls, and Ancient Wisdom
 layout: default
@@ -16,11 +15,14 @@ hashtags: QuinnMichaels,QuinnSingingBowlStudio,Blog,Meditation
 <section class="posts">
   {% for post in site.posts %}
     <article class="post">
-      <h3><a href="{{ post.url }}">{{post.title}}</a></h3>
-      <div class="published">{{post.date | date: "%B %d, %Y"}}</div>
-      <article class="excerpt">
-        {{post.excerpt}}
-      </article>
+      <div class="thumbnail"><a href="{{ post.url }}"><img src="{{post.thumbnail}}" alt="{{post.title}} {{post.subtitle}}"></a></div>
+      <div class="info">
+        <h3><a href="{{ post.url }}">{{post.title}}</a></h3>
+        <div class="date">{{post.date | date: "%B %d, %Y"}}</div>
+        <div class="excerpt">
+          {{post.excerpt}}
+        </div>
+      </div>
     </article>
   {% endfor %}
 </section>
