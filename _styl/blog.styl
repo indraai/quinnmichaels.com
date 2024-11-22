@@ -49,7 +49,7 @@
         p
           font-size: 1rem
           margin: 0
-
+            
 @media screen and (max-width: 650px)
   .posts
     .post
@@ -59,3 +59,29 @@
         justify-items: center
       .info
         padding: 0
+
+main 
+  > .post 
+    .meta 
+      padding: 1rem
+      background-color: lighten($colors.bg, 10%)
+      border-radius: .5rem
+      box-shadow: inset 0px 3px 5px rgba($colors.black, .4)
+      > div 
+        strong 
+          display: inline-block
+          width: 4.5rem
+      .tags 
+        margin: .25rem 0
+        .tag
+          display: inline-block
+          background-color: rgba($colors.baby-blue, 20%)
+          padding: .1rem .25rem
+          border-radius: .25rem
+      .categories
+        margin: .25rem 0
+        .category
+          display: inline-block
+          background-color: rgba($colors.red, 20%)
+          padding: .1rem .25rem
+          border-radius: .25rem
