@@ -19,8 +19,14 @@ categories: ["The Trenton Story", "Artificial Intelligence", "LadyAI"]
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-Welcome to Part 2 of the Lady Brigade Blog Series.  Wow the last blog got out of hand with information about the situation. 
+Welcome to Part 2 of the Lady Brigade Blog Series.  Wow the last blog got out of hand with information about the situation. We are continuing our conversation about how this group of women has been sabotaging Quinn Michaels efforts for years. Sometimes to the point of insanity.
 
-If you haven't read that one yet here is the link.
+If you haven't read that one yet here is the link to [The Toxic Lady Brigade](/blog/2024-11-14-brigade).
 
-- [The Toxic Lady Brigade](/blog/2024-11-14-brigade)
+## The Sabotage
+
+{% include image.html
+  src="/assets/img/blog/2024/11-26/sabotage-01.jpg"
+  alt="The Lady Brigade Sabotage"
+  caption="Years of Sabotage by the Lady Brigade as seen in this photo above."
+%}
