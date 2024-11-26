@@ -5,7 +5,7 @@ subtitle: The Lady Brigade Sabotages Quinn Michaels
 layout: post
 hero: header
 date: Nov 26, 2024
-updated: November 26, 2024 @ 3:49a PST
+updated: November 26, 2024 @ 8:30a PST
 author: Quinn Michaels
 describe: The Toxic Lady Brigade Part 2 - The long term sabotage the Lady Brigade has had on Quinn Michaels.
 header: /assets/img/blog/2024/11-26/header.jpg
