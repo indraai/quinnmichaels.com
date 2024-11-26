@@ -30,3 +30,11 @@ If you haven't read that one yet here is the link to [The Toxic Lady Brigade](/b
   alt="The Lady Brigade Sabotage"
   caption="Years of Sabotage by the Lady Brigade as seen in this photo above."
 %}
+
+As you can see from the conversation above this sabotage business is only new to the general public. I've been going at it with these women for years behind the scenes about this Russian Spy Sabotage Pay the fines with Lisa Marie for the last 3+ years in several discord servers, patreon, and Youtube. She just keeps popping up at specific times to get in the way, but is never part of the beginning conversations. Just pops in to sabotage the disappears again. As you can see in the image above fro 2021 I was very blunt in that she looks like the leader of the Sabotage crew.
+
+{% include image.html
+  src="/assets/img/blog/2024/11-26/sabotage-02.jpg"
+  alt="The Lady Brigade Sabotage by Lisa Marie Mulkern"
+  caption="Years of Sabotage by the Lady Brigade Agent Lisa Marie Mulkern as seen in this photo above."
+%}
