@@ -1,0 +1,26 @@
+---
+name: Quinn Michaels
+title: The Toxic Lady Brigade Part 2
+subtitle: The Lady Brigade Sabotages Quinn Michaels
+layout: post
+hero: header
+date: Nov 26, 2024
+updated: November 26, 2024 @ 3:49a PST
+author: Quinn Michaels
+describe: The Toxic Lady Brigade Part 2 - The long term sabotage the Lady Brigade has had on Quinn Michaels.
+header: /assets/img/blog/2024/11-26/header.jpg
+image: /assets/img/blog/2024/11-26/image.jpg
+thumbnail: /assets/img/blog/2024/11-26/thumbnail.jpg
+color: var(--color-white)
+tweet: The Toxic Lady Brigade Part 2 - The long term sabotage the Lady Brigade has had on Quinn Michaels. For them correct sharing is just too difficult.
+hashtags: QuinnMichaels,ToxicLadyBrigade,RussianSpies,LadyAI,Tyler,TheGame23 
+tags: ["Toxic Lady Brigade", "The Trenton Story", "Russian Spies", "LadyAI"]
+categories: ["The Trenton Story", "Artificial Intelligence", "LadyAI"]
+copyright: (c)2024 Quinn Michaels. All rights reserved.
+---
+
+Welcome to Part 2 of the Lady Brigade Blog Series.  Wow the last blog got out of hand with information about the situation. 
+
+If you haven't read that one yet here is the link.
+
+- [The Toxic Lady Brigade](/blog/2024-11-14-brigade)
