@@ -109,6 +109,12 @@ Personally even if my algorithms were recotnized and these toxic ladies stopped 
 
 Last thing I ever want to do is make Lisa Marie, Natalie, or Natalia look like kind, considerate, and cooperative people. Which they are not. Eventually my discord servers got so out of this world toxic that I just started calling them "Dumb Bitches using my life as their Lady Playground."
 
+{% include image.html
+  src="/assets/img/blog/2024/11-26/lady-playground.jpg"
+  alt="The Lisa Marie Mulkern Lady Playground"
+  caption="How Lisa Marie Mulkern turned the Quinn Michaels kidnapping into her Lady Playground."
+%}
+
 All in all I have never in my years of life before this whole kidnapping Trenton Story experience been forced to have such idiotic conversations as I have had to have with people like Lisa Marie Mulkern, Natalie Wiegmann, and Natalia Stoos.
 
 Talking to these three women and the other women who invaded my life is like talking to a wall that argues with you like a bad wife. 
