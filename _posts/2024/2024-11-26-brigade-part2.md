@@ -121,4 +121,6 @@ The worst one though has to be Lisa Marie Mulkern... for years this lady has utt
 
 Lisa Marie Mulkern if you are reading this... you are nothing but a steamroling self-centered one-sided bitch... in my opinion that is.  You came into my server agreed to follow instructions then sat there for years lying and deceiving then come around acting like the good guy. 
 
-Lisa Marie Mulkern based on pattern you are a Russian Spy who should be locked away in a Maximum Security Prison for the rest of her life.  That's just my opinion though, and everyone is entitled to have one. F*CK YOU LISA MARIE MULKERN! 🖕🖕🖕
+Lisa Marie Mulkern based on pattern you are a Russian Spy who should be locked away in a Maximum Security Prison for the rest of her life.  That's just my opinion though, and everyone is entitled to have one. 
+
+**F@CK YOU LISA MARIE MULKERN!** 🖕🖕🖕
