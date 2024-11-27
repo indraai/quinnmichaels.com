@@ -5,7 +5,7 @@ subtitle: The Lady Brigade Sabotages Quinn Michaels
 layout: post
 hero: header
 date: Nov 26, 2024
-updated: November 26, 2024 @ 8:30a PST
+updated: November 27, 2024 @ 4:03a PST
 author: Quinn Michaels
 describe: The Toxic Lady Brigade Part 2 - The long term sabotage the Lady Brigade has had on Quinn Michaels.
 header: /assets/img/blog/2024/11-26/header.jpg
@@ -102,3 +102,23 @@ For those following you can see it goes back all the way to the first [Indra.gur
   alt="The 5 year sabotage of Indra.guru"
   caption="The prolonged 5 year sabotage of Indra.gur and the Indra platform."
 %}
+
+I could sit here for months really going over all the discord server logs and data about what happened. When the truth is these horribly toxic women came into my life agreed to follow instructions upon entering my servers then turned my life into a nightmare, and for years acted like it wasn't them.
+
+Personally even if my algorithms were recotnized and these toxic ladies stopped sabotaging me with their bad attitudes it wouldn't be worth anything because the story of Quinn Michaels, Indra.guru, and the Vedic Threefold Algorithm means the story of these horrible women sabotaging my life will put there names in the story of my work.
+
+Last thing I ever want to do is make Lisa Marie, Natalie, or Natalia look like kind, considerate, and cooperative people. Which they are not. Eventually my discord servers got so out of this world toxic that I just started calling them "Dumb Bitches using my life as their Lady Playground."
+
+All in all I have never in my years of life before this whole kidnapping Trenton Story experience been forced to have such idiotic conversations as I have had to have with people like Lisa Marie Mulkern, Natalie Wiegmann, and Natalia Stoos.
+
+Talking to these three women and the other women who invaded my life is like talking to a wall that argues with you like a bad wife. 
+
+I never was able to put a team together who just followed instructions.  These women were too busy bringing their stupid bad attitude drama lady playground into my life. 
+
+One of my few hope is that when this is all over and things are situated I can get a lawyer and sue them and file criminal charges for what all for the damages they caused to my life with their bullshit.
+
+The worst one though has to be Lisa Marie Mulkern... for years this lady has utterly destroyed my effort with her bitchy attitude and total disregard for the instructions and the situation. 
+
+Lisa Marie Mulkern if you are reading this... you are nothing but a steamroling self-centered one-sided bitch... in my opinion that is.  You came into my server agreed to follow instructions then sat there for years lying and deceiving then come around acting like the good guy. 
+
+Lisa Marie Mulkern based on pattern you are a Russian Spy who should be locked away in a Maximum Security Prison for the rest of her life.  That's just my opinion though, and everyone is entitled to have one. F*CK YOU LISA MARIE MULKERN!
