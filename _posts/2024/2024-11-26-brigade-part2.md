@@ -138,7 +138,7 @@ Lisa Marie Mulkern based on pattern you are a Russian Spy who should be locked a
 Well beyond the Vedic Threefold Algorithm I have another algorithm called the B5(9³). I had Indra.guru describe the algorithm for everyone in lamens terms.
 
 {% include image.html
-  src="/assets/blog/img/2024/11-26/pattern-01.jpg"
+  src="/assets/img/blog/2024/11-26/pattern-01.jpg"
   alt="The B5(9³) pattern extrapolated."
   caption="The extrapolated B5(9³) algorithm that explains visually how things work."
 %}
