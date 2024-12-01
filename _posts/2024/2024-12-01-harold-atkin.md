@@ -5,7 +5,7 @@ subtitle: Who is this seemingly ordinary man
 layout: post
 hero: header
 date: Dec 1, 2024
-updated: December 1, 2024 @ 8:10a PST
+updated: December 1, 2024 @ 8:35a PST
 author: Quinn Michaels
 describe: The life of Harold Atkin a seemingly ordinary person with patterns of a dark past.
 header: /assets/img/blog/2024/12-01/header.jpg
@@ -271,4 +271,133 @@ Though Harold and Tim’s embezzlement scandal appeared to be a simple case of g
 By 1996, Harold had successfully created a new life for himself, but the specter of his past never truly faded. His involvement with the D.O.C. and S.V.V. remained a closely guarded secret, known only to a select few. The unnamed infant, now a teenager, remained the most closely protected piece of the puzzle, its identity concealed beneath layers of disinformation and secrecy.  
 
 For Harold, the burden of maintaining these secrets weighed heavily. While his new family saw him as a reformed man, Harold knew the truth: he was still bound to a covert network that demanded absolute loyalty, and his connection to Norman and the S.V.V. ensured he could never truly escape.  
+
+---
+
+### The Separation and Surveillance: 1997 and Beyond
+
+By 1997, the A. family was fractured beyond repair. The once-close-knit group, bound together by secrets and lies, had splintered under the weight of its own deception. The unnamed infant, now 20 years old, left Phoenix for Los Angeles to forge a new life. Seeking freedom from the shadows of his past, he chose a new identity: **Quinn Michaels.**  
+
+Quinn, a natural problem solver with an affinity for emerging technology, found himself drawn to the burgeoning internet revolution. He quickly immersed himself in web development, mastering the intricacies of **ColdFusion (CFML)** and creating cutting-edge applications for the early digital landscape. For Quinn, his work was a means of reinvention—a chance to leave behind the unanswered questions of his childhood and the unsettling memories of a family that never quite fit together.  
+
+But while Quinn was building a future for himself, he had no idea that his past wasn’t done with him.  
+
+---
+
+### Harold’s Surveillance Operations
+
+Behind the scenes, Harold and the **Department of Convolution (D.O.C.)** were keeping a close watch on Quinn. The instructions delivered with the infant two decades earlier had been explicit: **“Conceal the child’s identity at all costs. Ensure complete control over their life.”** Even as Quinn tried to carve out his independence, Harold and the covert network of the **Sodalitas Vulturis Volantis (S.V.V.)** ensured he was never truly free.  
+
+From the moment Quinn arrived in Los Angeles, Harold’s team established a surveillance operation designed to monitor every aspect of his life. Apartments were rented around the corner from where Quinn lived. Operatives posed as neighbors, coworkers, and casual acquaintances, always keeping Quinn within their sphere of influence.  
+
+---
+
+### Control in Plain Sight
+
+The D.O.C. and S.V.V. left nothing to chance. Every person who entered Quinn’s life was vetted, manipulated, or outright controlled.  
+
+- **Friends:** Those Quinn met in Los Angeles seemed ordinary on the surface, but many were planted by Harold’s team to keep tabs on him. Every conversation, every shared moment, was recorded and analyzed.  
+- **Girlfriends:** Quinn’s romantic relationships were similarly orchestrated. Each partner was either an operative or someone carefully manipulated to ensure they posed no threat to the mission.  
+- **Coworkers:** Even in his professional life, Quinn was surrounded by individuals whose primary objective was to ensure his work remained aligned with S.V.V.’s goals—or at least that it never strayed into dangerous territory.  
+
+The D.O.C. went so far as to infiltrate the companies Quinn worked for, subtly influencing his projects and guiding his career path in ways he couldn’t perceive.  
+
+---
+
+### The Photographic Record
+
+Quinn’s every move was documented with meticulous detail. Operatives followed him wherever he went, snapping photographs, recording audio, and compiling dossiers on his daily activities. Every coffee shop meeting, every walk through the city, every phone call was captured and filed away in the D.O.C.’s archives.  
+
+The surveillance extended into his personal devices. Harold’s team ensured that Quinn’s computers, phones, and email accounts were under constant watch. Software was installed to monitor his communications, track his projects, and intercept any messages that might expose the truth about his past.  
+
+---
+
+### Harold’s Role
+
+Though Harold had seemingly moved on with his new family in Phoenix, his involvement with Quinn’s surveillance was unwavering. Norman’s disappearance in the early 1990s had left Harold as the de facto handler of the operation, and he took the responsibility seriously. Harold justified his actions as necessary to protect Quinn—but deep down, he was haunted by the knowledge that his surveillance was less about safety and more about control.  
+
+Harold’s guilt didn’t stop him from carrying out his orders. He reviewed reports from the D.O.C. regularly, ensuring that Quinn remained within their sphere of influence. In rare moments of doubt, Harold convinced himself that this was for Quinn’s own good, that the child he had once carried out of Disneyland needed protection from forces he could never understand.  
+
+---
+
+### Quinn’s Blind Spot
+
+For Quinn, life in Los Angeles was filled with promise and possibility, but something always felt off. Friendships often felt shallow, relationships seemed to crumble inexplicably, and career opportunities sometimes appeared too conveniently. Despite his growing success as a web developer, Quinn couldn’t shake the feeling that his life was being shaped by unseen forces.  
+
+He chalked up these feelings to paranoia or the growing pains of a young adult finding his way in a big city. But the truth was far more sinister: Quinn’s life wasn’t entirely his own. Every decision he made, every path he pursued, was carefully monitored and, when necessary, adjusted to ensure he stayed on the course set for him by Harold and the D.O.C.  
+
+---
+
+### The Bigger Picture
+
+For the D.O.C. and S.V.V., Quinn was more than just a person—they saw him as a **key piece in a larger puzzle**. His origins, shrouded in secrecy and tied to the experiments overseen by Norman at Area 51, made him both an asset and a liability. Ensuring his anonymity and compliance was paramount to the organization’s survival.  
+
+But as the 1990s drew to a close, cracks began to form in the D.O.C.’s control. Quinn’s work in web development brought him into contact with new ideas and new people, some of whom couldn’t be controlled. The internet, still in its infancy, became a space where Quinn could express himself freely—an unpredictable variable the D.O.C. hadn’t fully accounted for.  
+
+---
+
+### Harold’s Ultimate Betrayal: Stealing Quinn’s Work
+
+By the late 1990s, Harold A.’s life had become a delicate balancing act. As a handler for the **Department of Convolution (D.O.C.)** and a key operative for the **Sodalitas Vulturis Volantis (S.V.V.)**, Harold had long mastered the art of deception. But his ambition, always simmering beneath the surface, reached new heights when he realized he could exploit Quinn’s brilliance for his own gain.  
+
+Quinn, unaware of the full extent of Harold’s surveillance, was excelling in web development. By this time, Quinn had pioneered several groundbreaking technologies:  
+
+- **Web-Based Financial Management Systems**: Tools to streamline online transactions and accounting.  
+- **Customer Relationship Management (CRM) Systems**: Platforms for managing customer interactions and business data.  
+- **Content/Community Management Systems**: Early frameworks for organizing digital communities and managing web content, laying the groundwork for future social platforms.  
+
+These systems, ahead of their time, caught Harold’s attention. He saw an opportunity—not just to control Quinn, but to profit immensely.  
+
+---
+
+### The Identity Heist
+
+Harold knew that his connection to Quinn’s legal birth name gave him a unique advantage. Quinn had legally changed his name upon moving to Los Angeles, distancing himself from the A. family’s shadow. But Harold still had access to Quinn’s **original legal identity**, a name tied to decades of hidden documents and clandestine operations.  
+
+Under this guise, Harold quietly assumed Quinn’s legal identity and began packaging Quinn’s web technologies. Using contacts within the D.O.C. and S.V.V., Harold marketed these systems as proprietary innovations, offering them under lucrative licensing agreements to covert operations, black budget programs, and even private enterprises aligned with S.V.V. interests.  
+
+For Harold, this move served two purposes:  
+
+1. **Personal Gain**: The licensing deals brought Harold immense wealth, allowing him to continue funding his extravagant lifestyle and maintain his influence within the D.O.C. and S.V.V.  
+2. **Control**: By claiming ownership of Quinn’s work, Harold ensured Quinn could never gain independent recognition or leverage his own success to escape the D.O.C.’s influence.  
+
+---
+
+### The Lavish Lifestyle
+
+Flush with cash from the licensing deals, Harold’s life of secrecy became one of opulence. His contacts within the S.V.V. praised his ingenuity, unaware—or perhaps indifferent—that the innovations he was selling were not his own. Harold used the money to:  
+
+- **Purchase properties** around the U.S., each serving as a luxurious safe house for D.O.C. operations.  
+- **Fund covert projects** for the S.V.V., boosting his reputation as a reliable and resourceful operative.  
+- **Finance extravagant indulgences**, from private vacations to luxury cars, ensuring he maintained the image of success and power.  
+
+Despite his wealth, Harold remained careful to keep his activities hidden from Quinn, ensuring that any trace of the licensing deals was buried under layers of disinformation and shell companies.  
+
+---
+
+### Harold’s Manipulation of Quinn’s Legacy
+
+Harold’s exploitation of Quinn’s work wasn’t just about profit—it was about erasing Quinn’s autonomy. By claiming ownership of the web systems Quinn had developed, Harold effectively rewrote history, ensuring that Quinn’s contributions would never see the light of day.  
+
+Harold even went so far as to feed false information to the D.O.C. operatives surveilling Quinn. Reports suggested that Quinn’s work was inconsequential or derivative, further discrediting him in the eyes of those who might otherwise have seen him as an asset.  
+
+To those in the know, Harold appeared to be a technological genius—a man whose innovations strengthened the D.O.C. and S.V.V.’s operations. But the truth was far darker: Harold’s rise was built on the theft of Quinn’s brilliance and the systematic suppression of his potential.  
+
+---
+
+### Quinn’s Growing Frustration
+
+As the 2000s began, Quinn started noticing unsettling patterns. His groundbreaking ideas, once cutting-edge and unique, seemed to appear elsewhere—branded under different names and marketed by companies he had no connection to. Friends and colleagues dismissed his concerns as paranoia, but Quinn couldn’t shake the feeling that he was being robbed of something vital.  
+
+The truth was worse than he imagined. Every stolen innovation, every misappropriated system, was a direct result of Harold’s covert operations. The very networks Quinn had helped build were being used to suppress him, keeping him locked in a cycle of invisibility and frustration.  
+
+---
+
+### A Dangerous Game
+
+By 2005, Harold’s double life was becoming increasingly precarious. The D.O.C. and S.V.V. demanded more from him, pressuring him to continue delivering innovations that would keep their operations ahead of the curve. Meanwhile, Quinn’s burgeoning frustration threatened to upend the delicate balance Harold had maintained for decades.  
+
+Harold’s theft of Quinn’s identity and work had made him rich and powerful, but it also tied him irreversibly to the organizations he served. Any slip-up, any revelation of the truth, could unravel everything he had built—and expose the secrets he had worked so hard to conceal.  
+
+---
 
