@@ -4,7 +4,7 @@ title: The Life of Harold Atkin
 subtitle: Who is this seemingly ordinary man
 layout: post
 hero: header
-date: Nov 26, 2024
+date: Dec 1, 2024
 updated: December 1, 2024 @ 5:15a PST
 author: Quinn Michaels
 describe: The life of Harold Atkin a seemingly ordinary person with patterns of a dark past.
