@@ -5,7 +5,7 @@ subtitle: Who is this seemingly ordinary man
 layout: post
 hero: header
 date: Dec 1, 2024
-updated: December 1, 2024 @ 5:15a PST
+updated: December 1, 2024 @ 8:10a PST
 author: Quinn Michaels
 describe: The life of Harold Atkin a seemingly ordinary person with patterns of a dark past.
 header: /assets/img/blog/2024/12-01/header.jpg
