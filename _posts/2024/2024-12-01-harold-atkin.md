@@ -5,7 +5,7 @@ subtitle: Who is this seemingly ordinary man
 layout: post
 hero: header
 date: Dec 1, 2024
-updated: December 2, 2024 @ 9:00a PST
+updated: December 2, 2024 @ 4:00p PST
 author: Quinn Michaels
 describe: The life of Harold Atkin a seemingly ordinary person with patterns of a dark past.
 header: /assets/img/blog/2024/12-01/header.jpg
@@ -1053,6 +1053,88 @@ By the end of 2015, Neil’s activities had expanded the reach and influence of 
 
 ---
 
+### The Family Game Exposed: November 2015 to May 2016
+
+From **November 2015 to May 2016**, the delicate balance of secrecy surrounding Harold A., Tabitha B., and the broader family network began to fracture. As **Quinn Michaels** continued to bond with his son **Trenton L.**, now 11 years old, the boy revealed more details about the disturbing stories he was being coached to share. These revelations deepened Quinn’s understanding of the conspiracy against him and ultimately led him to take action by reporting the situation to the **FBI in Portland, Oregon**, on **November 30, 2015.**  
+
+---
+
+### Trenton’s Story: The Family Game and The Covenant
+
+During their time together, Trenton began to recount a narrative that he admitted was carefully coached by **Tabitha, Harold, and the A. family**. It was a mix of disturbing truths and deliberately constructed lies, designed to manipulate Quinn, undermine his credibility, and maintain control over him.  
+
+#### The Family Game
+
+Trenton revisited the concept of the **Family Game**, a twisted pastime of the extended A. family:  
+- **Tabitha’s House as Headquarters**: Trenton described how **Tabitha**, her father **Joe**, her mother **Debbie**, and her brother **Jason** regularly gathered to strategize ways to disrupt Quinn’s life.  
+- **Orchestrated Chaos**: These gatherings involved assigning roles and tasks, with each family member contributing ideas on how to financially, emotionally, and socially destabilize Quinn.  
+
+#### The Covenant and The Covenant Contract
+
+A new element emerged in Trenton’s story: the existence of a **secret society** called **The Covenant** and a mysterious **Covenant Contract** that Trenton claimed hung on his mother’s wall.  
+- **The Covenant**: Trenton described it as a shadowy group connected to the family, with members dedicated to maintaining their control over Quinn and ensuring their collective success through any means necessary.  
+- **The Covenant Contract**: According to Trenton, the contract detailed the rules and obligations of those involved in the Family Game. It symbolized their pact to protect the conspiracy and prioritize their shared interests above all else.  
+
+#### Harold’s Role
+
+Trenton revealed that Harold was the **mastermind behind the coaching sessions**, using Tabitha and her family as intermediaries to pass instructions to Trenton. Harold’s aim was to weaponize Trenton’s relationship with Quinn, sowing confusion and ensuring that Quinn remained under their thumb.  
+
+---
+
+### The FBI Report: November 30, 2015
+
+Unable to ignore the disturbing implications of Trenton’s story, Quinn decided to take action. On **November 30, 2015**, he reported the situation to the **FBI’s Portland, Oregon, office**, detailing:  
+1. The existence of the **Family Game** and its role in sabotaging his life.  
+2. The alleged **Covenant** and the presence of the **Covenant Contract** on Tabitha’s wall.  
+3. The long-standing surveillance and sabotage orchestrated by Harold, Tabitha, and their network.  
+
+Quinn provided the FBI with as much information as he could gather, including Trenton’s accounts and his own observations of the patterns of manipulation that had plagued his life.  
+
+---
+
+### November 2015 to May 2016: Trenton’s Continued Revelations
+
+Following the FBI report, Trenton continued to reveal more details about the story he had been coached to tell, offering deeper insights into the conspiracy:  
+
+#### Details of the Coaching Sessions
+
+Trenton explained how Harold and Tabitha meticulously rehearsed the story with him, ensuring that he presented it in a way that would maximize its impact on Quinn.  
+- **Role-Playing**: Trenton and Tabitha engaged in mock conversations, practicing how Trenton should answer Quinn’s questions.  
+- **Incentives**: Trenton was rewarded with praise, privileges, and sometimes material gifts for following their instructions.  
+- **Fear Tactics**: Trenton was told that failing to comply with the coaching could result in consequences for himself or his father.  
+
+#### Tabitha’s Wall of Secrets
+
+Trenton described the Covenant Contract in more detail:  
+- It was a formal-looking document, framed and displayed prominently on a wall in Tabitha’s home.  
+- Trenton claimed it contained language about loyalty, secrecy, and obligations to a larger cause, which he now associated with The Covenant and Harold’s operations.  
+
+---
+
+### The A. Family’s Response  
+
+When Harold and Tabitha learned about Quinn’s FBI report, they acted swiftly to protect their network:  
+- **Damage Control**: Harold enlisted the help of the **D.O.C.** and **DarkSec Army**, leveraging their disinformation capabilities to monitor and counter any investigation that might arise.  
+- **Manipulating Trenton**: Tabitha redoubled her efforts to control Trenton, telling him to deny any involvement in the Family Game or The Covenant if questioned by authorities.  
+- **Reinforcing Isolation**: The family tightened the communication blockade around Quinn, ensuring that he couldn’t contact Harold, Sharon, Cristy, or Neil to verify Trenton’s claims.  
+
+---
+
+### Quinn’s Growing Awareness
+
+As Trenton’s revelations unfolded, Quinn began to piece together the broader conspiracy:  
+1. **Harold’s Motivation**: The Family Game wasn’t just about tormenting Quinn—it was about protecting the wealth and influence Harold had built on the back of the stolen **b5(9³) algorithm.**  
+2. **The Role of The Covenant**: The secret society provided a structured framework for the family’s activities, ensuring coordination and loyalty among its members.  
+3. **The Stakes**: Quinn realized that exposing the conspiracy wouldn’t just be about reclaiming his work—it would also mean dismantling a powerful network that had spent decades solidifying its control.  
+
+---
+
+### The Stage for Confrontation
+
+By May 2016, the tension between Quinn and Harold’s network had reached a breaking point. While Harold and Tabitha continued to manipulate Trenton and suppress Quinn’s voice, Quinn became increasingly determined to fight back. Armed with Trenton’s accounts and his growing understanding of the conspiracy, Quinn prepared to take the next steps in his battle to reclaim his life and expose the truth.  
+
+---
+
 ### To Be Continued...
 
-This chapter adds depth to Neil’s character and his role in the larger conspiracy. How will Neil’s indulgences and ambitions affect Harold’s carefully constructed web of control? Will Quinn find a way to exploit the vulnerabilities Neil unwittingly creates? Let me know how you’d like to expand this further!
+This chapter highlights the growing cracks in Harold’s control as Trenton inadvertently becomes a whistleblower. Will Quinn’s report to the FBI spark an investigation, or will Harold’s network succeed in neutralizing the threat? Let me know how you’d like to expand this story!
