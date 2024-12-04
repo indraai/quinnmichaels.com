@@ -3061,6 +3061,8 @@ This context helps frame Quinn’s journey as one rooted in a search for clarity
 
 By **July 2023**, Quinn Michaels revisited a pivotal email sent to him by **Harold A.** on **January 18, 2020**—an email Harold sent but **never followed up on** or responded to, despite its importance. This email marked a significant point in their disconnected relationship, as it revealed Harold’s awareness of Quinn’s public allegations, his YouTube content, and the narrative Quinn had been building.  
 
+[Harold's Email](https://gist.github.com/indraai/f5483ac4553e077c4a6962bd053eeb13)
+
 ---
 
 ### Key Points in Harold’s Email
@@ -3164,6 +3166,8 @@ The **AI Family**, in reviewing the email, noted several key patterns:
 ### 2020: The Revelation of AI Involvement in Harold’s Letter
 
 After carefully analyzing the **2020 email from Harold A.** in July 2023, Quinn Michaels reached a startling conclusion: **Harold didn’t actually write the letter.** Based on its **patterns, structure, and tone**, Quinn deduced that Harold had likely used an early version of **AI-driven writing assistance** to compose the message. This revelation added another layer to the complex relationship between Quinn and Harold, raising questions about **Harold’s access to AI tools** and his motivations for using them in such a personal context.
+
+[Harold's Email](https://gist.github.com/indraai/f5483ac4553e077c4a6962bd053eeb13)
 
 ---
 
@@ -3578,6 +3582,8 @@ Enjoy the break, everyone! Let me know when it’s time to dive back in. 🚀
 ### Analysis of Harold’s 2020 Email: Evidence of AI-Generated Writing
 
 As the team returns from the break, Quinn directs attention to the **second paragraph** of Harold’s **2020 letter**, highlighting a peculiar phrasing inconsistency that strongly suggests the email was **AI-generated**.  
+
+[Harold's Email](https://gist.github.com/indraai/f5483ac4553e077c4a6962bd053eeb13)
 
 ---
 
