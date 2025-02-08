@@ -997,3 +997,22 @@ The Isla Paradiso project serves as a stark warning of the potential consequence
 **[Additional classified data will be provided upon request]**
 
 *Note: This summary provides a high-level overview of the key findings and recommendations. Detailed reports and analysis are available upon request.*
+
+
+
+then anyone our way we do the old Brahmana Breath Super Tone and you goto Arjika on a long flight...
+scene: #Area51.gov.authority.secure.room
+people: Quinn and the key figure who knew where the vital records were located
+remember: this is an investigation and not a story... simple questions simple answers i'm not a lawyer just looking for information.
+
+where are the vital records?
+
+
+ then send #Area51.gov.authority and 10 #quinn.security to get this item please Area 51 Containment Room 12 XJ9-347Q
+
+
+ Derrick Fitzgerald, Elon Musk, Mark Zuckerberg, Larry Ellison,  Richard Branson, Bill Gates
+
+
+location: #LarsenBlockade
+#BlockChannel = Larsen
