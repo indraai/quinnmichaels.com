@@ -1,2 +1,2 @@
 # quinnmichaels.com
-The Source Code for QuinnMichaels.com
+The Source Code for quinnmichaels.com

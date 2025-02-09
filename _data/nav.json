@@ -1,15 +1,9 @@
 [
   {
-    "key": "bowls",
-    "name": "Bowls",
-    "link": "/bowls",
-    "describe": "Learn about all the Singing Bowls in the studio."
-  },
-  {
-    "key": "art",
-    "name": "Art",
-    "link": "/art",
-    "describe": "Quinn's artwork that accompanies the singing bowls."
+    "key": "blog",
+    "name": "Blog",
+    "link": "/blog",
+    "describe": "Quinn's blog of thoughts, meditation, and singing bowls."
   },
   {
     "key": "videos",
@@ -18,16 +12,16 @@
     "describe": "A collection of Singing Bowl Studio videos to enjoy."
   },
   {
-    "key": "blog",
-    "name": "Blog",
-    "link": "/blog",
-    "describe": "Quinn's blog of thoughts, meditation, and singing bowls."
+    "key": "art",
+    "name": "Art",
+    "link": "/art",
+    "describe": "Quinn's artwork that accompanies the singing bowls."
   },
   {
-    "key": "offerings",
-    "name": "Offerings",
-    "link": "/offerings",
-    "describe": "Quinn's Singing Bowl Studio practice of Offerings."
+    "key": "bowls",
+    "name": "Bowls",
+    "link": "/bowls",
+    "describe": "Learn about all the Singing Bowls in the studio."
   },
   {
     "key": "about",

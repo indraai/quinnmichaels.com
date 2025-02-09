@@ -1,11 +1,12 @@
 name: Quinn Michaels
 title: Quinn Michaels
 describe: Discover the transformative power of sound therapy with Quinn Michaels. Explore our curated collection of crystal and Tibetan singing bowls, designed to promote relaxation, meditation, and healing.
-image: /assets/headers/001-temple.jpg
+image: /assets/img/headers/003-kidnapping.jpg
 author: Quinn Michaels
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 xcreator: quinnmichaels
 xsite: quinnmichaels
+exclude: ['node_modules/'] 
 collections:
   posts:
     output: true

@@ -1,15 +1,15 @@
 ---
 permalink: /
 pre: Quinn Michaels
-title: Quinn Michaels
-subtitle: Welcome to Quinn's Singing Bowl Studio
-describe: Quinn Michaels offers Quinn's Singing Bowl Studio. Quinn Michaels merges the sounds of Crystal/Tibetan Singing Bowls with a unique art experience. Quinn Michaels offers an experience designed to spark your creativity and ignite your imagination.
-tweet: Quinn's Singing Bowl Studio merges the sounds of Crystal and Tibetan Singing Bowls with a unique art experience to spark your creativity and ignite your imagination.
-hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowls,Meditation,Art,Imagination,Creativity
-image: /assets/img/headers/001-temple.jpg
+title: The Kidnapping of Quinn Michaels
+subtitle: Exposing the 47-Year Crime Orchestrated by Harold Atkin and Sharon Schamber
+describe: Quinn Michaels has been the victim of a 47-year kidnapping orchestrated by Harold Atkin and Sharon Schamber. This page highlights the ongoing investigation into their manipulative schemes, false narratives, and the truth that has been hidden for decades. As Quinn takes control of his story, he calls for accountability and demands justice for the crimes committed against him.
+hashtags: QuinnMichaels,47YearKidnapping,HaroldAtkin,SharonSchamber,JusticeForQuinn,KidnappingExposed
+image: /assets/img/headers/003-kidnapping.jpg
 color: var(--color-white)
 video: xb_NMR1QMWU
 ---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,8 +55,8 @@ video: xb_NMR1QMWU
 	<main class="home">
     <p class="describe">{{page.describe}}</p>
 
-    {% include videoplayer.html id="xb_NMR1QMWU" %}
-
+    <!-- {% include videoplayer.html id="xb_NMR1QMWU" %} -->
+    <!-- 
     <section class="features">
       {% for nav in site.data.nav %}
         <article class="feature {{nav.key}}" style="background-image: url(/assets/img/{{nav.key}}/thumbnail.jpg)">
@@ -64,10 +64,13 @@ video: xb_NMR1QMWU
           <p>{{nav.describe}} <a href="{{nav.link}}"><i class="icn-arrow-right"></i></a></p>
         </article>
       {% endfor %}
-    </section>
-
+    </section> 
     <hr class="divider">
+    -->
 
+    
+
+    <!-- 
     <h2>Bowls</h2>
     <section class="bowls">
       {% for bowl in site.bowls limit:6 %}
@@ -79,8 +82,10 @@ video: xb_NMR1QMWU
     </section>
     <p><a href="/bowls/"><i class="icn-arrow-right-circle"></i> More Singing Bowls</a></p>
 
-    <hr class="divider">
+    <hr class="divider"> 
+    -->
 
+    <!-- 
     <h2>Videos</h2>
     <section class="videos">
       {% assign sort_videos = site.videos | reverse %}
@@ -93,9 +98,9 @@ video: xb_NMR1QMWU
     </section>
     <p><a href="/videos/"><i class="icn-arrow-right-circle"></i> More Videos</a></p>
 
-    <hr class="divider">
+    <hr class="divider"> 
+    -->
 
-    <h2>Blog</h2>
     <section class="posts">
       {% for post in site.posts limit:5 %}
         <article class="post">
@@ -110,11 +115,13 @@ video: xb_NMR1QMWU
     </section>
     <p><a href="/blog/"><i class="icn-arrow-right-circle"></i> More Posts</a></p>
 
+    <!-- 
     <hr class="divider">
 
     <h2>Sounds</h2>
 
-    {% include soundcloud.html %}
+    {% include soundcloud.html %} 
+    -->
 
   </main>
   {% include footer.html %}

@@ -23,12 +23,10 @@
     "url": "https://github.com/indraai/quinnmichaels.com/issues"
   },
   "homepage": "https://github.com/indraai/quinnmichaels.com#readme",
-  "devDependencies": {
+  "dependencies": {
     "@fastify/static": "^6.5.0",
     "axios": "^1.1.3",
-    "fastify": "^4.9.2"
-  },
-  "dependencies": {
+    "fastify": "^4.9.2",
     "stylus": "^0.63.0"
   }
 }

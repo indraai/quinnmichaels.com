@@ -16,10 +16,12 @@
 .posts
   margin: auto
   padding: 0
-
+  display: flex
+  flex-flow: row wrap
   .post
     display: flex
-    flex-flow: row wrap
+    flex: 1 33%
+    flex-flow: column wrap
     gap: .5rem
     padding: 0
     margin: 0
@@ -27,11 +29,11 @@
 
     .thumbnail
       min-width: 256px
-      flex: 0
       a
         display: block
+        text-align: center
         img
-          max-width: 256px
+          max-width: 400px
           border-radius: .5rem
           box-shadow: 0 3px 5px rgba($colors.black, .5)
     .info
