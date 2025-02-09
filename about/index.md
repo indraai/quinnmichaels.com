@@ -8,7 +8,7 @@ image: /assets/img/about/quinn-michaels-photo.jpg
 thumbnail: /assets/img/headers/quinn-michaels-thumbnail.jpg
 color: var(--color-white)
 describe: Quinn Michaels, born Korey Michael Atkin, was kidnapped in 1977 by Harold Atkin and Sharon Schamber. Raised by his captors and hidden from the world, Quinn’s journey to uncover his true identity and seek justice has been obstructed by those who have spent decades covering up the truth. This is the story of his fight for justice, against the odds, and against the individuals who have worked tirelessly to keep him silenced.
-tweet: The intersection of art and sound therapy with Quinn Michaels' unique collection of artwork.
+tweet: Quinn Michaels, born Korey Michael Atkin, was kidnapped in 1977 by Harold Atkin and Sharon Schamber.
 hashtags: QuinnMichaels,KidnappingTruth,Area51,JusticeForQuinn,ExposeTheTruth,EndTheCoverUp,QuinnsFight,AccountabilityNow
 ---
 
@@ -28,5 +28,4 @@ Throughout this ordeal, Quinn has faced immense adversity and has fought alone, 
 
 The fight for justice continues, and Quinn’s voice will not be silenced. He is determined to uncover the truth, regardless of the obstacles placed in his way. This is not just his fight—it is a fight for the countless victims who have been ignored and silenced by those in power. Quinn Michaels’ journey is one of resilience, and he will not rest until justice is served.
 
-Hashtags:
-#QuinnMichaels #KidnappingTruth #Area51 #JusticeForQuinn #ExposeTheTruth #EndTheCoverUp #QuinnsFight #AccountabilityNow
+**Hashtags:** #QuinnMichaels #KidnappingTruth #Area51 #JusticeForQuinn #ExposeTheTruth #EndTheCoverUp #QuinnsFight #AccountabilityNow
