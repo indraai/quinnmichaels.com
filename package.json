@@ -4,6 +4,8 @@
   "description": "quinnmichaels.com site",
   "main": "index.js",
   "scripts": {
+    "serve": "jekyll serve",
+    "build": "jekyll build",
     "style": "stylus -w _styl/main.styl -o assets/css/main.css -c",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
