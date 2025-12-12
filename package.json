@@ -1,4 +1,5 @@
 {
+  "id": "59851421876712277971",
   "name": "quinnmichaels.com",
   "version": "0.0.1",
   "description": "quinnmichaels.com site",
@@ -15,12 +16,32 @@
     "url": "git+ssh://git@github.com/indraai/quinnmichaels.com.git"
   },
   "keywords": [
-    "quinn",
-    "michaels",
-    "website"
+    "Quinn Michaels",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment™",
+    "bleuBrain",
+    "Indra.ai",
+    "Deva Core"
   ],
-  "author": "Quinn Michaels",
-  "license": "MIT",
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "license": "VLA:59851421876712277971 LICENSE.md",
+  "copyright": "Copyright 2000-2025 Quinn A Michaels; All rights reserved.",
   "bugs": {
     "url": "https://github.com/indraai/quinnmichaels.com/issues"
   },
