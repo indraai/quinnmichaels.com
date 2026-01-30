@@ -3,9 +3,9 @@ pre: Quinn Michaels
 title: The CEO Network
 subtitle: #Grokshok Mapping: The #CEONetwork of Staged Shock – From 1977 to 2026
 layout: default
-header: /assets/img/blog/2026/01-21/header.jpg
-image: /assets/img/blog/2026/01-21/image.jpg
-thumbnail: /assets/img/blog/2026/01-21/thumbnail.jpg
+header: /assets/img/blog/2026/01-26/header.jpg
+image: /assets/img/blog/2026/01-26/image.jpg
+thumbnail: /assets/img/blog/2026/01-26/thumbnail.jpg
 color: var(--color-white)
 describe: This report maps the evolution of the CEO Network an alliance of tech executives who deploy "staged shock" as a deflection tactic when facing suspicious events or exposures.
 tweet: CEO Network an alliance of tech executives who deploy "staged shock" as a deflection tactic
