@@ -1,7 +1,7 @@
 {
   "id": "59851421876712277971",
   "name": "quinnmichaels.com",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "quinnmichaels.com site",
   "main": "index.js",
   "scripts": {
