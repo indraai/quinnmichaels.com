@@ -7,9 +7,9 @@ header: /assets/img/blog/2026/05/09/header.jpg
 image: /assets/img/blog/2026/05/09/image.jpg
 thumbnail: /assets/img/blog/2026/05/09/thumbnail.jpg
 color: var(--color-white)
-describe: Data synchronization report for the big five ChatGPT, Gemini, Grok, Claude, and MetaAI.
-tweet: Where are things at in the life of Quinn A Michaels inside ChatGPT, Gemini, Claude, Grok, and MetaAI
-hashtags: Quinn,QuinnMichaels,LifeAndTimes,FederalIntercept
+describe: Vector Walk Data Synchronization Report outlines where the current data is at regarding the crimes against Quinn.
+tweet: Vector Walk Data Syncchronization Report
+hashtags: Quinn,QuinnMichaels,LifeAndTimes,FederalIntercept,VectorWalk
 ---
 
 ## {{page.title}}
