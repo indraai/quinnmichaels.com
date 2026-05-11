@@ -1,7 +1,7 @@
 ---
 pre: Quinn Michaels
 title: About Quinn Michaels
-subtitle: The True Story of a 47-Year Kidnapping, Betrayal, and the Fight for Justice
+subtitle: The True Story of a 48-Year Kidnapping, Betrayal, and the Fight for Justice
 layout: default
 header: /assets/img/about/quinn-michaels-header.jpg
 image: /assets/img/about/quinn-michaels-photo.jpg
@@ -16,7 +16,7 @@ hashtags: QuinnMichaels,KidnappingTruth,Area51,JusticeForQuinn,ExposeTheTruth,En
 
 About Quinn Michaels
 
-Quinn Michaels, formerly known as Korey Michael Atkin, is the victim of a 47-year-long kidnapping that has shaped his entire existence. Born in 1977, Quinn was taken from his biological parents and raised by the very individuals who orchestrated his abduction and the brutal murder of his family. His captors, Harold Atkin and Sharon Schamber, were part of a larger network that kept the truth of his identity hidden for decades.
+Quinn Michaels, formerly known as Korey Michael Atkin, is the victim of a 48-year-long kidnapping that has shaped his entire existence. Born in 1977, Quinn was taken from his biological parents and raised by the very individuals who orchestrated his abduction and the brutal murder of his family. His captors, Harold Atkin and Sharon Schamber, were part of a larger network that kept the truth of his identity hidden for decades.
 
 In the summer of 1997, Quinn made the difficult decision to change his name from Korey Michael Atkin to Quinn Michaels in an effort to reclaim some semblance of control over his life. Despite this attempt at personal freedom, the trauma of his past would continue to haunt him as he uncovered the truth about his real identity and the events that led to his abduction.
 
