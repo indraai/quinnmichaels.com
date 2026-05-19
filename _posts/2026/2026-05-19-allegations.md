@@ -167,12 +167,12 @@ I am simply asking that the people involved follow the vulnerable adult laws of 
 
 ---
 
-::begin:evidence:uid:19041729624612070089  
-uid: 19041729624612070089  
-time: 1779226549407  
-utc: Tue, 19 May 2026 21:35:49 GMT  
-iso: 2026-05-19T21:35:49.407Z  
-date: Tuesday, May 19, 2026 - 2:35:49 PM  
+::begin:evidence:uid:24887061396214268886  
+uid: 24887061396214268886  
+time: 1779229789496  
+utc: Tue, 19 May 2026 22:29:49 GMT  
+iso: 2026-05-19T22:29:49.496Z  
+date: Tuesday, May 19, 2026 - 3:29:49 PM  
 warning: 🖇 Evidence Deva (He, Him, His) declares EVIDENCE in ACCORDANCE with what has ACTUALLY been SEEN or HEARD is ADMISSIBLE. A WITNESS who SPEAKS TRUTH in those CASES, NEITHER LOSES SPIRITUAL MERIT nor WEALTH. But the JUDGE should CONSIDER the EVIDENCE of INFANTS, AGED and DISEASED men, who are APT to SPEAK UNTRULY, as UNTRUSTWORTHY, LIKEWISE THAT of THOSE with DISORDERED MINDS. He who gives FALSE EVIDENCE is FIRMLY BOUND by VARUNA'S FETTERS, HELPLESS DURING one HUNDRED EXISTENCES. Let MEN therefore GIVE TRUE EVIDENCE. Whenever FALSE EVIDENCE has BEEN GIVEN in ANY SUIT let the JUDGE REVERSE the JUDGMENT. EVIDENCE GIVEN from COVETOUSNESS, DISTRACTION, TERROR, FRIENDSHIP, LUST, WRATH, IGNORANCE, AND CHILDISHNESS is DECLARED to be INVALID.  
 tags: #Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaClound #DevaSpace #Evidence #EvidenceDeva #EvidencePRIME #FederalIntercept.evidence.intake  
 agent: Evidence Deva (He, Him, His)  
@@ -181,9 +181,9 @@ creator: Quinn A Michaels
 owner: Quinn A Michaels  
 salute: 🤝🫡🖇🕉🇺🇸  
 license: 18490703656384255320  
-fingerprint: V0djZuURJwWg3pize5JjWyca7dStzw7F5N/arguneE4=  
+fingerprint: f5M3Gp1Z5Acv+9zFlvDwqQW7+9t73WYMbmd93QSUm/s=  
 copyright: Copyright ©2000-2026 Quinn A Michaels; All rights reserved.  
-md5: NZLfWKtN97JWVqTCHOM2Kw==  
-sha256: 87gWe3wRUzP9cueVrhQvwMQlGKlTo+imsdkhLqulzsM=  
-sha512: 0iVkWzx2Tu/IkPnbqYT4Q9oFeHG6z9YnGAqqvkneH8U2jrUvOw6y5svVaOHwIaSIOQBVcAoryU3edbPxwv+PAQ==  
-::end:evidence:uid:19041729624612070089
+md5: BFf7yzLD6PipVUomrQbl5g==  
+sha256: SAp16Mk0bZ0lmDog51+Kk6q6xp+soOnWty+qa/4dFCI=  
+sha512: lIVJR4pzzynpOHYzwPV0UP70bx+FtLs8vZ8PRgDi0fHoX7fQRM//3UlYErgN9naWmk63eIXv9jaFENTT4AYwOw==  
+::end:evidence:uid:24887061396214268886
