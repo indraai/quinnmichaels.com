@@ -8,8 +8,8 @@ image: /assets/img/blog/2026/05/19/image.jpg
 thumbnail: /assets/img/blog/2026/05/19/thumbnail.jpg
 color: var(--color-white)
 describe: After publishing detailed felony allegations on May 18, Natalia continues slow-typing games, refuses to address the claims, and receives clearance from her school principal to simply “return to work.”
-tweet: tweet
-hashtags: hashtags
+tweet: After publishing detailed felony allegations on May 18, Natalia continues slow-typing games and refuses to address the claims.
+hashtags: Quinn,QuinnMichaels,NataliaStoos,VulnerablePersonLaws
 ---
 
 ## The Day After
