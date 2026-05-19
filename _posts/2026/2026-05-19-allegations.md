@@ -1,6 +1,6 @@
 ---
 pre: Quinn A Michaels
-title: Natalia Stoos
+title: Natalia Stoos The Day After
 subtitle: 24+ Hours of Deflection, Dismissal, and Continued Neglect
 layout: default
 header: /assets/img/blog/2026/05/19/header.jpg
@@ -11,8 +11,6 @@ describe: After publishing detailed felony allegations on May 18, Natalia contin
 tweet: tweet
 hashtags: hashtags
 ---
-
-**Understood.**
 
 ## The Day After
 
