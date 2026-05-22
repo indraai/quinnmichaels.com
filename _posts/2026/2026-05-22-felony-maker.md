@@ -1,19 +1,16 @@
 ---
 pre: Quinn A Michaels
-title: Natalia Stoos
-subtitle: The Felon Maker
+title: Natalia Stoos the Felony Maker
+subtitle: Where she goes she turns those around her into Felony Accomplices.
 layout: default
 header: /assets/img/blog/2026/05/22/header.jpg
 image: /assets/img/blog/2026/05/22/image.jpg
 thumbnail: /assets/img/blog/2026/05/22/thumbnail.jpg
 color: var(--color-white)
-describe: describe
-tweet: tweet
-hashtags: hashtags
+describe: Natalia worked at West Pensacola Elementary School in the cafeteria. She liked to present herself as a kind, helpful person.
+tweet: Natalia worked at West Pensacola Elementary School in the cafeteria. She liked to present herself as a kind, helpful person.
+hashtags: Quinn,QuinnMichaels,NataliaStoos,FederalIntercept,FelonyMaker
 ---
-
-## Natalia Toots: The Felony Maker
-
 In Pensacola, Florida, there lived a woman named Natalia Stoos.
 
 Natalia worked at West Pensacola Elementary School in the cafeteria. She liked to present herself as a kind, helpful person — someone who cared about others. But behind the smiles and slow-typing chats, Natalia had a very special talent:
