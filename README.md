@@ -1,5 +1,39 @@
 # quinnmichaels.com
-The Source Code for quinnmichaels.com. The site runs on the jekyll site publishing platform. Where below you can see the setup of the directories and how the code functions. 
+The source code for quinnmichaels.com. The site runs on the Jekyll static site publishing platform.
+
+## Local development
+
+### Requirements
+
+- Ruby 3.4.1 with Bundler 2.6.2
+- Node.js and npm
+
+Install the locked Ruby and Node dependencies:
+
+```bash
+bundle install
+npm install
+```
+
+Start Jekyll at [http://localhost:4000](http://localhost:4000):
+
+```bash
+npm run serve
+```
+
+Build the production-ready static site in `_site`:
+
+```bash
+npm run build
+```
+
+Jekyll and WEBrick versions are pinned in `Gemfile.lock` so local and deployment builds use the same Ruby dependencies. Run `bundle update` intentionally when those dependencies need to be upgraded.
+
+Stylus is maintained separately. To watch the Stylus source and compile changes into `assets/css/main.css`, run:
+
+```bash
+npm run style
+```
 
 ## Directories
 /\_art - Markdown Pages for artwork.
@@ -11,7 +45,7 @@ The Source Code for quinnmichaels.com. The site runs on the jekyll site publishi
 /\_posts - The Markdown blog posts organized into year (YYYY), month (MM), day (DD)
 /\_site - where the `jekyll build` command builds the site to.
 /\_styl - The Stylus code that builds the site css using the `npm run style` command.
-/\_videos - Mardwon pages for the videos presented on the site.
+/\_videos - Markdown pages for the videos presented on the site.
 
 ---
 
