@@ -85,7 +85,6 @@ exclude:
   - LICENSE.md
   - README.md
   - assets.zip
-  - index.js
   - node_modules
   - package.json
   - package-lock.json
