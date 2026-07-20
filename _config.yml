@@ -16,6 +16,10 @@ baseurl: ""
 timezone: America/Los_Angeles
 encoding: utf-8
 
+# Plugins
+plugins:
+  - jekyll-sitemap
+
 # Social identity
 xcreator: quinnmichaels
 xsite: quinnmichaels
@@ -41,6 +45,14 @@ collections:
 
 # Front-matter defaults
 defaults:
+  - scope:
+      path: "assets"
+    values:
+      sitemap: false
+  - scope:
+      path: "reports/2026-05-31-Stoos-Tradecraft.pdf"
+    values:
+      sitemap: false
   - scope:
       path: ""
       type: posts

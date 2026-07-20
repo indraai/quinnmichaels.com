@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://quinnmichaels.com/sitemaps/index.xml
+Sitemap: https://quinnmichaels.com/sitemap.xml
