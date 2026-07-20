@@ -1,22 +1,91 @@
-name: Quinn Arjuna Michaels
+# Site identity
 title: Quinn Arjuna Michaels
-describe: Discover the transformative power of sound therapy with Quinn Michaels. Explore our curated collection of crystal and Tibetan singing bowls, designed to promote relaxation, meditation, and healing.
+name: Quinn Arjuna Michaels
+description: >-
+  Discover the transformative power of sound therapy with Quinn Michaels. Explore our curated collection of crystal and Tibetan singing bowls, designed to promote relaxation, meditation, and healing.
+describe: >-
+  Discover the transformative power of sound therapy with Quinn Michaels. Explore our curated collection of crystal and Tibetan singing bowls, designed to promote relaxation, meditation, and healing.
+author: Quinn Arjuna Michaels
 image: /assets/img/headers/003-kidnapping.jpg
-author: Quinn Michaels
-copyright: Copyright ©2026 Quinn Michaels. All rights reserved.
+
+# Production URL
+url: https://quinnmichaels.com
+baseurl: ""
+
+# Regional settings
+timezone: America/Los_Angeles
+encoding: utf-8
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+
+# Social identity
 xcreator: quinnmichaels
 xsite: quinnmichaels
-exclude: ['node_modules/'] 
+
+# Copyright
+copyright_start_year: 2000
+copyright: Copyright ©2026 Quinn Arjuna Michaels. All rights reserved.
+
+# Content
 collections:
   posts:
     output: true
     permalink: /blog/:name
   art:
     output: true
-    permalink: /:collection/:name
+    permalink: /art/:name
   bowls:
     output: true
-    permalink: /:collection/:name
+    permalink: /bowls/:name
   videos:
     output: true
-    permalink: /:collection/:name
+    permalink: /videos/:name
+
+# Front-matter defaults
+defaults:
+  - scope:
+      path: "assets"
+    values:
+      sitemap: false
+  - scope:
+      path: "reports/2026-05-31-Stoos-Tradecraft.pdf"
+    values:
+      sitemap: false
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: art
+    values:
+      layout: art
+  - scope:
+      path: ""
+      type: bowls
+    values:
+      layout: bowl
+  - scope:
+      path: ""
+      type: videos
+    values:
+      layout: video
+
+# Files used for development but not published
+exclude:
+  - .DS_Store
+  - .gitignore
+  - .nova
+  - .ruby-version
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - assets.zip
+  - node_modules
+  - package.json
+  - package-lock.json
+  - scripts

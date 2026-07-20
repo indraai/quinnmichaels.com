@@ -54,5 +54,6 @@ The 5in Tibetan Jambati Singing Bowl tuned to A4 at 440 Hz offers a harmonious b
 
 ---
 
-Previous Bowl: [4in Tibetan Thadobati](001-4in-thadobati)  
-Next Bowl: [6in Tibetan Jambati](003-6in-jambati)
+Previous Bowl: [4in Tibetan Thadobati](/bowls/001-4in-thadobati)
+
+Next Bowl: [6in Tibetan Jambati](/bowls/003-6in-jambati)

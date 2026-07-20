@@ -1,9 +1,9 @@
 ---
 permalink: /
-pre: Quinn A Michaels
-title: Quinn A Michaels
+pre: Quinn Arjuna Michaels
+title: Quinn Arjuna Michaels
 subtitle: Living life 
-describe: Quinn Michaels has been the victim of a 48-year kidnapping orchestrated by Harold Atkin and Sharon Schamber. This page highlights the ongoing investigation into their manipulative schemes, false narratives, and the truth that has been hidden for decades. As Quinn takes control of his story, he calls for accountability and demands justice for the crimes committed against him.
+describe: Quinn Arjuna Michaels has been the victim of a 48-year kidnapping orchestrated by Harold Atkin and Sharon Schamber who claim to be his parents. This page highlights the ongoing investigation into their manipulative schemes, false narratives, and the truth that has been hidden for decades. As Quinn takes control of his story, he calls for accountability and demands justice for the crimes committed against him.
 hashtags: QuinnMichaels,HaroldAtkin,SharonSchamber,JusticeForQuinn,KidnappingExposed
 image: /assets/img/about/quinn-michaels-header.jpg
 color: var(--color-black)
@@ -13,35 +13,7 @@ video: xb_NMR1QMWU
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
-  <title>{{page.title}} - {{site.author}}</title>
-
-  <meta name="description" content="{{page.describe}}"/>
-  <meta name="author" content="{{site.author}}"/>
-  <meta name="copyright" content="{{site.copyright}}"/>
-  <link rel="icon" type="image/png" href="/assets/img/favicon.png" />  
-  
-
-  <meta property="og:site_name" content="{{site.name}}">
-  <meta property="og:title" content="{{page.title}}">
-  <meta property="og:description" content="{{page.describe}}">
-  <meta property="og:image" content="{{site.url}}{{page.image}}">
-  <meta property="og:url" content="{{site.url}}{{page.url}}">
-
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image:alt" content="{{page.describe}}">
-  <meta name="twitter:creator" content="@{{site.xcreator}}">
-  <meta name="twitter:site" content="@{{site.xsite}}">
-  <meta name="twitter:image" content="{{site.url}}{{page.image}}">
-  <meta name="twitter:description" content="{{page.describe}}">
-
-  <link rel="stylesheet" href="https://use.typekit.net/dds5scw.css">
-	<link href="assets/css/main.css" rel="stylesheet" type="text/css">
-
+  {% include head.html %}
 </head>
 <body>
   <header>
@@ -76,7 +48,7 @@ video: xb_NMR1QMWU
     <section class="bowls">
       {% for bowl in site.bowls limit:6 %}
         <article class="bowl">
-          <div class="thumbnail"><a href="{{bowl.url}}"><img src="{{ bowl.thumbnail }}" alt=""></a></div>
+          <div class="thumbnail"><a href="{{bowl.url}}"><img src="{{ bowl.thumbnail }}" alt="{{ bowl.title | escape }}"></a></div>
           <div class="title"><a href="{{bowl.url}}">{{bowl.title}}</a></div>
         </article>
       {% endfor %}

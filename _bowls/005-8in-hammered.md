@@ -60,5 +60,6 @@ The 8in Tibetan Hammered Singing Bowl tuned to F1 is a powerful instrument for t
 
 ---
 
-Previous Bowl: [7in Tibetan Hammered](004-7in-hammered)  
-Next Bowl: [9in Tibetan Hammered](006-9in-hammered)
+Previous Bowl: [7in Tibetan Hammered](/bowls/004-7in-hammered)
+
+Next Bowl: [9in Tibetan Hammered](/bowls/006-9in-hammered)

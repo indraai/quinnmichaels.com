@@ -52,4 +52,4 @@ The 11in Tibetan Jambati Singing Bowl tuned to C4 is a powerful tool for those s
 
 ---
 
-Previous Bowl: [10in Tibetan Antique Jambati](009-10in-antique)
+Previous Bowl: [10in Tibetan Antique Jambati](/bowls/009-10in-antique)

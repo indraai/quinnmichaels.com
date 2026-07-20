@@ -52,5 +52,6 @@ The 7in Nepal Singing Bowl, hand hammered in Nepal and tuned to the E5 note, ser
 
 ---
 
-Previous Bowl: [6in Tibetan Jambati](003-6in-jambati)  
-Next Bowl: [8in Tibetan Hammered](005-8in-hammered)
+Previous Bowl: [6in Tibetan Jambati](/bowls/003-6in-jambati)
+
+Next Bowl: [8in Tibetan Hammered](/bowls/005-8in-hammered)

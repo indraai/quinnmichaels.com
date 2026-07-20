@@ -1,38 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-
-    <title>Bowl: {{site.title}} {{page.title}}</title>
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <meta name="description" content="{{page.describe}}">
-    <meta name="author" content="{{page.author}}">
-    <meta name="copyright" content="{{page.copyright}}">
-
-    <meta property="og:site_name" content="{{page.name}}">
-    <meta property="og:title" content="{{page.title}}">
-    <meta property="og:description" content="{{page.describe}}">
-    <meta property="og:image" content="{{site.url}}{{page.image}}">
-    <meta property="og:url" content="{{page.site}}">
-
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image:alt" content="{{page.describe}}">
-    <meta name="twitter:creator" content="@{{page.name}}">
-    <meta name="twitter:site" content="@{{page.name}}">
-    <meta name="twitter:image" content="{{site.url}}{{page.image}}">
-    <meta name="twitter:description" content="{{page.describe}}">
-
-    <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
-
-    <!-- Le styles -->
-    <link rel="stylesheet" href="https://use.typekit.net/dds5scw.css">
-    <link href="/assets/css/main.css" rel="stylesheet">
+    {% include head.html %}
   </head>
 
   <body>
-    <header style="--header-bg: url({{page.header}}); --header-color: {{page.color}};">
+    {% assign header_image = page.header | default: page.image | default: site.image %}
+    {% assign header_color = page.color | default: "var(--color-white)" %}
+    <header style="--header-bg: url({{header_image}}); --header-color: {{header_color}};">
       {% include nav.html %}
       <div class="hero small">
         <h1>{{page.title}}</h1>

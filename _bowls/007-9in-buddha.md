@@ -62,5 +62,6 @@ This 9in Tibetan Singing Bowl, with its detailed engravings and precise A4 tunin
 
 ---
 
-Previous Bowl: [9in Tibetan Hammered](006-9in-hammered)  
-Next Bowl: [9.5in Tibetan Hammered](008-9-5in-hammered)
+Previous Bowl: [9in Tibetan Hammered](/bowls/006-9in-hammered)
+
+Next Bowl: [9.5in Tibetan Hammered](/bowls/008-9-5in-hammered)

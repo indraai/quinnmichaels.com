@@ -3,7 +3,8 @@ pre: Quinn Michaels
 title: Ultabati Singing Bowls
 subtitle: Echoes of the Cosmos
 layout: default
-image: /assets/img/headers/002.jpg
+header: /assets/img/bowls/header.jpg
+image: /assets/img/bowls/image.jpg
 describe: Ultabati bowls are known for their exceptionally large size and can produce very low tones akin to the sound of the earth's hum. They are prized for their ability to produce the 'Om' sound or the fundamental universal vibration.
 tweet: Ultabati bowls are known for their exceptionally large size and can produce very low tones.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlTypes,Thadobati

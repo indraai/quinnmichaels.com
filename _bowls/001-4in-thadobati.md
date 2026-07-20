@@ -54,4 +54,4 @@ The 4in Thadobati Tibetan Singing Bowl in B4 note is a perfect blend of traditio
 
 ---
 
-Next Bowl: [5in Tibetan Jambati](002-5in-jambati)
+Next Bowl: [5in Tibetan Jambati](/bowls/002-5in-jambati)

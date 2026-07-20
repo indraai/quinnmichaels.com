@@ -3,6 +3,7 @@ pre: Quinn Michaels
 title: Thadobati Singing Bowls
 subtitle: A Deep Dive into Their History, Sound, and Healing Qualities
 layout: default
+header: /assets/img/bowls/header.jpg
 image: /assets/img/bowls/types/thadobati.jpg
 describe: Thadobati style singing bowls are characterized by their straight, high walls and a wide, flat bottom. They have a bright, clear sound and can often produce multiple harmonic overtones, making them versatile for both meditation and healing practices.
 tweet: Thadobati style singing bowls are characterized by their straight, high walls and a wide, flat bottom.

@@ -3,7 +3,8 @@ pre: Quinn Michaels
 title: Trapezoid Singing Bowls
 subtitle: Unconventional Geometry, Unique Harmony
 layout: default
-image: /assets/img/headers/002.jpg
+header: /assets/img/bowls/header.jpg
+image: /assets/img/bowls/image.jpg
 describe: Trapezoid bowls, not as common, have a shape that resembles a trapezoid, with sides that flare out more than typical bowls. Their unique shape contributes to a distinctive sound profile, often rich in overtones.
 tweet: Trapezoid bowls have a shape that resembles a trapezoid, with sides that flare out more than typical bowls.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlTypes,Thadobati
