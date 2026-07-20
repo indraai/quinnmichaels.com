@@ -16,7 +16,7 @@ color: var(--color-white)
 <section class="art">
   {% for art in site.art %}
     <article class="artwork">
-      <div class="thumbnail"><a href="{{art.url}}"><img src="{{ art.thumbnail }}" alt=""></a></div>
+      <div class="thumbnail"><a href="{{art.url}}"><img src="{{ art.thumbnail }}" alt="{{ art.title | escape }}"></a></div>
       <div class="title"><a href="{{art.url}}">{{art.title}}</a>
       </div>
     </article>

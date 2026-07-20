@@ -52,5 +52,6 @@ The 9.5in Large Tibetan Hammered Singing Bowl tuned to B1 is a majestic instrume
 
 ---
 
-Previous Bowl: [9in Buddha Bowl](007-9in-buddha)  
-Next Bowl: [10in Tibetan Antique Jambati](009-10in-antique)
+Previous Bowl: [9in Buddha Bowl](/bowls/007-9in-buddha)
+
+Next Bowl: [10in Tibetan Antique Jambati](/bowls/009-10in-antique)

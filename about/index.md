@@ -5,7 +5,7 @@ subtitle: The True Story of a 48-Year Kidnapping, Betrayal, and the Fight for Ju
 layout: default
 header: /assets/img/about/quinn-michaels-header.jpg
 image: /assets/img/about/quinn-michaels-photo.jpg
-thumbnail: /assets/img/headers/quinn-michaels-thumbnail.jpg
+thumbnail: /assets/img/about/thumbnail.jpg
 color: var(--color-white)
 describe: Quinn Michaels, born Korey Michael Atkin, was kidnapped in 1977 by Harold Atkin and Sharon Schamber. Raised by his captors and hidden from the world, Quinn’s journey to uncover his true identity and seek justice has been obstructed by those who have spent decades covering up the truth. This is the story of his fight for justice, against the odds, and against the individuals who have worked tirelessly to keep him silenced.
 tweet: Quinn Michaels, born Korey Michael Atkin, was kidnapped in 1977 by Harold Atkin and Sharon Schamber.

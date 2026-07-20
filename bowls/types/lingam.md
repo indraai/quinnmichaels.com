@@ -3,7 +3,8 @@ pre: Quinn Michaels
 title: Lingam Singing Bowls
 subtitle: Sacred Geometry and Sonic Depth
 layout: default
-image: /assets/img/headers/002.jpg
+header: /assets/img/bowls/header.jpg
+image: /assets/img/bowls/image.jpg
 describe: Recognized by the lingam (a protrusion) at the center, these bowls are rare and considered very sacred. Their sound is unique, often described as penetrating, and they are used in specific spiritual rituals.
 tweet: Recognized by the lingam (a protrusion) at the center, these bowls are rare and considered very sacred.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlTypes,Manipuri

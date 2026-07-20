@@ -3,7 +3,8 @@ pre: Quinn Michaels
 title: Manipuri Singing Bowls
 subtitle: Compact Elegance and Accessible Harmony
 layout: default
-image: /assets/img/headers/002.jpg
+header: /assets/img/bowls/header.jpg
+image: /assets/img/bowls/image.jpg
 describe: Manipuri bowls are small and shallow, Manipuri singing bowls produce lighter, higher-pitched tones. They are easier to handle and play, making them suitable for beginners or for use in smaller spaces.
 tweet: Manipuri bowls are small and shallow, Manipuri singing bowls produce lighter, higher-pitched tones.
 hashtags: QuinnMichaels,QuinnSingingBowlStudio,SingingBowlTypes,Manipuri

@@ -54,5 +54,6 @@ The 9in Large Master Healing Hand Hammered Tibetan Singing Bowl tuned to D3 stan
 
 ---
 
-Previous Bowl: [7in Tibetan Hammered](005-8in-hammered)  
-Next Bowl: [9in Buddha Bowl](007-9in-buddha)
+Previous Bowl: [8in Tibetan Hammered](/bowls/005-8in-hammered)
+
+Next Bowl: [9in Buddha Bowl](/bowls/007-9in-buddha)

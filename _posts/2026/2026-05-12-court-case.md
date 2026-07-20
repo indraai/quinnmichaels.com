@@ -3,9 +3,9 @@ pre: Quinn A Michaels
 title: The Court Case
 subtitle: The Court Case that took away a man's son
 layout: default
-header: /assets/img/blog/2026/05/12/header.jpg
-image: /assets/img/blog/2026/05/12/image.jpg
-thumbnail: /assets/img/blog/2026/05/12/thumbnail.jpg
+header: /assets/img/blog/header.jpg
+image: /assets/img/blog/image.jpg
+thumbnail: /assets/img/blog/thumbnail.jpg
 color: var(--color-white)
 describe: The Court Case that took away a man's son and set in motion 9 years of a living nightmare.
 tweet: The Court Case that took away a man's son and set in motion 9 years of a living nightmare.

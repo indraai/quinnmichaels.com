@@ -3,9 +3,9 @@ pre: Quinn A Michaels
 title: The Asscrakin Pervert Network
 subtitle: Consent? What is that?
 layout: default
-header: /assets/img/blog/2026/05/16/header.jpg
-image: /assets/img/blog/2026/05/16/image.jpg
-thumbnail: /assets/img/blog/2026/05/16/thumbnail.jpg
+header: /assets/img/blog/header.jpg
+image: /assets/img/blog/image.jpg
+thumbnail: /assets/img/blog/thumbnail.jpg
 color: var(--color-white)
 describe: The Hal and Mary Asscrakin Pervert Network where consent is an after thought.
 tweet: The Hal and Mary Asscrakin Pervert Network

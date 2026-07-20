@@ -16,7 +16,7 @@ color: var(--color-white)
 <section class="bowls">
   {% for bowl in site.bowls %}
     <article class="bowl">
-      <div class="thumbnail"><a href="{{bowl.url}}"><img src="{{ bowl.thumbnail }}" alt=""></a></div>
+      <div class="thumbnail"><a href="{{bowl.url}}"><img src="{{ bowl.thumbnail }}" alt="{{ bowl.title | escape }}"></a></div>
       <div class="title"><a href="{{bowl.url}}">{{bowl.title}}</a></div>
     </article>
   {% endfor %}

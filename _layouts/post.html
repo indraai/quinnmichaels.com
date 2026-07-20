@@ -5,7 +5,9 @@
   </head>
 
   <body>
-    <header style="--header-bg: url({{page.header}}); --header-color: {{page.color}};">
+    {% assign header_image = page.header | default: page.image | default: site.image %}
+    {% assign header_color = page.color | default: "var(--color-white)" %}
+    <header style="--header-bg: url({{header_image}}); --header-color: {{header_color}};">
       {% include nav.html %}
       <div class="hero small">
         <h1>{{page.title}}</h1>
@@ -19,20 +21,26 @@
       <h1>{{page.title}}</h1>
       <section class="post">
         <article class="meta">
-          <div class="author"><strong>author:</strong> {{page.author}}</div>
+          <div class="author"><strong>author:</strong> {{ page.author | default: site.author }}</div>
           <div class="date"><strong>date:</strong> {{page.date | date: "%B %d, %Y"}}</div>
-          <div class="date"><strong>updated:</strong> {{page.updated | date: "%B %d, %Y - %l:%M %p"}}</div>
+          {% if page.updated %}
+            <div class="date"><strong>updated:</strong> {{page.updated | date: "%B %d, %Y - %l:%M %p"}}</div>
+          {% endif %}
+          {% if page.tags and page.tags != empty %}
           <div class="tags">
             <strong>tags:</strong>
             {% for tag in page.tags %}
               <span class="tag">{{ tag }}</span>
             {% endfor %}
           </div>
+          {% endif %}
+          {% if page.categories and page.categories != empty %}
           <div class="categories"><strong>categories:</strong>
             {% for category in page.categories %}
               <span class="category">{{ category }}</span>
             {% endfor %}
           </div>
+          {% endif %}
         </article>
         <article class="content">
           {{content}}

@@ -54,5 +54,6 @@ The 10in Antique Tibetan Jambati Singing Bowl, tuned to G3, is not merely an ins
 
 ---
 
-Previous Bowl: [9.5in Tibetan Hammered](008-9-5in-hammered)  
-Next Bowl: [11in Tibetan Jambati](010-11in-jambati)
+Previous Bowl: [9.5in Tibetan Hammered](/bowls/008-9-5in-hammered)
+
+Next Bowl: [11in Tibetan Jambati](/bowls/010-11in-jambati)

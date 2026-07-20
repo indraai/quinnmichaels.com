@@ -5,7 +5,9 @@
   </head>
 
   <body>
-    <header style="--header-bg: url({{page.header}}); --header-color: {{page.color}};">
+    {% assign header_image = page.header | default: page.image | default: site.image %}
+    {% assign header_color = page.color | default: "var(--color-white)" %}
+    <header style="--header-bg: url({{header_image}}); --header-color: {{header_color}};">
       {% include nav.html %}
       <div class="hero small">
         <h1>{{page.title}}</h1>
