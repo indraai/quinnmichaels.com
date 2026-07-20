@@ -1,5 +1,5 @@
 {
-  "id": "59851421876712277971",
+  "id": "45098366600713237546",
   "name": "quinnmichaels.com",
   "version": "0.6.0",
   "description": "quinnmichaels.com site",
@@ -18,6 +18,7 @@
   "keywords": [
     "Quinn Michaels",
     "Quinn A Michaels",
+    "Quinn Arjuna Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
     "bleuBrain",
@@ -25,7 +26,7 @@
     "Deva Core"
   ],
   "author": {
-    "name": "Quinn A Michaels",
+    "name": "Quinn Arjuna Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -40,8 +41,8 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "license": "VLA:59851421876712277971 LICENSE.md",
-  "copyright": "Copyright 2000-2025 Quinn A Michaels; All rights reserved.",
+  "license": "VLA:45098366600713237546 LICENSE.md",
+  "copyright": "Copyright 2000-2026 Quinn Arjuna Michaels; All rights reserved.",
   "bugs": {
     "url": "https://github.com/indraai/quinnmichaels.com/issues"
   },
