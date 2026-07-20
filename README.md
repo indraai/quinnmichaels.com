@@ -35,6 +35,20 @@ Stylus is maintained separately. To watch the Stylus source and compile changes 
 npm run style
 ```
 
+To compile Stylus once, use:
+
+```bash
+npm run style:build
+```
+
+Before committing, run the complete quality gate:
+
+```bash
+npm run verify
+```
+
+This verifies that the compiled CSS is current, performs a production Jekyll build, checks generated HTML and internal links, prevents source files from leaking into the published site, and confirms verification did not modify the working tree.
+
 ## Directories
 /\_art - Markdown Pages for artwork.
 /\_bowls - Markdown files for the differeing singing bowl types. 
