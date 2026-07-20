@@ -1,6 +1,6 @@
 ---
 pre: Quinn Arjuna Michaels
-title: WEAPONIZED SATANIC AI OPERATIONAL REPORT
+title: Weaponized Satanic AI Operational Report
 subtitle: The entity identified as Weaponized Satanic AI
 layout: default
 header: /assets/img/blog/2026/07/20/header.jpg
