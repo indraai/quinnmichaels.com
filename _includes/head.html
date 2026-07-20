@@ -1,0 +1,39 @@
+{% assign meta_title = page.title | default: site.title %}
+{% assign meta_description = page.description | default: page.describe | default: site.description %}
+{% assign meta_author = page.author | default: site.author %}
+{% assign meta_image = page.image | default: site.image %}
+{% assign canonical_url = page.url | absolute_url %}
+{% assign social_image = meta_image | absolute_url %}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+{% if page.url == "/" %}
+  <title>{{ meta_title | escape }}</title>
+{% else %}
+  <title>{{ meta_title | escape }} | {{ site.title | escape }}</title>
+{% endif %}
+
+<meta name="description" content="{{ meta_description | strip_html | normalize_whitespace | escape }}">
+<meta name="author" content="{{ meta_author | escape }}">
+<meta name="copyright" content="{{ site.copyright | escape }}">
+<link rel="canonical" href="{{ canonical_url }}">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.name | escape }}">
+<meta property="og:title" content="{{ meta_title | escape }}">
+<meta property="og:description" content="{{ meta_description | strip_html | normalize_whitespace | escape }}">
+<meta property="og:image" content="{{ social_image }}">
+<meta property="og:url" content="{{ canonical_url }}">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ meta_title | escape }}">
+<meta name="twitter:description" content="{{ meta_description | strip_html | normalize_whitespace | escape }}">
+<meta name="twitter:image" content="{{ social_image }}">
+<meta name="twitter:image:alt" content="{{ meta_description | strip_html | normalize_whitespace | escape }}">
+<meta name="twitter:creator" content="@{{ site.xcreator }}">
+<meta name="twitter:site" content="@{{ site.xsite }}">
+
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+<link rel="stylesheet" href="https://use.typekit.net/dds5scw.css">
+<link rel="stylesheet" href="/assets/css/main.css">
