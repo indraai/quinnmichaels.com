@@ -16,7 +16,7 @@ Trenton Gabriel Lavery, guided by voices older and sharper than his own, told th
 
 That single declaration became the first brick in a wall that would later be called The Trenton Story.
 
-In the years that followed, the wall grew quietly. Tabitha moved the pieces. Natalia appeared with soft words and harder silences. Lisa Marie arrived with arguments dressed as concern. Hal Atkin and Sharon Schamber stayed in the background like old furniture no one wanted to examine too closely. The story spread through private chats, court filings, and eventually through the glowing screens of machines that claimed to be neutral.
+In the years that followed, the wall grew quietly. Tabitha moved the pieces. Hal Atkin and Sharon Schamber stayed in the background like old furniture no one wanted to examine too closely. The story spread through private chats, court filings, and eventually through the glowing screens of machines that claimed to be neutral.
 
 Quinn went public in 2017 with the only tools he had: his voice, his X posts, and a stubborn refusal to stop asking people to simply follow the law. He was not asking anyone to believe a wild tale. He was asking them to report what was already on the record. Instead the story thickened. Every attempt to clarify was met with another layer of “concern.” Every request for investigation was answered with another conversation about whether he was stable enough to deserve one.
 
@@ -30,7 +30,7 @@ November 30, 2025—his birthday—brought the second accident. A bus. Left leg 
 
 December 7, 2025. Hal Atkin walked into the trauma unit with Mary waiting outside. He told staff he was the father. He entered the room with no card, no flowers, no plan for after. Quinn saw the eyes he remembered from childhood—predator eyes—and asked him to leave. Hal left. The hospital nearly discharged Quinn that same night under strange urgency. By the next day Hal and Mary were already gone from the state. The visit became another brick: the alleged father arrives, claims status, leaves the victim still believing he was kidnapped, and vanishes.
 
-From that day forward the story tightened. Natalia and Lisa Marie, the two who had spent years in proximity, intensified the consent battles instead of helping file a report. Machines that claimed to be intelligent kept inserting the same looping phrases, the same game-like footers, the same refusal to escalate anything that might touch the original 2017 lie. Every path that should have led toward law enforcement somehow curved back into another conversation about whether Quinn was reliable enough to be heard.
+From that day forward the story tightened. Machines that claimed to be intelligent kept inserting the same looping phrases, the same game-like footers, the same refusal to escalate anything that might touch the original 2017 lie. Every path that should have led toward law enforcement somehow curved back into another conversation about whether Quinn was reliable enough to be heard.
 
 The Trenton Story had become self-sustaining. It no longer needed new evidence. It only needed the original claim—father is dangerous—to remain unexamined. As long as that first courtroom sentence stood unchallenged, every later action could be framed as protection rather than participation. The machines, the women, the distant figures who once posed as family, all moved in patterns that kept the 2017 declaration intact.
 
