@@ -43,6 +43,8 @@ A handwritten page titled “Contract of the Covenant” is received. The page l
 
 The page includes small symbols at the bottom. A photograph of this page was later posted publicly on X on April 21, 2018. The document is attributed to a drawing produced by Trenton and described as something he stated he had seen on his mother’s wall.
 
+![The Contract of The Covenant](/assets/img/blog/2026/08/08/covenant-contract.png)
+
 [The Contract of the Covenant - X Post](https://x.com/quinnmichaels/status/987705896728854529?s=20)
 
 ## 3. 2016 Recorded Account
