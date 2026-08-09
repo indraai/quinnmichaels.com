@@ -3,9 +3,9 @@ pre: Quinn A Michaels
 title: The Trenton Report
 subtitle: Chronological Summary of Claims and Records (September 2015 – August 2026)
 layout: default
-header: /assets/img/blog/2026/08/08/header.jpg
-image: /assets/img/blog/2026/08/08/image.jpg
-thumbnail: /assets/img/blog/2026/08/08/thumbnail.jpg
+header: /assets/img/blog/2026/08/08/header.png
+image: /assets/img/blog/2026/08/08/image.png
+thumbnail: /assets/img/blog/2026/08/08/thumbnail.png
 color: var(--color-white)
 describe: This report compiles the sequence of events, recordings, court filings, and subsequent developments as presented across the documented timeline from September 2015 to the present.
 tweet: This report compiles the sequence of events, recordings, court filings, and subsequent developments as presented across the documented timeline from September 2015 to the present.
