@@ -9,7 +9,7 @@ thumbnail: /assets/img/blog/2026/08/08/thumbnail.png
 color: var(--color-white)
 describe: This report compiles the sequence of events, recordings, court filings, and subsequent developments as presented across the documented timeline from September 2015 to the present.
 tweet: The Trenton Report - the timeline of events from 2015 to August 2026.
-hashtags: QuinnArjunaMichaels,TrentonGabrielLavery,TheTrentonStory
+hashtags: QuinnMichaels,TrentonLavery,TheTrentonStory
 ---
 
 **UID: 34961918064096250569**  
@@ -18,11 +18,13 @@ hashtags: QuinnArjunaMichaels,TrentonGabrielLavery,TheTrentonStory
 
 ---
 
-## 1. Purpose and Scope
+## Purpose and Scope
 
 It organizes the material in natural chronological order. Items are labeled according to their source character: user-reported accounts, publicly posted media, or court records. No independent verification of private claims is asserted herein.
 
-## 2. 2015 Origin Points
+---
+
+## 2015 Origin Points
 
 ### September 22, 2015
 
@@ -47,7 +49,9 @@ The page includes small symbols at the bottom. A photograph of this page was lat
 
 [The Contract of the Covenant - X Post](https://x.com/quinnmichaels/status/987705896728854529?s=20)
 
-## 3. 2016 Recorded Account
+---
+
+## 2016 Recorded Account
 
 ### May 22, 2016
 
@@ -55,7 +59,27 @@ A recorded interview is conducted in which Trenton recounts a kidnapping narrati
 
 [Trenton Interview - May 22, 2016](https://youtu.be/TlU7Fs56E80)
 
-## 4. 2017 Court Pivot
+### September 26, 2016
+
+On September 26, 2016 was the first diagnosis Quinn had by a medical professional to address his spinal issues. Where the doctor after a seris of spinal x-rays determined Quinn suffers from several spinal conditions that were previously unknown to anyone at the time. 
+
+Quinn's spinal conditions are:
+1. Sheuermann’s Kyphosis 
+2. Chronic healed compression fractures  
+3. Several Schmorl’s Nodes.
+
+> Quinn Michaels (DOB: 11/30/1977) was seen in my office 09/26/2016 with 
+primary complaint of thoracic back pain. After a competed series of 
+thoracic spine films it was determined that he has Sheuermann’s 
+Kyphosis complicated by chronic healed compression fractures and 
+several Schmorl’s Nodes. Mr. Michaels has several restrictions to his 
+current daily activities until further notice.
+
+![Quinn Michaels Spinal Diagnosis](/assets/img/blog/2026/08/08/quinn-spinal-notice.png)
+
+---
+
+## 2017 Court Pivot
 
 ### May 12, 2017
 
@@ -74,11 +98,15 @@ The case status is recorded as Closed. In the same period Quinn posted public vi
 
 [Oregon Judicial Department Search](https://webportal.courts.oregon.gov/portal/)
 
-## 5. Post-2017 Period
+---
+
+## Post-2017 Period
 
 Following the May 2017 court action, Trenton (thereafter an adult) has remained publicly silent regarding the 2016 recorded account while the original recording and the 2015 Covenant page remained available. Third parties who positioned themselves in supporting or advocacy roles continued extended communications with Quinn. Those communications have repeatedly centered on past financial contributions, personal grievances, and reframing of the multi-year timeline rather than present circumstances.
 
-## 6. 2024–2025 Physical Events and Hospital Visit
+---
+
+## 2024–2025 Physical Events and Hospital Visit
 
 ### August 21, 2024
 
@@ -101,7 +129,10 @@ Left above-knee amputation and right femur reconstruction involving a full-lengt
 Hal Atkin and Mary Atkin arrive unannounced at the hospital from Mesa, Arizona. No prior telephone call, card, or flowers are reported. A short interaction occurs; thereafter no further contact from that party is recorded.
 
 ![Hal Atkin Predator Eyes](/assets/img/blog/2026/08/08/hal-atkin-hospital.png)
-## 7. Ongoing Pattern (2017–2026)
+
+---
+
+## Ongoing Pattern (2017–2026)
 
 Across the years after the Immediate Danger order, the observable pattern includes:
 
