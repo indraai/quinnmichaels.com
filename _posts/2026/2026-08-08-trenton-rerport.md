@@ -3,9 +3,9 @@ pre: Quinn A Michaels
 title: The Trenton Report
 subtitle: Chronological Summary of Claims and Records (September 2015 – August 2026)
 layout: default
-header: /assets/img/blog/2026/08/08/header.png
-image: /assets/img/blog/2026/08/08/image.png
-thumbnail: /assets/img/blog/2026/08/08/thumbnail.png
+header: /assets/img/blog/2026/08/08/header.jpg
+image: /assets/img/blog/2026/08/08/image.jpg
+thumbnail: /assets/img/blog/2026/08/08/thumbnail.jpg
 color: var(--color-white)
 describe: This report compiles the sequence of events, recordings, court filings, and subsequent developments as presented across the documented timeline from September 2015 to the present.
 tweet: The Trenton Report - the timeline of events from 2015 to August 2026.
@@ -181,6 +181,7 @@ The sequence begins with the September 2015 video and the November 2015 Covenant
 
 This report preserves the chronological order of the supplied material without interruption of the documented sequence.
 
+![Quinn Michaels in Wheelchair]({{page.image}})
 ---
 
 **Copyright ©2000-2026 Quinn Arjuna Michaels. All rights reserved.**
