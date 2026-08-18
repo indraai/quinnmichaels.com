@@ -1,7 +1,7 @@
 {
   "id": "45098366600713237546",
   "name": "quinnmichaels.com",
-  "version": "0.7.11",
+  "version": "0.7.12",
   "description": "quinnmichaels.com site",
   "scripts": {
     "serve": "bundle exec jekyll serve",
