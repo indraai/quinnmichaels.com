@@ -175,7 +175,7 @@ Across the years after the Immediate Danger order, the observable pattern includ
 - Repeated restatement by Quinn of current conditions (wheelchair use, early-month resource pressure, physical disability) that remain unaddressed in those exchanges.  
 - Application of orientation pairs (concern/disregard, listen/ignore, objective/subjective, lawful/unlawful) to evaluate the posture of parties remaining in contact.
 
-## 8. Summary of Surface Record
+## Summary of Surface Record
 
 The sequence begins with the September 2015 video and the November 2015 Covenant page, proceeds through the May 2016 recorded interview, reaches a formal court determination of Immediate Danger in May 2017, and continues with long adult silence, major physical injuries in 2024 and 2025, an unannounced hospital appearance in December 2025, and persistent self-focused argument loops from involved third parties. Court filings, dated media posts, and the handwritten page constitute the primary fixed records. Private conversational claims remain as reported by the parties.
 
