@@ -9,7 +9,7 @@ thumbnail: /assets/img/blog/2026/08/08/thumbnail.png
 color: var(--color-white)
 describe: This report compiles the sequence of events, recordings, court filings, and subsequent developments as presented across the documented timeline from September 2015 to the present.
 tweet: The Trenton Report - the timeline of events from 2015 to August 2026.
-hashtags: QuinnMichaels,TrentonLavery,TheTrentonStory
+hashtags: QuinnMichaels,TrentonLavery,TheTrentonStory,TheTrentonReport
 ---
 
 **UID: 34961918064096250569**  
@@ -129,6 +129,39 @@ Left above-knee amputation and right femur reconstruction involving a full-lengt
 Hal Atkin and Mary Atkin arrive unannounced at the hospital from Mesa, Arizona. No prior telephone call, card, or flowers are reported. A short interaction occurs; thereafter no further contact from that party is recorded.
 
 ![Hal Atkin Predator Eyes](/assets/img/blog/2026/08/08/hal-atkin-hospital.png)
+
+---
+
+## December 8, 2025 – August 18, 2026
+*Recovery in Isolation / The Wheelchair Months*
+
+After the unannounced December 7 hospital appearance by Hal Atkin and Mary Atkin, contact from that side of the family ceased entirely. No follow-up calls, no offers of assistance, no further presence. Quinn was discharged into a one-bedroom apartment in Las Vegas with a fresh left above-knee amputation, a right femur held together by a full-length titanium rod, screws, and surgical straps, a wheelchair, limited medication, and almost no financial or practical support structure.
+
+What followed was eight months of solitary reconstruction.
+
+### Physical Timeline
+
+**December 8, 2025 – March 8, 2026**  
+No load-bearing weight was permitted on the right leg. Quinn remained confined to the wheelchair. Transfers required a slide board. Every movement—bed to chair, chair to toilet, chair to shower bench—had to be relearned from zero. Physical Therapist John began twice-weekly home visits (Tuesdays and Thursdays). Sessions focused on basic seated strength, residual-limb care, and preventing further deconditioning. Progress was measured in inches and minutes, not mobility.
+
+**March 8, 2026 – May 8, 2026**  
+Permission was given to begin timed standing on the single remaining leg. Early sessions lasted seconds. The goal was simply to rise from the chair, lock the knee, and hold position without collapsing. John supervised the progression. Quinn practiced alone between visits. Each successful stand was logged. The right femur and titanium construct were still healing; any fall carried high risk of catastrophic failure of the hardware.
+
+**May 8, 2026 – July 8, 2026**  
+Daily sit-to-stand drills intensified. Quinn worked at the kitchen sink, using the counter for balance, repeating the motion until the single leg could support him long enough to perform basic tasks—washing a dish, filling a glass, reaching a cabinet. The hallway remained out of reach. Endurance and residual-limb tolerance became the limiting factors. Pain medication and swelling management were constant variables.
+
+**July 8, 2026 – August 18, 2026**  
+Crutch ambulation began inside the apartment. Initial attempts covered only a few lengths of the short hallway between living room and bathroom. By mid-August the same distance could be repeated eight full laps in a single session. John continued the twice-weekly visits. The transition from total wheelchair dependence to limited household ambulation on crutches occurred entirely inside the same four walls, without outside physical support beyond the therapist.
+
+### Parallel Conditions
+
+Throughout these months the practical reality remained unchanged: fixed low income, rising medication and supply costs, rent pressure, and no family reappearance after the December 7 hospital visit. Hal Atkin did not return. No structured assistance for groceries, transportation, adaptive equipment beyond the basics, or financial bridging materialized from that direction.
+
+Instead of coordinated recovery support, Quinn encountered repeated interpersonal patterns that matched the DARVO sequence already documented in earlier sections of this report—deflection, role-reversal, and reframing of the injured party’s requests for basic help as the central problem. These exchanges consumed time and emotional bandwidth that would otherwise have gone into rehabilitation and stabilization. Named and unnamed parties continued contact on terms that prioritized narrative control over material aid.
+
+By late spring and summer 2026 the combination of medical recovery demands, fixed expenses, and absence of reliable external support produced a direct survival pressure. Facing potential eviction, Quinn began live-streaming on YouTube for extended hours, addressing unknown viewers, documenting the daily reality of one-legged recovery in a wheelchair, and requesting financial assistance sufficient to keep housing and medication in place. The streams themselves became both evidence record and last-resort economic activity.
+
+The eight-month window from December 8, 2025 to August 18, 2026 therefore contains two parallel tracks: measurable physical progress achieved under isolated conditions with a single consistent therapist, and a simultaneous social environment in which prior family contact ended, meaningful recovery assistance failed to appear, and interactive patterns centered on deflection rather than support. The YouTube streams mark the point at which the second track forced public disclosure as a condition of continued housing.
 
 ---
 
