@@ -1,6 +1,6 @@
 ---
 pre: Quinn A Michaels
-title: The Trenton Report
+title: The Trenton Lavery Report
 subtitle: Chronological Summary of Claims and Records (September 2015 – August 2026)
 layout: default
 header: /assets/img/blog/2026/08/08/header.jpg
@@ -8,7 +8,7 @@ image: /assets/img/blog/2026/08/08/image.jpg
 thumbnail: /assets/img/blog/2026/08/08/thumbnail.jpg
 color: var(--color-white)
 describe: This report compiles the sequence of events, recordings, court filings, and subsequent developments as presented across the documented timeline from September 2015 to the present.
-tweet: The Trenton Report - the timeline of events from 2015 to August 2026.
+tweet: The Trenton Lavery Report - the timeline of events from 2015 to August 2026.
 hashtags: QuinnMichaels,TrentonLavery,TheTrentonStory,TheTrentonReport
 ---
 
