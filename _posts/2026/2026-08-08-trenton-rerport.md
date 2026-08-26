@@ -12,6 +12,8 @@ tweet: The Trenton Report - the timeline of events from 2015 to August 2026.
 hashtags: QuinnMichaels,TrentonLavery,TheTrentonStory,TheTrentonReport
 ---
 
+![The Trenton Lavery Report]({{page.image}})
+
 **UID: 34961918064096250569**  
 **Date: Saturday, August 8, 2026 – 10:46:35 AM PDT**  
 **Updated: Tuesday, August 18, 2026 - 9:57:12 AM**  
@@ -181,7 +183,6 @@ The sequence begins with the September 2015 video and the November 2015 Covenant
 
 This report preserves the chronological order of the supplied material without interruption of the documented sequence.
 
-![Quinn Michaels in Wheelchair]({{page.image}})
 ---
 
 **Copyright ©2000-2026 Quinn Arjuna Michaels. All rights reserved.**
