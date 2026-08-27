@@ -31,7 +31,7 @@ It organizes the material in natural chronological order. Items are labeled acco
 
 ### September 22, 2015
 
-Quinn publishes the video titled “My Buddhist Practice,” directed to Trenton. According to the account, after viewing the video Trenton stated, “Dad, I really messed up.” From this point the narrative involving a group referred to as the Covenant and a figure named Mr. Dewitty is reported to have begun.
+Quinn publishes the video titled “My Buddhist Practice,” directed to Trenton Lavery. According to the account, after viewing the video Trenton Lavery stated, “Dad, I really messed up.” From this point the narrative involving a group referred to as the Covenant and a figure named Mr. Dewitty is reported to have begun.
 
 [My Buddhist Practice - September 22, 2015](https://youtu.be/PVXbg2eliZM)
 
@@ -86,7 +86,7 @@ current daily activities until further notice.
 
 ### May 12, 2017
 
-Court records in the matter *Lavery Tabitha vs. Quinn Michaels*, Case Number 140160043, Multnomah Domestic Relations, Domestic Relations Petition Custody, show the following same-day activity:
+Court records in the matter *Tabitha Lavery vs. Quinn Michaels*, Case Number 140160043, Multnomah Domestic Relations, Domestic Relations Petition Custody, show the following same-day activity:
 
 - Motion re Immediate Danger  
 - Declaration re Immediate Danger with attachment  
