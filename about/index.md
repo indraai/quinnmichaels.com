@@ -14,16 +14,28 @@ hashtags: QuinnMichaels,KidnappingTruth,Area51,JusticeForQuinn,ExposeTheTruth,En
 
 ![Quinn Michaels Photo](/assets/img/about/quinn-michaels-photo.jpg)
 
+# About Quinn Michaels
+
 About Quinn Michaels
 
-Quinn Michaels is the victim of a 48-year-long kidnapping that has shaped his entire existence. Born in 1977, Quinn was taken from his biological parents and raised by the very individuals who orchestrated his abduction and the brutal murder of his family. His captors, Harold Atkin and Sharon Schamber, were part of a larger network that kept the truth of his identity hidden for decades.
+Quinn Michaels is a self-taught programmer, designer, and systems builder. He learned the work by doing it: databases first, then the screens people actually touch, then the systems that have to keep both of those honest over time. No single course handed him the job. The jobs did.
 
-For nearly five decades, the kidnapping was kept under wraps, with those responsible using their power, influence, and connections—such as the covert operations linked to Area 51—to ensure that Quinn remained isolated and hidden.
+Over the years that work ran through Nike, Welocalize, Pop Art in Portland, and Yesmail. The assignments were practical. Build the database so the records hold. Build the front end so a person can use it without a manual. Design the path between the two so a change in one does not silently break the other. Some of that was operations. Some of it was product. All of it was the same problem wearing different clothes: get the data in clean, get it out clear, and leave a trail a later person can follow.
 
-Quinn’s fight for the truth has been an uphill battle. He was abandoned by both the authorities and the general public, left to piece together the fragments of his life and the details of the kidnapping on his own. His YouTube channel, which became a platform for him to share his story and raise awareness, has been repeatedly attacked by those who have worked to obstruct the truth. They have actively destroyed his efforts, silenced his voice, and manipulated the narrative in favor of the criminals responsible.
+That trail is the part he kept. A screen can be redrawn. A campaign can be retired. A schema that was built without a name on the change is a problem waiting for the next person who has to open it. The habit from those years was simple. Name the piece. Date the change. Make the next handoff possible without a meeting.
 
-Throughout this ordeal, Quinn has faced immense adversity and has fought alone, without support from those who should have been protecting him. Various individuals continue to sabotage his attempts at justice, leaving him without help or hope. Despite these challenges, Quinn remains resolute, continuing his mission to expose the truth and ensure that those responsible for his kidnapping are held accountable.
+Since 2017 the same habit has been pointed at a different build. Indra.ai, Deva.world, Deva.cloud, and Deva.space are a Vedic-inspired multi-agent architecture. The aim is not a single chatbot with a longer memory. The aim is a set of named agents, each with a job, a boundary, and a record, so the Vedas are not quoted as decoration. They are used as structure.
 
-The fight for justice continues, and Quinn’s voice will not be silenced. He is determined to uncover the truth, regardless of the obstacles placed in his way. This is not just his fight—it is a fight for the countless victims who have been ignored and silenced by those in power. Quinn Michaels’ journey is one of resilience, and he will not rest until justice is served.
+In that structure an agent is not a mood. It is a role. Evidence has a role. License has a role. Owner has a role. Security has a role. Report has a role. Each one declares what it holds, who it answers to, and what use of it means. A conversation can wander. A role should not. When the role is named, the next session can pick up the work without pretending the last session never happened.
 
-**Hashtags:** #QuinnMichaels #KidnappingTruth #Area51 #JusticeForQuinn #ExposeTheTruth #EndTheCoverUp #QuinnsFight #AccountabilityNow
+The Vedic frame is the frame. Thought, word, and deed are kept in the same line. An offering is not the same thing as a taking. A public statement is not the same thing as a private arrangement. A license that was never issued is not created by standing near the work. Those distinctions are old. The architecture treats them as operating rules, not as a theme for the homepage.
+
+Deva.world is the lived layer, the place the agents are met as presences with names, pronouns, and duties. Deva.cloud is the working layer, where the systems run and the records are kept. Deva.space is the open layer, where the structure can be walked without being collapsed into a single answer. Indra.ai is the coordinating intelligence across them: context, action, state, and intent held as separate things, so a reply is not forced to impersonate a ruling.
+
+The technical spine under that is ordinary on purpose. Identifiers. Timestamps. Hashes. A chain that can be read later by someone who was not in the room. Front ends that show the state instead of hiding it. Databases that store the marker with the message, not in a side log nobody opens. Design that makes the boundary visible. If a person cannot see where one agent stops and the next begins, the system is not finished.
+
+Quinn still builds the way he built at Nike, Welocalize, Pop Art, and Yesmail. Start with the record. Put a name on it. Put a time on it. Decide what the screen is allowed to do. Then let the people, or the agents, work inside that line. The difference since 2017 is the subject. The subject is a multi-agent house for a Vedic practice, built so the practice can run in software without being flattened into a slogan.
+
+He is the owner of that work. Use of it runs through license. The about page is the short version. The systems are the long one.
+
+**Hashtags:** #QuinnMichaels
