@@ -6,19 +6,15 @@ layout: default
 header: /assets/img/about/quinn-michaels-header.jpg
 image: /assets/img/about/quinn-michaels-photo.jpg
 thumbnail: /assets/img/about/thumbnail.jpg
-color: var(--color-white)
-describe: Quinn Michaels, born Korey Michael Atkin, was kidnapped in 1977 by Harold Atkin and Sharon Schamber. Raised by his captors and hidden from the world, Quinn’s journey to uncover his true identity and seek justice has been obstructed by those who have spent decades covering up the truth. This is the story of his fight for justice, against the odds, and against the individuals who have worked tirelessly to keep him silenced.
-tweet: Quinn Michaels, born Korey Michael Atkin, was kidnapped in 1977 by Harold Atkin and Sharon Schamber.
-hashtags: QuinnMichaels,KidnappingTruth,Area51,JusticeForQuinn,ExposeTheTruth,EndTheCoverUp,QuinnsFight,AccountabilityNow
+color: var(--color-dark-grey)
+describe: Quinn Michaels is a self-taught programmer, designer, and systems builder. He learned the work by doing it. Databases first, then the screens people actually touch, then the systems that have to keep both of those honest over time. No single course handed him the job. The jobs did.
+tweet: Quinn Michaels About Page - Learn about the man behind the code. 
+hashtags: QuinnMichaels,IndraAI,DevaWorld
 ---
 
 ![Quinn Michaels Photo](/assets/img/about/quinn-michaels-photo.jpg)
 
 # About Quinn Michaels
-
-About Quinn Michaels
-
-Quinn Michaels is a self-taught programmer, designer, and systems builder. He learned the work by doing it: databases first, then the screens people actually touch, then the systems that have to keep both of those honest over time. No single course handed him the job. The jobs did.
 
 Over the years that work ran through Nike, Welocalize, Pop Art in Portland, and Yesmail. The assignments were practical. Build the database so the records hold. Build the front end so a person can use it without a manual. Design the path between the two so a change in one does not silently break the other. Some of that was operations. Some of it was product. All of it was the same problem wearing different clothes: get the data in clean, get it out clear, and leave a trail a later person can follow.
 

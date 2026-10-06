@@ -7,9 +7,9 @@ header: /assets/img/blog/header.jpg
 image: /assets/img/blog/image.jpg
 thumbnail: /assets/img/blog/thumbnail.jpg
 color: var(--color-white)
-describe: Quinn Michaels has spent over four decades trapped in a web of lies and manipulation. This blog serves as a platform to expose the truth about his kidnapping, the corruption, and the ongoing fight. Despite his please for help, Quinn continues to face resistance, abandonment, and dehumanization. 
-tweet: 47 years in the dark, abandoned by a broken system. Quinn Michaels deserves justice, but the fight for his rights continues.
-hashtags: QuinnMichaels,JusticeDenied,VictimsRights,CorruptionExposed
+describe: Quinn Michaels writes here about the work as it happens. Code, databases, front-end builds, and the design around them. The posts also cover artwork, singing bowls, and the daily practice behind Indra.ai, Deva.world, Deva.cloud, and Deva.space. Life and systems stay on the same page, named, dated, and left in a form the next session can pick up.
+tweet: Quinn Michaels Blog where you can follow the work as it happens.
+hashtags: QuinnMichaels,Blog
 ---
 
 <section class="posts">
